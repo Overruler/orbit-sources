@@ -1,0 +1,460 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.mortbay.jetty.server;version="6.1.23.v201012
+ 071420"
+Bundle-Vendor: %bundleProvider
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.mortbay.jetty.server.source
+Bundle-Version: 6.1.23.v201012071420
+Bundle-ManifestVersion: 2
+
+Name: org/mortbay/jetty/nio/BlockingChannelConnector.java
+SHA1-Digest: wYmtoP58SdZJxCA18fIcHax/jjk=
+
+Name: org/mortbay/servlet/jetty/IncludableGzipFilter.java
+SHA1-Digest: 3v8KV3vv1kUHSpFIWLmuUC+IaUI=
+
+Name: org/mortbay/jetty/deployer/WebAppDeployer.java
+SHA1-Digest: kYUYLUzObCQLP3265QDGNi1Pzgo=
+
+Name: org/mortbay/jetty/webapp/WebXmlConfiguration.java
+SHA1-Digest: wc0BGN8uiPASqDAuAfBk/Fsa1X8=
+
+Name: org/mortbay/io/Buffer.java
+SHA1-Digest: MbA361wyodmWK97mngbgurOGgh0=
+
+Name: org/mortbay/jetty/handler/DefaultHandler.java
+SHA1-Digest: IzRg8cby3cBwgRMCmwzS6Icx4UE=
+
+Name: org/mortbay/io/Portable.java
+SHA1-Digest: y5W0PgaAvVFHYVfBt6gPc2NSnWc=
+
+Name: org/mortbay/jetty/InclusiveByteRange.java
+SHA1-Digest: k5T75us5Yzifwpww5nMsDcq4pYI=
+
+Name: org/mortbay/jetty/AbstractGenerator.java
+SHA1-Digest: ENGNoITY/fGurxn2VFWmXmw080c=
+
+Name: org/mortbay/jetty/Connector.java
+SHA1-Digest: XwNw4EdOeSbX8ZTgcGt7iOKN5HI=
+
+Name: org/mortbay/jetty/Server.java
+SHA1-Digest: 00eKIysiJ/twFZhg3euxtiqdbUo=
+
+Name: org/mortbay/jetty/Response.java
+SHA1-Digest: 6CdCbssZHWW2e3II3+Hyhy041gk=
+
+Name: org/mortbay/jetty/nio/InheritedChannelConnector.java
+SHA1-Digest: 5+ppwGg9K1WHY9tklqcZ9s6y3AM=
+
+Name: org/mortbay/jetty/servlet/ServletHolder.java
+SHA1-Digest: IpsuNQ4xYpke3x48TcTcS3FIe5I=
+
+Name: org/mortbay/jetty/SessionIdManager.java
+SHA1-Digest: 6L45ALhOrkLIcFq/VcNE0znZsiM=
+
+Name: org/mortbay/io/BufferDateCache.java
+SHA1-Digest: PfKwENhS1OGWcQULzU9NaQe9Xbo=
+
+Name: org/mortbay/jetty/Main.java
+SHA1-Digest: DxYogEU2tQliJwsiaxsqr3zAwsw=
+
+Name: org/mortbay/jetty/handler/HandlerCollection.java
+SHA1-Digest: in53l+2anT08Px2Jb85qHH+i8r4=
+
+Name: org/mortbay/jetty/handler/HandlerList.java
+SHA1-Digest: nH9mPVwQ/LbPZGt8dVznvSzbdRY=
+
+Name: org/mortbay/resource/Resource.java
+SHA1-Digest: gG7uUIEtAK8qUKY4aqbpI5PfG+I=
+
+Name: org/mortbay/jetty/handler/AbstractStatisticsHandler.java
+SHA1-Digest: xq3iqKwdjU2cgkCl0YwrgYQ+9Xg=
+
+Name: org/mortbay/jetty/servlet/FilterHolder.java
+SHA1-Digest: ASaYh1840Lx63IZ8KFrnmsB/6aI=
+
+Name: org/mortbay/resource/ResourceFactory.java
+SHA1-Digest: H8POZDyT7S/AyvbtE/sK4AmWChA=
+
+Name: org/mortbay/jetty/ResourceCache.java
+SHA1-Digest: yOxQywmHotoAvZhyvwrYquRLwq8=
+
+Name: org/mortbay/jetty/security/BasicAuthenticator.java
+SHA1-Digest: EN0Q+LhwRhNQrlglSDC1eeBWGHI=
+
+Name: org/mortbay/io/EndPoint.java
+SHA1-Digest: C71/CEKu9qWd82ecWu5NBTWdqp8=
+
+Name: org/mortbay/jetty/security/Constraint.java
+SHA1-Digest: D4+eGC6euTWsZZNWWUsGb846Zxs=
+
+Name: org/mortbay/jetty/HttpFields.java
+SHA1-Digest: QpE+p3+mDvxg35TiiLiBdCv1Tak=
+
+Name: org/mortbay/jetty/security/FormAuthenticator.java
+SHA1-Digest: XtwklxF8au2UwADaYlLvUf4tqQ0=
+
+Name: org/mortbay/jetty/HttpMethods.java
+SHA1-Digest: kxD5iK6QRkoCjwUprvjkHaf8ue0=
+
+Name: org/mortbay/io/bio/SocketEndPoint.java
+SHA1-Digest: 1+2z0DBQaddQkA61wE1YbvcwA3M=
+
+Name: org/mortbay/jetty/HttpURI.java
+SHA1-Digest: c1+ivV1yc8qOdqt9/P7A/fuL8EU=
+
+Name: org/mortbay/io/nio/SelectorManager.java
+SHA1-Digest: 2R1A1TbSmTtJRe1wMM9hXiyZr2o=
+
+Name: org/mortbay/jetty/NCSARequestLog.java
+SHA1-Digest: 2rFuDY4+IS2Klbwgn1LMkhW7Exs=
+
+Name: org/mortbay/jetty/webapp/Configuration.java
+SHA1-Digest: rxsFHQm8wdiXRb04tnK4Saei83A=
+
+Name: org/mortbay/jetty/security/SslSocketConnector.java
+SHA1-Digest: ILVVm435I9AL2PkEEhkIkSSFPSI=
+
+Name: org/mortbay/jetty/security/HashSSORealm.java
+SHA1-Digest: mMhJGB3y1wBmfFna9PeHySWuAGo=
+
+Name: org/mortbay/io/nio/IndirectNIOBuffer.java
+SHA1-Digest: JkRTkkdzJyvUzbfD7dqOoOempUw=
+
+Name: org/mortbay/jetty/webapp/JettyWebXmlConfiguration.java
+SHA1-Digest: 2KJ5d8MLRIn7PoIwGvYEgrjJ6y0=
+
+Name: org/mortbay/jetty/handler/ResourceHandler.java
+SHA1-Digest: ViqhbxRXRx8PMHP3rd4ycbylLwI=
+
+Name: org/mortbay/io/bio/StreamEndPoint.java
+SHA1-Digest: VGnRL+DS7sJMI7Hw3NmowYJ+zKc=
+
+Name: org/mortbay/jetty/Generator.java
+SHA1-Digest: IImxJsUIcj1YkLJLmS/d25PTPMQ=
+
+Name: org/mortbay/io/BufferCache.java
+SHA1-Digest: bREgPfHBA6lLo0Dvxf2GK43QHCg=
+
+Name: org/mortbay/jetty/webapp/WebInfConfiguration.java
+SHA1-Digest: MgkTOsZxkN400bAL4teL9hJWCGw=
+
+Name: org/mortbay/jetty/servlet/Invoker.java
+SHA1-Digest: Q113E6kBNzuGwTms//LXwAQpjis=
+
+Name: org/mortbay/jetty/Request.java
+SHA1-Digest: GHjeSJC6RPT11q5JlwVYAQZAWC0=
+
+Name: org/mortbay/io/WriterOutputStream.java
+SHA1-Digest: rUXEgbVpgFu0bHxGgPatv7BlTcI=
+
+Name: org/mortbay/jetty/security/Authenticator.java
+SHA1-Digest: 5hgVwqob17OsT5su2bXq7SKQ/bQ=
+
+Name: org/mortbay/jetty/servlet/AbstractSessionManager.java
+SHA1-Digest: TvHDr5abR2y1GIj783D52YwpjFs=
+
+Name: org/mortbay/jetty/servlet/FilterMapping.java
+SHA1-Digest: HUHqtCyBwOA+tS6gQT4XIak9dpg=
+
+Name: org/mortbay/jetty/security/ConstraintMapping.java
+SHA1-Digest: St8oozMiJFClB/OHBffuj6rm6zo=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: K4uBUimqimHkg/tLoFiLi2xJGJA=
+
+Name: org/mortbay/io/nio/NIOBuffer.java
+SHA1-Digest: +SpIb3amg/N0k6lfYsktVL+DOxA=
+
+Name: org/mortbay/jetty/servlet/SessionHandler.java
+SHA1-Digest: x/U+1uFvx7AF3O6ekns9Jv3ElB0=
+
+Name: org/mortbay/io/bio/StringEndPoint.java
+SHA1-Digest: C8zT47lruGTdkQ5tBRdpxafWPSE=
+
+Name: org/mortbay/io/Buffers.java
+SHA1-Digest: b11uQxvoO4IVolsDqDTa/9aJseE=
+
+Name: org/mortbay/jetty/handler/AbstractHandler.java
+SHA1-Digest: ACw5N7ea9x+DgYRLZo3ENoeFvrY=
+
+Name: org/mortbay/jetty/handler/StatisticsHandler.java
+SHA1-Digest: CEJmYZmYVT8Rew2BddkB9LbE1A4=
+
+Name: org/mortbay/jetty/HttpHeaderValues.java
+SHA1-Digest: NGOAqV9teWTm+zFM86WEt+bD72E=
+
+Name: about_files/NOTICE.txt
+SHA1-Digest: 9B8HMU2Nhq9E7QRHDBvcBJVemR8=
+
+Name: org/mortbay/jetty/security/PKCS12Import.java
+SHA1-Digest: 0NjpA3SHk8BHfSXKLG2CPMSPFbk=
+
+Name: org/mortbay/jetty/EncodedHttpURI.java
+SHA1-Digest: FQ6TEeHsuYu0ED4J/BpZENsIAxE=
+
+Name: org/mortbay/jetty/EofException.java
+SHA1-Digest: +HbbOiuB4rtYmmaxcu6QHyxhSCA=
+
+Name: org/mortbay/jetty/servlet/HashSessionManager.java
+SHA1-Digest: 3StI0IUjFt9uzKpjhXbldAzeOHk=
+
+Name: about.html
+SHA1-Digest: ohuZhXWosLDQ1UVgVJtIEpQvEVI=
+
+Name: org/mortbay/jetty/servlet/DefaultServlet.java
+SHA1-Digest: fZco6ZP3KPsAj6yZ4qGTKHr+WnM=
+
+Name: org/mortbay/io/ByteArrayEndPoint.java
+SHA1-Digest: 8o8eSZzw0+gKUTKmhBv8xyfVquI=
+
+Name: org/mortbay/jetty/webapp/TagLibConfiguration.java
+SHA1-Digest: X9LYNwthfSNnP8XXPpSW6EI3UC0=
+
+Name: org/mortbay/jetty/AbstractBuffers.java
+SHA1-Digest: 18VGOU+SK69WGRjFEDqxulgKapw=
+
+Name: org/mortbay/io/SimpleBuffers.java
+SHA1-Digest: VWQHcffwX73gfms/K4Cy4NmzrsI=
+
+Name: org/mortbay/xml/XmlConfiguration.java
+SHA1-Digest: D3zX07uq0FAloqU3WjrWB4OF+uA=
+
+Name: org/mortbay/jetty/handler/RequestLogHandler.java
+SHA1-Digest: 5jJn10rZYuBbhhAE2NW/lq6BBF4=
+
+Name: org/mortbay/jetty/deployer/FileConfigurationManager.java
+SHA1-Digest: s4fcaFL3gwXakcS1Q+vkVznh9XM=
+
+Name: org/mortbay/jetty/servlet/PathMap.java
+SHA1-Digest: +qsbIm7b54yVcSukPhDVuaPqvyY=
+
+Name: org/mortbay/jetty/HttpGenerator.java
+SHA1-Digest: sdTm4sLrRLFmhLarKfnaYn5LFvs=
+
+Name: org/mortbay/io/RuntimeIOException.java
+SHA1-Digest: DcRt0r9Tdap7qL3Z2WcSGZRhcY4=
+
+Name: org/mortbay/jetty/Handler.java
+SHA1-Digest: r/9NvcnZEfMj2XESAxGmzz6yMtw=
+
+Name: org/mortbay/jetty/handler/ContextHandler.java
+SHA1-Digest: uS67sOUufTRQ71IqsZLL3KblrfI=
+
+Name: org/mortbay/jetty/HttpException.java
+SHA1-Digest: a21mRZ1LkUB65kAFvDXXlYnJxJQ=
+
+Name: org/mortbay/jetty/webapp/WebAppClassLoader.java
+SHA1-Digest: dHJr9vTEJk5+nygEppkLNnejPvw=
+
+Name: org/mortbay/io/ByteArrayBuffer.java
+SHA1-Digest: 6WUVz4c1dVznk8gYoRXLkmthcCE=
+
+Name: org/mortbay/jetty/servlet/Holder.java
+SHA1-Digest: m/2F6r+FEK3caDd+4kRKUxO2Uc8=
+
+Name: org/mortbay/jetty/nio/AbstractNIOConnector.java
+SHA1-Digest: mNWRzjGdz4hlQOdnpRYYYbuV2GY=
+
+Name: org/mortbay/io/View.java
+SHA1-Digest: ng8XLJJUXXDJAebnvZ7fs0hJySQ=
+
+Name: org/mortbay/jetty/nio/NIOConnector.java
+SHA1-Digest: bBWcEJOB6+NzkW3gGNbhRNAQi8M=
+
+Name: org/mortbay/resource/JarFileResource.java
+SHA1-Digest: QdKe95C/5IrlMn0VEcQsZgza4LM=
+
+Name: org/mortbay/jetty/servlet/ServletMapping.java
+SHA1-Digest: U1D9fER8SWsXcQCmbURRu/VHZVQ=
+
+Name: org/mortbay/resource/FileResource.java
+SHA1-Digest: Tc9/1tFYC0at2LZcyYmS8/Syl2E=
+
+Name: org/mortbay/io/AbstractBuffer.java
+SHA1-Digest: U8R4pCNgjDMKH1UQ0dX0/Fxkc4U=
+
+Name: org/mortbay/jetty/servlet/ServletHandler.java
+SHA1-Digest: Ch3p9QAgdVKtFO+8EoYH6dl/EHw=
+
+Name: org/mortbay/jetty/deployer/ConfigurationManager.java
+SHA1-Digest: YeyPNFsD8f10TBfGYRRddKtiv0w=
+
+Name: org/mortbay/jetty/deployer/ContextDeployer.java
+SHA1-Digest: wt6IFePOCSNcec++RJUD+9XYeyQ=
+
+Name: org/mortbay/jetty/security/HashUserRealm.java
+SHA1-Digest: xrid+TXJ1xEc/EQb052AJ6bTaqA=
+
+Name: org/mortbay/jetty/HttpParser.java
+SHA1-Digest: HI6ZApQILuRGFs+90t4F2xQ7Q9I=
+
+Name: org/mortbay/xml/XmlParser.java
+SHA1-Digest: BaGFhi4ihRjwYLuYG3EHNryYc2A=
+
+Name: org/mortbay/io/UncheckedPrintWriter.java
+SHA1-Digest: SjDUuHxLLwnqnXVjnO8F6EhD31I=
+
+Name: org/mortbay/jetty/LocalConnector.java
+SHA1-Digest: 3nR8rsIz1ypZDxUaPFatZbgaNG0=
+
+Name: org/mortbay/jetty/nio/SelectChannelConnector.java
+SHA1-Digest: 66JBLxRQPmvOzgyAPiqbNrlG+M0=
+
+Name: org/mortbay/jetty/handler/DebugHandler.java
+SHA1-Digest: ZhbajjNJaR3I6TeGybfBVDyhAFE=
+
+Name: org/mortbay/jetty/security/JDBCUserRealm.java
+SHA1-Digest: 0Pe8ixvC8wHNF8VkpRUUY63/Q4Q=
+
+Name: org/mortbay/jetty/HttpStatus.java
+SHA1-Digest: uaD8jlIy18GYnlSP6fqF5eVC9e8=
+
+Name: org/mortbay/jetty/HttpOnlyCookie.java
+SHA1-Digest: LF6E/OIFHBu2+iW8IhCcNXBZLKc=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/mortbay/resource/JarResource.java
+SHA1-Digest: XYczVEv5ZY0LNj54i3lCWqY4zao=
+
+Name: org/mortbay/jetty/SessionManager.java
+SHA1-Digest: vBR+O9h2wy7oAUYwJjRy3G+03ks=
+
+Name: org/mortbay/io/nio/DirectNIOBuffer.java
+SHA1-Digest: KudcOlYzT319wiLlxM+EN/o72Ac=
+
+Name: org/mortbay/io/BufferUtil.java
+SHA1-Digest: goHfL+JYeG8tXyb4cnmhS6sZV+w=
+
+Name: org/mortbay/io/Connection.java
+SHA1-Digest: 1U8TfndyPC6Aybd6Bfw6yFazs6U=
+
+Name: org/mortbay/jetty/HttpConnection.java
+SHA1-Digest: CSVzBJWJ2HUnZ+UyrAyeyYgQYXk=
+
+Name: org/mortbay/jetty/security/SSORealm.java
+SHA1-Digest: yXqJP2BtrM82XmMJTBAPR1+MVlA=
+
+Name: org/mortbay/io/nio/ChannelEndPoint.java
+SHA1-Digest: 79ckrDflm+N5SdNZ05mvCc2Yk2s=
+
+Name: org/mortbay/jetty/security/Password.java
+SHA1-Digest: hYi0EaROkHIq448lERplL/Ewn/w=
+
+Name: org/mortbay/jetty/security/DigestAuthenticator.java
+SHA1-Digest: PqBgfUjepHxGtTzYkBQRQrI7++w=
+
+Name: org/mortbay/jetty/Parser.java
+SHA1-Digest: dDDoXCHZPf5tTR6XS4u0Mcu96pA=
+
+Name: org/mortbay/jetty/handler/MovedContextHandler.java
+SHA1-Digest: x9vwQiJM1NwBHSptGtWiApU62kQ=
+
+Name: org/mortbay/jetty/handler/AbstractHandlerContainer.java
+SHA1-Digest: XshEtrJK9PUMRoZOr2tVI/hSwJ4=
+
+Name: org/mortbay/jetty/handler/ContextHandlerCollection.java
+SHA1-Digest: fo6xx/CD5gNn/9yI3g8PRFbYF1c=
+
+Name: org/mortbay/jetty/servlet/Context.java
+SHA1-Digest: wxtm4/n2UadqdbwyuG0R6deQJ1w=
+
+Name: org/mortbay/jetty/security/SecurityHandler.java
+SHA1-Digest: u1/gMyyuK8GxFmSqg6E2ADDpm3c=
+
+Name: org/mortbay/jetty/MimeTypes.java
+SHA1-Digest: sDmnWm3IE3MpZRTqueC38xFiQwY=
+
+Name: org/mortbay/jetty/HandlerContainer.java
+SHA1-Digest: TcwdRhJxnJZInSy+NyfdOnvELsE=
+
+Name: org/mortbay/jetty/security/ClientCertAuthenticator.java
+SHA1-Digest: 12olh4C/k2cpasAXScCEK+BGZKM=
+
+Name: plugin.properties
+SHA1-Digest: bQF6p0Taa/9vsOqYEaurbJ2uc7I=
+
+Name: org/mortbay/jetty/security/ServletSSL.java
+SHA1-Digest: hfi1S42Hd7ENT10EfJbN0V3SPf0=
+
+Name: org/mortbay/resource/URLResource.java
+SHA1-Digest: k/XDVDR/BsjOeupIk6m4ferqaFA=
+
+Name: org/mortbay/jetty/bio/SocketConnector.java
+SHA1-Digest: pikCwqZlwaTQnLBWu/sScTAsvew=
+
+Name: org/mortbay/jetty/servlet/AbstractSessionIdManager.java
+SHA1-Digest: ZbJr5qg+tQctsunV37IHTkJxP68=
+
+Name: org/mortbay/jetty/HttpContent.java
+SHA1-Digest: JcK0Kzt2db5etjPFSL085RxWw/A=
+
+Name: org/mortbay/io/nio/SelectChannelEndPoint.java
+SHA1-Digest: cFUoOsEqhcMkxTyVeQhOG6JERDE=
+
+Name: org/mortbay/jetty/RetryRequest.java
+SHA1-Digest: 4GCkBZQhKrxW1rM4GFpWP9MUTUs=
+
+Name: org/mortbay/jetty/handler/ErrorHandler.java
+SHA1-Digest: 9CuVhtv18Zdat53nTm8IYW3FFcc=
+
+Name: org/mortbay/jetty/HttpVersions.java
+SHA1-Digest: UaHvE7zv/AjC3o8SwaD0z9J+rMY=
+
+Name: org/mortbay/jetty/handler/RewriteHandler.java
+SHA1-Digest: 3zbD3oXd+m27Toxz4smxNUPNymU=
+
+Name: org/mortbay/jetty/AbstractConnector.java
+SHA1-Digest: 0L5GLLFeZt5fff8KiFmuI04T8ZI=
+
+Name: org/mortbay/jetty/security/B64Code.java
+SHA1-Digest: LiMrq6KIwtxR7jon3dn4LxCmrl0=
+
+Name: org/mortbay/jetty/security/UnixCrypt.java
+SHA1-Digest: yhCLqrok0XeFbVVHKzua133kn64=
+
+Name: org/mortbay/jetty/security/UserRealm.java
+SHA1-Digest: 9hsJhBYAWNlo9bcDIJq2T3dRsEM=
+
+Name: org/mortbay/jetty/RequestLog.java
+SHA1-Digest: 0BK6W5yzg5DrgLelCzP5OiGwIiw=
+
+Name: org/mortbay/resource/ResourceCollection.java
+SHA1-Digest: 8VKB+KLhJPCtXIJTZ+Mlnb8rSq0=
+
+Name: org/mortbay/jetty/servlet/HashSessionIdManager.java
+SHA1-Digest: nXss2E+ewQ4din3jQaenJXHs1u4=
+
+Name: org/mortbay/jetty/HttpHeaders.java
+SHA1-Digest: 6O5NPfn4BWGeQ+BOLclKMuNzRDE=
+
+Name: org/mortbay/jetty/servlet/Dispatcher.java
+SHA1-Digest: XKaPOztSAMlykDlhZeIpRooV/78=
+
+Name: org/mortbay/jetty/handler/HandlerWrapper.java
+SHA1-Digest: VPTNzN/ZXUERW2Sv2ZKntmCRtRw=
+
+Name: org/mortbay/jetty/security/HTAccessHandler.java
+SHA1-Digest: 2cSz8hsDohUIG9oLqGHksJqUHL8=
+
+Name: org/mortbay/jetty/servlet/ErrorPageErrorHandler.java
+SHA1-Digest: bo9/CXigDlciz6b0iYIeoSPmj8A=
+
+Name: org/mortbay/jetty/HttpTokens.java
+SHA1-Digest: 3ynXQBuCb2oTP5MvQ4MvdARzAbs=
+
+Name: org/mortbay/resource/BadResource.java
+SHA1-Digest: 9eex92kYwsjuU0Tv2z6i6n3JWN8=
+
+Name: org/mortbay/jetty/webapp/WebAppContext.java
+SHA1-Digest: w89EewDLs3zt6apbhKzmladUuEk=
+
+Name: org/mortbay/jetty/security/Credential.java
+SHA1-Digest: soEOgLwKzWDnChPEQfNHrsBkgsw=
+
+Name: org/mortbay/jetty/HttpSchemes.java
+SHA1-Digest: FQnExikJ7DHdXyXKkv8CD2ROGLA=
+

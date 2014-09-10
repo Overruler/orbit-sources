@@ -1,0 +1,293 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 3UN4aiHW7iQeEkGTU+ez2AmaA1k=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: l0pkuBTHrjC80YCo4Gp+bgNPhsE=
+
+Name: org/tukaani/xz/IA64Options.java
+SHA1-Digest: z1/HcHbVeWZhH2wA4sulP83P7Oo=
+
+Name: org/tukaani/xz/FinishableWrapperOutputStream.java
+SHA1-Digest: Eht+/VVnolitza/3oJtBmRkhPa0=
+
+Name: org/tukaani/xz/lzma/LZMACoder.java
+SHA1-Digest: C/TFtrom+1+3AGXxj+C37s5UuH8=
+
+Name: org/tukaani/xz/index/IndexBase.java
+SHA1-Digest: FBLOAdXGj6uht8KbKyLtiTX7KDg=
+
+Name: org/tukaani/xz/package-info.java
+SHA1-Digest: sjglToYQzoALa8zMphuJRZFFD7Y=
+
+Name: org/tukaani/xz/lzma/LZMADecoder.java
+SHA1-Digest: Iwy8g8oeFB69/YQKiUZR8wbAKz8=
+
+Name: org/tukaani/xz/MemoryLimitException.java
+SHA1-Digest: tSYCeEaz7lCGkTdH8tnMjWz+1fA=
+
+Name: org/tukaani/xz/FilterEncoder.java
+SHA1-Digest: TDTUPdQuKJ+T2CYuONfjuOxAjvE=
+
+Name: org/tukaani/xz/LZMA2Encoder.java
+SHA1-Digest: vW7+pJTsGrvf0m3pNxUWSoRC84g=
+
+Name: org/tukaani/xz/simple/ARMThumb.java
+SHA1-Digest: O33HmBbZ2JT9SvciCL36QPdUzv8=
+
+Name: org/tukaani/xz/DeltaOptions.java
+SHA1-Digest: 2jSyC7JtF7gG3hqnwGApRrFq3wI=
+
+Name: org/tukaani/xz/PowerPCOptions.java
+SHA1-Digest: iJzkFad3FoY7V+lW1IJX7hCxH5k=
+
+Name: org/tukaani/xz/delta/DeltaCoder.java
+SHA1-Digest: L1KGDMkELO8R/07VXEL3IGpqFqw=
+
+Name: org/tukaani/xz/lz/Hash234.java
+SHA1-Digest: YtjyI1YuOYtnN1W7+igx0S4rGAM=
+
+Name: org/tukaani/xz/XZOutputStream.java
+SHA1-Digest: WBBArwKn22a4dtylONtXL0l1BsU=
+
+Name: org/tukaani/xz/delta/DeltaDecoder.java
+SHA1-Digest: 7upj2Vwgs7yfYF/ZBuMmNkUmOE8=
+
+Name: org/tukaani/xz/lzma/Optimum.java
+SHA1-Digest: AwKw48d+xKTIgRzlAz5WgbGBZkc=
+
+Name: org/tukaani/xz/check/None.java
+SHA1-Digest: 6Qx2FJrKURNZYwll0cQdqVmxfoY=
+
+Name: org/tukaani/xz/rangecoder/RangeDecoder.java
+SHA1-Digest: m7+heu945UhCvj453sMj8fal/Ko=
+
+Name: org/tukaani/xz/BlockInputStream.java
+SHA1-Digest: xExWmLl1ZaCwT53p24LabfEJb2c=
+
+Name: org/tukaani/xz/FilterCoder.java
+SHA1-Digest: 254m1No5TOf3821mX0p6e9ouK9A=
+
+Name: org/tukaani/xz/check/CRC32.java
+SHA1-Digest: tJEDMq4LT6gOVFRnDSQig6oBKg4=
+
+Name: org/tukaani/xz/check/CRC64.java
+SHA1-Digest: TAMYSGI7MDugDoT7Di+rQAgit8g=
+
+Name: org/tukaani/xz/simple/SPARC.java
+SHA1-Digest: YwGuLYGN3kHvEw0YbORDF1Ycx2Q=
+
+Name: org/tukaani/xz/lz/HC4.java
+SHA1-Digest: ure/RAaY2JowqWmWp/nr+vxXvsc=
+
+Name: org/tukaani/xz/simple/SimpleFilter.java
+SHA1-Digest: kEcQRGIcpTB9mKCgTYNQF9knsa8=
+
+Name: org/tukaani/xz/UnsupportedOptionsException.java
+SHA1-Digest: r+O3myMxosNiGxENOIZO9/AxPkw=
+
+Name: org/tukaani/xz/BCJOptions.java
+SHA1-Digest: 7I/2zeLFiVxHBGEr/lfj74Tm8jA=
+
+Name: org/tukaani/xz/LZMA2Coder.java
+SHA1-Digest: IUPx78qQJjcIJ7vvWOodNxg+FIU=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/tukaani/xz/CountingOutputStream.java
+SHA1-Digest: SwznSzRoHMbiX+PgGjkYh5QzyGc=
+
+Name: org/tukaani/xz/ARMThumbOptions.java
+SHA1-Digest: WWCphopqPTMBq9HdwF4bmuKdO90=
+
+Name: org/tukaani/xz/lzma/LZMAEncoder.java
+SHA1-Digest: RWFT3LF1zMaF+PUnSqH0HfV/wug=
+
+Name: org/tukaani/xz/DeltaDecoder.java
+SHA1-Digest: /Cdlw8DHghuDgnLEwu//j1yvlJE=
+
+Name: org/tukaani/xz/lzma/LZMAEncoderFast.java
+SHA1-Digest: kxZAx9NM9ybPud6v+pU+EBctYe8=
+
+Name: org/tukaani/xz/SPARCOptions.java
+SHA1-Digest: CBM9PsCU4plpgoX06J2cUtCWJTA=
+
+Name: org/tukaani/xz/SimpleInputStream.java
+SHA1-Digest: UeP428L7PLJDxJVJpuGItNMKdOM=
+
+Name: org/tukaani/xz/UncompressedLZMA2OutputStream.java
+SHA1-Digest: /6YWi/TVNLlY5TJd8D9S6ic7k4I=
+
+Name: org/tukaani/xz/simple/IA64.java
+SHA1-Digest: LWh32j+JWk9i8BOYdzfe8mY3CC4=
+
+Name: org/tukaani/xz/ARMOptions.java
+SHA1-Digest: NOkmpiAeBo0wdCvontCnhDJpC2E=
+
+Name: org/tukaani/xz/lz/BT4.java
+SHA1-Digest: teAOj2oHp2KZbIK2Sdp1bjt/Ais=
+
+Name: org/tukaani/xz/LZMA2OutputStream.java
+SHA1-Digest: wQSrmfUheRwYywC4rmywZjWC12E=
+
+Name: org/tukaani/xz/lz/CRC32Hash.java
+SHA1-Digest: fJC8I8gSjKex5uFDCuSWBpMq6F0=
+
+Name: org/tukaani/xz/simple/ARM.java
+SHA1-Digest: uA4AxjNeBPEkNRI7l3WMTIDhxMI=
+
+Name: org/tukaani/xz/BlockOutputStream.java
+SHA1-Digest: HOq3bVPjuXxsYONKT1zaXOehd7c=
+
+Name: org/tukaani/xz/BCJCoder.java
+SHA1-Digest: pfFY4fPQQJahstRN7GDe809iHW8=
+
+Name: org/tukaani/xz/delta/DeltaEncoder.java
+SHA1-Digest: TU/5slT2hWKDQS7m227nHfJi/b8=
+
+Name: org/tukaani/xz/BCJDecoder.java
+SHA1-Digest: SZ1N25Q5ICh46QCxrL8Ky4glhBQ=
+
+Name: org/tukaani/xz/XZIOException.java
+SHA1-Digest: Krk9rxy7nbMX4z4U9Pt+OE8a5G8=
+
+Name: org/tukaani/xz/FilterOptions.java
+SHA1-Digest: 2wobW4bIHmgETsFg+Moqex2Ma+g=
+
+Name: org/tukaani/xz/index/IndexRecord.java
+SHA1-Digest: VYc5zkRQLltecpuAgBACqVARdPA=
+
+Name: org/tukaani/xz/rangecoder/RangeEncoder.java
+SHA1-Digest: KwLNY6INbwCikLUKebb53OQvIJo=
+
+Name: org/tukaani/xz/lz/LZDecoder.java
+SHA1-Digest: NO7MdLuskjiUqxnrKTUXh3qN2A4=
+
+Name: org/tukaani/xz/lzma/LZMAEncoderNormal.java
+SHA1-Digest: n0TSBpogKGJSGbZndQs8J4aawDI=
+
+Name: org/tukaani/xz/SimpleOutputStream.java
+SHA1-Digest: UZp1k8D8JzFpyht8ODu2ZiB8LVk=
+
+Name: org/tukaani/xz/DeltaInputStream.java
+SHA1-Digest: TA3+2tvSvkpuCi0JErz7es85WMA=
+
+Name: org/tukaani/xz/SingleXZInputStream.java
+SHA1-Digest: gAaZCsFD/lNJss7sYfWZZnYA6ZY=
+
+Name: org/tukaani/xz/index/IndexDecoder.java
+SHA1-Digest: tAM/mqfsARML4TI4xWFkM593LwE=
+
+Name: org/tukaani/xz/LZMA2Options.java
+SHA1-Digest: p4iC7B3L/E3w3qtQ3KvQH6h8UVM=
+
+Name: org/tukaani/xz/check/SHA256.java
+SHA1-Digest: 0Q4Y9rbfR+GZqys23oKQjpKyWmE=
+
+Name: plugin.properties
+SHA1-Digest: UWykirUY1bNkJCLW1bTd/Nr2Ccs=
+
+Name: org/tukaani/xz/X86Options.java
+SHA1-Digest: ac1oyRSdFpd/FEOrnEOeX/uobcE=
+
+Name: org/tukaani/xz/SeekableInputStream.java
+SHA1-Digest: pbV6n9q5A41c3/T4nqM51xrbyyc=
+
+Name: org/tukaani/xz/SeekableXZInputStream.java
+SHA1-Digest: cs+c9QWUoR35Iuh9KgbwDrshaC0=
+
+Name: org/tukaani/xz/DeltaEncoder.java
+SHA1-Digest: 3XKLg77lj3oPpYUrU8IalLzi0fM=
+
+Name: org/tukaani/xz/IndexIndicatorException.java
+SHA1-Digest: YXwSB3FlzZOjl/JIsoRBYdlBhgM=
+
+Name: org/tukaani/xz/common/DecoderUtil.java
+SHA1-Digest: wITgqXsgIsuq9Xo1qpBRfl6T3Dk=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: eh33Gk4ZAlEJGt8Rs3J0cZrAtT0=
+
+Name: org/tukaani/xz/rangecoder/RangeCoder.java
+SHA1-Digest: qiO/w7Lk7TkpK+QBP0FDxCWVDTc=
+
+Name: org/tukaani/xz/RawCoder.java
+SHA1-Digest: SkppgZv4P9tt4traa2wmyYHqX1I=
+
+Name: org/tukaani/xz/FilterDecoder.java
+SHA1-Digest: F8zLo7Ij4300s2JPFkG8CkRBWCI=
+
+Name: org/tukaani/xz/simple/PowerPC.java
+SHA1-Digest: BILXOzfypcfb/Ve7c3Pn4176Wrw=
+
+Name: org/tukaani/xz/simple/X86.java
+SHA1-Digest: 0rSkOoYWNfig/GIaW6YtYKzzGRY=
+
+Name: org/tukaani/xz/XZInputStream.java
+SHA1-Digest: 4foLXPP6DMN7QtXrzrJFOCZ8F78=
+
+Name: org/tukaani/xz/common/Util.java
+SHA1-Digest: cL48meUqDwh0om/JDwMI5azq7+Q=
+
+Name: org/tukaani/xz/LZMA2Decoder.java
+SHA1-Digest: BH/tD74dD293NxQ5d/8alfokVwA=
+
+Name: org/tukaani/xz/BCJEncoder.java
+SHA1-Digest: F71qcgfB0gY1V4hP4he7/uvWGXE=
+
+Name: org/tukaani/xz/index/IndexHash.java
+SHA1-Digest: X7n1q6BFwA31djnp3FrSeuX+StA=
+
+Name: org/tukaani/xz/lz/Matches.java
+SHA1-Digest: MJF2qIR5e+FuQrry0n3C13x2nhg=
+
+Name: org/tukaani/xz/check/Check.java
+SHA1-Digest: MTFMiIPGIktPIGiAvngyIwq1cP8=
+
+Name: org/tukaani/xz/FinishableOutputStream.java
+SHA1-Digest: +A0oJVJ9vrHNNM2w7BT43UsG7oY=
+
+Name: org/tukaani/xz/index/BlockInfo.java
+SHA1-Digest: pPT+rfnVCJ3xkHMqbuZhkYPcPK4=
+
+Name: org/tukaani/xz/DeltaCoder.java
+SHA1-Digest: wtxZO6txbS8wY0g1nevrQwj9OmA=
+
+Name: org/tukaani/xz/lz/LZEncoder.java
+SHA1-Digest: faKjn1ARJ+bVE/bQSMQTFBqMmhc=
+
+Name: org/tukaani/xz/SeekableFileInputStream.java
+SHA1-Digest: m53EC13tOaIzs6RkM3yYBAeUSdI=
+
+Name: about.html
+SHA1-Digest: crs0q0azpdoixei+aXTjJ/vtEpQ=
+
+Name: org/tukaani/xz/DeltaOutputStream.java
+SHA1-Digest: 3Z3qDqj+6eQER1oi9u88UxZXxNk=
+
+Name: org/tukaani/xz/CountingInputStream.java
+SHA1-Digest: glzW7afCtJyXFZkCFEjGZOr+9BU=
+
+Name: org/tukaani/xz/index/IndexEncoder.java
+SHA1-Digest: OCWJYnBAzcqFBLkrZw3voqodSNc=
+
+Name: org/tukaani/xz/XZFormatException.java
+SHA1-Digest: 8dxWHm4yB08wEJlPp/YeD3TtZKE=
+
+Name: org/tukaani/xz/lzma/State.java
+SHA1-Digest: JHdqPDdkkv7gemethoBvtpKBLt8=
+
+Name: org/tukaani/xz/common/StreamFlags.java
+SHA1-Digest: 3Bf2BrCl9DK2nDCujJQln2awgqE=
+
+Name: org/tukaani/xz/XZ.java
+SHA1-Digest: vTfmYh4+AtmAFkvDth1ItVo4C60=
+
+Name: org/tukaani/xz/CorruptedInputException.java
+SHA1-Digest: tc95s1Hbpy919r18/LRPK6DrIME=
+
+Name: org/tukaani/xz/LZMA2InputStream.java
+SHA1-Digest: Kb3B3spDxx7y9EI9x64xl9pXFig=
+
+Name: org/tukaani/xz/common/EncoderUtil.java
+SHA1-Digest: FBQAZqCtHjw0f3MC6Ph+shPVVlI=
+

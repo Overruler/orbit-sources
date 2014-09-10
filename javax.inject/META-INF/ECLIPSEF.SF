@@ -1,0 +1,35 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: WXbJlgsxhqYEGbiOiFvSEk2cMxU=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: oTjJiz0N8Nf/P6s4pnxqT7gemsE=
+
+Name: javax/inject/Scope.java
+SHA1-Digest: 627LrQGrVBMQ8GzRtoUZRll4INw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: javax/inject/package-info.java
+SHA1-Digest: JqcabPoT4PrRh8KHm8rtFYzjaZQ=
+
+Name: javax/inject/Inject.java
+SHA1-Digest: 3in0yn7dtGQnIkLbbB1wH0BLCqE=
+
+Name: javax/inject/Provider.java
+SHA1-Digest: jeJWyvy5JPFYZ0JbTfXQ1ayWo+0=
+
+Name: javax/inject/Singleton.java
+SHA1-Digest: w8trEUzP5Ivzbx7iTQnq3oO8KaM=
+
+Name: javax/inject/Qualifier.java
+SHA1-Digest: 2cG7FstR+GP4E7JcuK4aV8yZSSU=
+
+Name: about.html
+SHA1-Digest: Q9W+GTZVq7LJ+AD0i+nRu9dzLFw=
+
+Name: javax/inject/Named.java
+SHA1-Digest: AcE7s0McpRyp068ZpAJ8QCKyxGY=
+
+Name: plugin.properties
+SHA1-Digest: +cZS9XqukXFCbWwzckmqfjgtSpM=
+

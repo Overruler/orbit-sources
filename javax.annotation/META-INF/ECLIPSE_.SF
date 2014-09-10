@@ -1,0 +1,65 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: x0JtXDikWwE27cqKxSYVEF/pPCU=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 10Arn55HZMFGFyav4XuiM+IJFUg=
+
+Name: javax/annotation/PostConstruct.java
+SHA1-Digest: DkJ5ERrSapyKwLdmcyl3AXBsYAE=
+
+Name: javax/annotation/security/DenyAll.java
+SHA1-Digest: KmAqAtvd/IFxiQqAvtHEXjyuDiI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: javax/annotation/Priority.java
+SHA1-Digest: TU6yF3vkW+dfsZefrdk5a4Rr0xM=
+
+Name: javax/annotation/Generated.java
+SHA1-Digest: /ldH6EnoIiujWT3lkJbeHxC0iMo=
+
+Name: javax/annotation/ManagedBean.java
+SHA1-Digest: NArFSi77xCEdwjpGMN8y2VNDvZ8=
+
+Name: about.html
+SHA1-Digest: 3HtCA0UT8QDiOfCzJxhjknzbn/s=
+
+Name: plugin.properties
+SHA1-Digest: WPYhNsdZKs0BEg/ajrOMKQRcn9Y=
+
+Name: javax/annotation/sql/DataSourceDefinition.java
+SHA1-Digest: 8BqPINysfoBwScDjkjslAKA78so=
+
+Name: javax/annotation/security/PermitAll.java
+SHA1-Digest: it0Leo27Kbrz6cFOXiGQy0bRNjo=
+
+Name: javax/annotation/PreDestroy.java
+SHA1-Digest: 8swYj9NUOBLX0dp2hVA2QqBZjj4=
+
+Name: javax/annotation/Resources.java
+SHA1-Digest: k4sSIh03AaaWp5Or7BUfuklKwWA=
+
+Name: about_files/LICENSE_CDDL.txt
+SHA1-Digest: jAvUsWkd//yXv7qyLY25ES7gXvs=
+
+Name: javax/annotation/security/DeclareRoles.java
+SHA1-Digest: /J3seoIGT19XTk3PPQ5OWyK9Qto=
+
+Name: javax/annotation/package.html
+SHA1-Digest: yviQQMV8v6CDUXFgcQHTiFxMjq8=
+
+Name: javax/annotation/Resource.java
+SHA1-Digest: z14b0ERExRQza3Hf8Y7HV6jLCm0=
+
+Name: javax/annotation/security/RunAs.java
+SHA1-Digest: jxaMMU7szaFmwKI3sUYrN518Yz8=
+
+Name: javax/annotation/security/package.html
+SHA1-Digest: wD+PBJ0pFiIpfvV/jGCkLMiRH5k=
+
+Name: javax/annotation/security/RolesAllowed.java
+SHA1-Digest: Gtfb0kZf/PjnXUUM+wOkP7wdJ8k=
+
+Name: javax/annotation/sql/DataSourceDefinitions.java
+SHA1-Digest: GkCRNK/mKSPpjBMWeD0bhW+9JmA=
+

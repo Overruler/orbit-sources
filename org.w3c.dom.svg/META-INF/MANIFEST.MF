@@ -1,0 +1,513 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.w3c.dom.svg;version="1.1.0.v201011041433"
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.w3c.dom.svg.source
+Bundle-Version: 1.1.0.v201011041433
+Bundle-ManifestVersion: 2
+
+Name: org/w3c/dom/svg/SVGFEColorMatrixElement.java
+SHA1-Digest: xpmWeuK6Q9DRkFKkK7HsQnf0T44=
+
+Name: org/w3c/dom/svg/SVGRenderingIntent.java
+SHA1-Digest: ahsaj8wHIV7HaXD5ZPnXMYr9LI0=
+
+Name: org/w3c/dom/svg/SVGClipPathElement.java
+SHA1-Digest: zD2vVsG0ldhfOpVxn8YNpANudrE=
+
+Name: org/w3c/dom/svg/SVGGElement.java
+SHA1-Digest: uBwuUTuZyUHafoCNBdyZ4+smlFU=
+
+Name: org/w3c/dom/svg/SVGFECompositeElement.java
+SHA1-Digest: QhFv22e2nbiSR1U7r/BM5Cojxzo=
+
+Name: org/w3c/dom/svg/SVGFEComponentTransferElement.java
+SHA1-Digest: eINMPld7RKU71UW3EytyA0ygoPM=
+
+Name: org/w3c/dom/svg/SVGColor.java
+SHA1-Digest: QmYF31Gs5f5L0eG0nWzlqrDho9Q=
+
+Name: org/w3c/dom/svg/SVGTests.java
+SHA1-Digest: Qtgtjp2KmH2UE3TscysAGwqj0ns=
+
+Name: org/w3c/dom/svg/SVGCSSRule.java
+SHA1-Digest: GZMJtD8jJWpXTHeilOsAQvpoQUs=
+
+Name: org/w3c/dom/svg/SVGFEFuncRElement.java
+SHA1-Digest: jcGoyqEM2sFGA9IF2rYQ73hjav4=
+
+Name: org/w3c/dom/svg/SVGAnimatedInteger.java
+SHA1-Digest: DoZ8TF2u/QNBCLmR9jZve0Fz+0c=
+
+Name: org/w3c/dom/svg/SVGFontFaceFormatElement.java
+SHA1-Digest: nH8qzDwTYiTPQn0V8nzKFb9wU5w=
+
+Name: org/w3c/dom/svg/SVGLength.java
+SHA1-Digest: gFG7vatj+fspcjc564oJnukFKLA=
+
+Name: org/w3c/dom/svg/SVGPathElement.java
+SHA1-Digest: sifrijMAiEkj+GAV+0kyfblj05E=
+
+Name: org/w3c/dom/svg/SVGAnimateMotionElement.java
+SHA1-Digest: zqhJsQQDbt/X7b7ZwaGJq2FZ5Zk=
+
+Name: org/w3c/dom/svg/SVGPolygonElement.java
+SHA1-Digest: 9IolijnJO0CJs2kUEbPKf1Rz7fg=
+
+Name: org/w3c/dom/svg/SVGMatrix.java
+SHA1-Digest: C6WN+r0a/vU6A2V3JtRSP2disjU=
+
+Name: org/w3c/dom/svg/SVGURIReference.java
+SHA1-Digest: tpvLkilggvBGDSRw/aJaNdmL530=
+
+Name: org/w3c/dom/svg/SVGTextElement.java
+SHA1-Digest: /1JYov5oNVk274Pxa69cTZ8154c=
+
+Name: org/w3c/dom/svg/SVGException.java
+SHA1-Digest: 77DhxhIl+fl7JpznniljUOMIPr0=
+
+Name: org/w3c/dom/svg/SVGComponentTransferFunctionElement.java
+SHA1-Digest: LSJ46UdaHp9jbcYoDlEuecgUX5E=
+
+Name: org/w3c/dom/svg/SVGRadialGradientElement.java
+SHA1-Digest: mUosw/9AiH+itWisyL30lD440VA=
+
+Name: org/w3c/dom/svg/SVGTransform.java
+SHA1-Digest: PkD2KrEe2AfspOkUWf+IjuUUlKw=
+
+Name: org/w3c/dom/svg/SVGPathSegLinetoRel.java
+SHA1-Digest: kuaX5E+zLNaTUmvggWqSpJEW+XQ=
+
+Name: org/w3c/dom/svg/SVGGradientElement.java
+SHA1-Digest: sHX3mw49DdJqLtFQsVR7ZJ85ErI=
+
+Name: org/w3c/dom/svg/SVGLinearGradientElement.java
+SHA1-Digest: /MT8GMVbcFSarIckhAdKftyjDFo=
+
+Name: org/w3c/dom/svg/SVGAnimatedString.java
+SHA1-Digest: 29P23/Pc/W3wPhgSaIH9jR+y91c=
+
+Name: org/w3c/dom/svg/SVGAltGlyphItemElement.java
+SHA1-Digest: CbCDBwYjWbOSknvLypXsw2OzcWg=
+
+Name: org/w3c/dom/svg/SVGPathSegCurvetoCubicRel.java
+SHA1-Digest: FcZ6+RV+IOYfUU/nVaQtQ5kt+hc=
+
+Name: org/w3c/dom/svg/SVGEvent.java
+SHA1-Digest: 9XRTyPjcZcpB3TyBwX1ZQnwiM/Y=
+
+Name: org/w3c/dom/svg/SVGAnimatedRect.java
+SHA1-Digest: FuMDuLVMjYSBASxB0vX9kRkD0hY=
+
+Name: org/w3c/dom/svg/SVGFESpotLightElement.java
+SHA1-Digest: a8irbrQibzFeyUc9W2NfxOoZxxc=
+
+Name: org/w3c/dom/svg/SVGColorProfileElement.java
+SHA1-Digest: 6xIqfZuhwwq2woDePTJ0Uv8SsnA=
+
+Name: org/w3c/dom/svg/SVGFEMergeElement.java
+SHA1-Digest: 2569wTBkwvme568nrQkicCCJrKs=
+
+Name: org/w3c/dom/svg/SVGGlyphRefElement.java
+SHA1-Digest: 63+YfJZW84OtWtdXW3f6ocX8tUo=
+
+Name: org/w3c/dom/svg/SVGElementInstance.java
+SHA1-Digest: ubaitYh8kNKOrolN8xQ7wjgwjCU=
+
+Name: org/w3c/dom/svg/SVGFontFaceElement.java
+SHA1-Digest: i3g52jhF2Q+rmCUHV6TQ74Gon34=
+
+Name: org/w3c/dom/svg/SVGHKernElement.java
+SHA1-Digest: imMCY0VGg9w2/M2rjHo9G5hHGeU=
+
+Name: org/w3c/dom/svg/SVGElementInstanceList.java
+SHA1-Digest: ViwU1vjwsdyKG559RJwoPW/zOh0=
+
+Name: org/w3c/dom/svg/SVGDocument.java
+SHA1-Digest: VSDSwBsIktVM/DJFjtTOc2JxNEE=
+
+Name: org/w3c/dom/svg/SVGAnimateElement.java
+SHA1-Digest: MZ9eL2cwP/3k8hIN0m1PoBoaxTg=
+
+Name: org/w3c/dom/svg/SVGFontElement.java
+SHA1-Digest: Q+ByJQ/nJNMp8BxSN09pDWFXwxs=
+
+Name: org/w3c/dom/svg/SVGFEDisplacementMapElement.java
+SHA1-Digest: B69M+GvNcqlbmOAdqWmwQcfw+Lc=
+
+Name: org/w3c/dom/svg/SVGPathSegCurvetoQuadraticAbs.java
+SHA1-Digest: Zcln2pUoBMZWxlxsEN6hlzaAAD4=
+
+Name: org/w3c/dom/svg/SVGAnimatedPreserveAspectRatio.java
+SHA1-Digest: FyFB1VBchU6DV4aQk637SWPRj2k=
+
+Name: org/w3c/dom/svg/SVGFilterPrimitiveStandardAttributes.java
+SHA1-Digest: GTrpLqTtWXh44GdsBaKgbca6b3E=
+
+Name: org/w3c/dom/svg/SVGVKernElement.java
+SHA1-Digest: ULho4JKgVrTKkhKHQR7eAbLKI/k=
+
+Name: org/w3c/dom/svg/SVGForeignObjectElement.java
+SHA1-Digest: Krnle6wrv6b60eOuzjP5K4mlZP0=
+
+Name: org/w3c/dom/svg/SVGExternalResourcesRequired.java
+SHA1-Digest: 6Md/7rQ3bTM5vq3udO0Nb2Et6aY=
+
+Name: org/w3c/dom/svg/SVGRectElement.java
+SHA1-Digest: 8dqZZ8n6WqU1aGPQduP5ZrzeIUo=
+
+Name: org/w3c/dom/svg/SVGPathSegCurvetoQuadraticSmoothAbs.java
+SHA1-Digest: NNzkUyFPofKXvk2wL1BlwTKhjrs=
+
+Name: org/w3c/dom/svg/SVGLangSpace.java
+SHA1-Digest: knKesVZ97r9yZuh5JRwr0PrSQxY=
+
+Name: org/w3c/dom/svg/SVGFEPointLightElement.java
+SHA1-Digest: 4y3OC4/1SCKtF43iL2sO7O9f7gc=
+
+Name: org/w3c/dom/svg/SVGFontFaceSrcElement.java
+SHA1-Digest: XrCg6724AsMV/e1Uwb2K/fhMS1k=
+
+Name: org/w3c/dom/svg/SVGFEMergeNodeElement.java
+SHA1-Digest: +TxziwVjoAsXb5ww7TJ53JP8bog=
+
+Name: org/w3c/dom/svg/SVGPathSeg.java
+SHA1-Digest: TRi6DsYRnOPEhoA7TlB613lyJQo=
+
+Name: org/w3c/dom/svg/SVGMaskElement.java
+SHA1-Digest: 6quYtL7lNkG9ojDEQniQtKPYruM=
+
+Name: org/w3c/dom/svg/SVGAltGlyphDefElement.java
+SHA1-Digest: 1/z76EIH51Qf9hS9EvOvKrlx564=
+
+Name: org/w3c/dom/svg/SVGFitToViewBox.java
+SHA1-Digest: /YYQcc8OxCmOrrWJcZIof+yFh2Y=
+
+Name: org/w3c/dom/svg/SVGICCColor.java
+SHA1-Digest: cswX3RwrVtAq3UYpW62Shy6at1U=
+
+Name: org/w3c/dom/svg/SVGZoomAndPan.java
+SHA1-Digest: BckZ0hqC5OxrDquf2x7VAhK4gcU=
+
+Name: org/w3c/dom/svg/SVGSwitchElement.java
+SHA1-Digest: XHnO21d8Oqjn1pP+DlhQmtKju88=
+
+Name: org/w3c/dom/svg/SVGLineElement.java
+SHA1-Digest: voUJW5lCBB/deoh3EykQjllPsms=
+
+Name: org/w3c/dom/svg/SVGUseElement.java
+SHA1-Digest: y2uQY16hsReCQNYip66M077lN84=
+
+Name: org/w3c/dom/svg/SVGAnimatedBoolean.java
+SHA1-Digest: VlnM+ynKnQMXd402wBZF1+pjFag=
+
+Name: org/w3c/dom/svg/SVGMarkerElement.java
+SHA1-Digest: A7mNtDfHifKLE+9jJiGneI5lQ44=
+
+Name: org/w3c/dom/svg/SVGPathSegClosePath.java
+SHA1-Digest: IopMNK7OZyr+p2SlY1idE/DqViA=
+
+Name: org/w3c/dom/svg/SVGPatternElement.java
+SHA1-Digest: CZAiLkPumMmxF/R56/nsSQ3fHIo=
+
+Name: org/w3c/dom/svg/SVGTRefElement.java
+SHA1-Digest: EwVjJXDcInqZh7xtY/sWB5nCSGQ=
+
+Name: about.html
+SHA1-Digest: 0jI/2FHR5RaXM3ukEFtB9zcgRC0=
+
+Name: org/w3c/dom/svg/SVGAnimatedNumberList.java
+SHA1-Digest: H3Zyuyw8uWES/jGgynPLlZZM+p8=
+
+Name: org/w3c/dom/svg/SVGAnimatedLength.java
+SHA1-Digest: afuk4Lzd3F1x3Q23V7Z0XWyNYdQ=
+
+Name: org/w3c/dom/svg/SVGStopElement.java
+SHA1-Digest: /uamJis9tVvxdJeIflgHO+Mo0C8=
+
+Name: org/w3c/dom/svg/SVGAnimateColorElement.java
+SHA1-Digest: L4Kw+RjN3mSBs8NCBhuZIkZz4Cw=
+
+Name: org/w3c/dom/svg/SVGAltGlyphElement.java
+SHA1-Digest: Wjgfk1sHS/g4H475+b/qF8YFaHM=
+
+Name: org/w3c/dom/svg/SVGAnimatedLengthList.java
+SHA1-Digest: hI+gZtr7Chv5B4V8JpV5d66v8Lc=
+
+Name: org/w3c/dom/svg/SVGImageElement.java
+SHA1-Digest: TgGM4qOez//UhA6B5pHITqxJ9g0=
+
+Name: org/w3c/dom/svg/SVGViewSpec.java
+SHA1-Digest: yio9bMpUTRmkwyWYZrbg+lLjMtc=
+
+Name: org/w3c/dom/svg/SVGScriptElement.java
+SHA1-Digest: 5wIJ48nhEl9ojlXiFcQkJgjzgQI=
+
+Name: org/w3c/dom/svg/SVGTSpanElement.java
+SHA1-Digest: uoo3GsKtTZMsV8IQocf5Jo+5B9M=
+
+Name: org/w3c/dom/svg/SVGFEFuncAElement.java
+SHA1-Digest: GtFJqdPwmM4AN7XF2ZsHEe1Osrc=
+
+Name: org/w3c/dom/svg/SVGPathSegLinetoVerticalAbs.java
+SHA1-Digest: 2PlSbl6AGPpGYdN8j88rIr50IfI=
+
+Name: org/w3c/dom/svg/SVGPointList.java
+SHA1-Digest: 405VgIrOLTmG7AF7ZO7tL9KVpaY=
+
+Name: org/w3c/dom/svg/SVGDefsElement.java
+SHA1-Digest: gY1LoOCw1WCHUtwzHEeQVMMUWzM=
+
+Name: org/w3c/dom/svg/SVGPathSegCurvetoQuadraticRel.java
+SHA1-Digest: TDisN2DYJuteLPTDtvCMycEvh9c=
+
+Name: org/w3c/dom/svg/GetSVGDocument.java
+SHA1-Digest: xaDJ/w4xuQcf2sAWU77DbYd8lf0=
+
+Name: org/w3c/dom/svg/SVGDescElement.java
+SHA1-Digest: VWJfqjkMztKzTL4++vuiD4mTaXE=
+
+Name: org/w3c/dom/svg/SVGFEFuncGElement.java
+SHA1-Digest: IKn8OEe3WcBk7lHcTqY5JxU5glg=
+
+Name: about_files/LICENSE-2.0.txt
+SHA1-Digest: NV/tRSeBE64tS1EXrewu6DAklWI=
+
+Name: org/w3c/dom/svg/SVGPathSegMovetoAbs.java
+SHA1-Digest: Y8tR4d+tP4p6+uLMOqkCOWV6lQ8=
+
+Name: org/w3c/dom/svg/SVGFEDistantLightElement.java
+SHA1-Digest: p2uFKf2UPmefTE4L2GnD1abowHc=
+
+Name: org/w3c/dom/svg/SVGPreserveAspectRatio.java
+SHA1-Digest: cYZwv+bqOOV1wHzTGE0SljKyNWE=
+
+Name: org/w3c/dom/svg/SVGTransformable.java
+SHA1-Digest: EYIcHgC/O+H4y83Ev7a/vYJG9Ok=
+
+Name: org/w3c/dom/svg/SVGPathSegCurvetoCubicSmoothAbs.java
+SHA1-Digest: qthmZXuWfHRikyO4lHGucTzACaA=
+
+Name: org/w3c/dom/svg/SVGCursorElement.java
+SHA1-Digest: xPctZ2zrbEAjlDm33R77VgyvNKQ=
+
+Name: org/w3c/dom/svg/SVGAnimatedPathData.java
+SHA1-Digest: Jf1cCFzcA0CQbzZPZjUa6XUkqBY=
+
+Name: org/w3c/dom/svg/SVGTextPositioningElement.java
+SHA1-Digest: nK6feM2iQqDlf9po//t5NnHamDY=
+
+Name: org/w3c/dom/svg/SVGFEMorphologyElement.java
+SHA1-Digest: m3EP91HM1VwMdLpI6Na9z8/OT1E=
+
+Name: org/w3c/dom/svg/SVGPathSegCurvetoQuadraticSmoothRel.java
+SHA1-Digest: 9Lh4+F9kzlJbFnSwt3xhzzbUNlA=
+
+Name: org/w3c/dom/svg/SVGFEDiffuseLightingElement.java
+SHA1-Digest: ceoV7qLWi5LfA1au+ZR2ynzBrew=
+
+Name: org/w3c/dom/svg/SVGNumber.java
+SHA1-Digest: Y4LzUaYrYd8GEPSrCF3H9D5T4p4=
+
+Name: org/w3c/dom/svg/SVGNumberList.java
+SHA1-Digest: JrMDBxCkDHhXQprDW3OOHBL/qKc=
+
+Name: org/w3c/dom/svg/SVGAnimatedPoints.java
+SHA1-Digest: 6NZ3Q9dOtDzPm4YKeuy4lmP2T5s=
+
+Name: org/w3c/dom/svg/SVGViewElement.java
+SHA1-Digest: fP/Mxhk/jOlc8JZk4vJEWvM9pOQ=
+
+Name: org/w3c/dom/svg/SVGRect.java
+SHA1-Digest: K7amOdBCSo6NaK2Gonk0wZygEcY=
+
+Name: org/w3c/dom/svg/SVGLengthList.java
+SHA1-Digest: ZBkfC5QQVtpQDLsSxkJb7m/jMHY=
+
+Name: org/w3c/dom/svg/SVGAngle.java
+SHA1-Digest: 4sh0zAmQa3spuJ9diU08bUS/Jm4=
+
+Name: org/w3c/dom/svg/SVGAnimatedAngle.java
+SHA1-Digest: nZMLoDaARAhdxVXcre1j1JgsJ+k=
+
+Name: org/w3c/dom/svg/SVGFETileElement.java
+SHA1-Digest: cbSaR8Oz8eQ0M+XG34As0UX3Bug=
+
+Name: org/w3c/dom/svg/SVGMetadataElement.java
+SHA1-Digest: atlPcYzqvH4dfT40YsW5oJlu2aA=
+
+Name: org/w3c/dom/svg/SVGTransformList.java
+SHA1-Digest: Cn+gdGMQbmIFDyRSoVYimct5DQU=
+
+Name: org/w3c/dom/svg/SVGAnimationElement.java
+SHA1-Digest: OLd69g5aXp8MiGYoA1OPL6tilTA=
+
+Name: org/w3c/dom/svg/SVGAnimatedTransformList.java
+SHA1-Digest: FyYA5PyXm5w3i1Q9mSxkJf/v1/o=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/w3c/dom/svg/SVGAnimatedEnumeration.java
+SHA1-Digest: 3xWelE1sx1hw0/qHg73lDI0qXiI=
+
+Name: org/w3c/dom/svg/SVGFilterElement.java
+SHA1-Digest: 54J5s/Wgej0VJ/+l6oRZjyABnYs=
+
+Name: org/w3c/dom/svg/SVGPathSegLinetoHorizontalAbs.java
+SHA1-Digest: cJZW0DXkF59wslPK4VktA5aepm0=
+
+Name: org/w3c/dom/svg/SVGStylable.java
+SHA1-Digest: u8k0j88aihFT2cLDwcXFjn+mhZo=
+
+Name: org/w3c/dom/svg/SVGDefinitionSrcElement.java
+SHA1-Digest: wXsJYlWcY01agQ1a0Gvj3B7gFdE=
+
+Name: org/w3c/dom/svg/SVGPolylineElement.java
+SHA1-Digest: A691W0jtaOczrMCAiBmIyGDW7Iw=
+
+Name: org/w3c/dom/svg/SVGPathSegLinetoVerticalRel.java
+SHA1-Digest: H9Kcdnt9OauEi+tttUBN2ag7gk8=
+
+Name: about_files/README
+SHA1-Digest: 6ucCCJgwbMHFjoa+zJeAytt+bwA=
+
+Name: org/w3c/dom/svg/SVGPathSegArcAbs.java
+SHA1-Digest: 2ROFxvn7kASdyIEl+wGPQPsqIvI=
+
+Name: org/w3c/dom/svg/SVGEllipseElement.java
+SHA1-Digest: ZVxwXA9wK1nk0ia3H39ixzlpmhY=
+
+Name: org/w3c/dom/svg/SVGPathSegMovetoRel.java
+SHA1-Digest: p0CtJ+V4bPWE6M9npiULsegPZug=
+
+Name: org/w3c/dom/svg/SVGPathSegCurvetoCubicSmoothRel.java
+SHA1-Digest: uzGupvCHyzL1LLYGenldmOn4qx0=
+
+Name: org/w3c/dom/svg/SVGSetElement.java
+SHA1-Digest: o9N7f59saqbbaIpMtLl6LEqplpA=
+
+Name: org/w3c/dom/svg/SVGSVGElement.java
+SHA1-Digest: wqFovBOccKsrEpN2WsOVNKvjf5s=
+
+Name: org/w3c/dom/svg/SVGSymbolElement.java
+SHA1-Digest: oBTNyLphP0ykLZXlpaE9KG/+QR8=
+
+Name: org/w3c/dom/svg/SVGGlyphElement.java
+SHA1-Digest: H1+OsjJHhmhsbxXglyP/W7an2H4=
+
+Name: org/w3c/dom/svg/SVGStringList.java
+SHA1-Digest: EGIPugvMsDmiC8V/n7aqM8SCTXI=
+
+Name: org/w3c/dom/svg/SVGStyleElement.java
+SHA1-Digest: WBETCa8RIbqSKmg+u4ab43TQCuk=
+
+Name: org/w3c/dom/svg/SVGMPathElement.java
+SHA1-Digest: GQawBjmDs2TcUI9KNizV2DHcNAo=
+
+Name: org/w3c/dom/svg/SVGElement.java
+SHA1-Digest: uu63ZrTxCgDj8wftOCTrIe+Smk0=
+
+Name: org/w3c/dom/svg/SVGFEBlendElement.java
+SHA1-Digest: fUWSHr6U7HLdj69V5A+DvzvTgSc=
+
+Name: org/w3c/dom/svg/SVGFEConvolveMatrixElement.java
+SHA1-Digest: HER67xrve/UpfWqgC1nTMgatDtQ=
+
+Name: plugin.properties
+SHA1-Digest: gQoKj5eahKplsLYYSRsGr3q0If4=
+
+Name: org/w3c/dom/svg/SVGMissingGlyphElement.java
+SHA1-Digest: WoDf4/bbelQkMOIilG50HYTBvoo=
+
+Name: org/w3c/dom/svg/SVGUnitTypes.java
+SHA1-Digest: NeLn+K/WwhNYyYyD4AwCI8v0deQ=
+
+Name: org/w3c/dom/svg/SVGColorProfileRule.java
+SHA1-Digest: LWDw5L+hC12Wb5Yc7rsKE1EhBFk=
+
+Name: org/w3c/dom/svg/SVGFEImageElement.java
+SHA1-Digest: Lo5+fKEtW3+a6eWARP5OiLy6a4Q=
+
+Name: org/w3c/dom/svg/SVGPathSegList.java
+SHA1-Digest: Om76kD3+DMHwif5HlznC0frsVeg=
+
+Name: org/w3c/dom/svg/SVGFESpecularLightingElement.java
+SHA1-Digest: xHOiTBVPD+SC1VKrOVygUb9e8Io=
+
+Name: org/w3c/dom/svg/SVGFontFaceUriElement.java
+SHA1-Digest: cy7XYALH+Hv7GNZABA9GM9j3oyk=
+
+Name: org/w3c/dom/svg/SVGLocatable.java
+SHA1-Digest: jNBpLpqltSm24BPoRat8ZDl1hpY=
+
+Name: org/w3c/dom/svg/SVGTextPathElement.java
+SHA1-Digest: 3vQ7Az/L6V5RjO5pMq7CWt3VIVA=
+
+Name: org/w3c/dom/svg/SVGPathSegLinetoHorizontalRel.java
+SHA1-Digest: qIZjU71r8aGAvLVYZYCQN+Kz5aI=
+
+Name: org/w3c/dom/svg/SVGZoomEvent.java
+SHA1-Digest: 8UxwSPJdq0tgzK+uTXv4kdS5qJo=
+
+Name: about_files/NOTICE
+SHA1-Digest: 7sj4n7c6wtvZjq7hnNMC2mGUdTE=
+
+Name: org/w3c/dom/svg/SVGPathSegLinetoAbs.java
+SHA1-Digest: Y9ZDu6JXDFezr+Xzcv21ev0Mycg=
+
+Name: org/w3c/dom/svg/SVGFontFaceNameElement.java
+SHA1-Digest: iw7D5RTHgZsj/mjZLX4XXBYejv4=
+
+Name: org/w3c/dom/svg/SVGTextContentElement.java
+SHA1-Digest: pGXNi5r1P7qlSmgjFAcR68OhrYA=
+
+Name: org/w3c/dom/svg/SVGPaint.java
+SHA1-Digest: ZE5cSEnhKLgUz2K/T1ZvXk1EJ+s=
+
+Name: org/w3c/dom/svg/SVGAnimatedNumber.java
+SHA1-Digest: pg7fy25N/ccRK0D/HwBdkRy7NqM=
+
+Name: org/w3c/dom/svg/SVGFEGaussianBlurElement.java
+SHA1-Digest: 5cr5dh3jSGHs/WEfd1MsAGffM6Y=
+
+Name: org/w3c/dom/svg/EventListenerInitializer.java
+SHA1-Digest: gbrQPe4ed4a5sx48qzTbsdVz36o=
+
+Name: org/w3c/dom/svg/SVGPathSegArcRel.java
+SHA1-Digest: +ICFepou1PMpa1Ee/QSvE5XRo2c=
+
+Name: org/w3c/dom/svg/SVGTitleElement.java
+SHA1-Digest: 59rWGfoUQJLKqS+Zcp4rRcat5AA=
+
+Name: org/w3c/dom/svg/SVGPathSegCurvetoCubicAbs.java
+SHA1-Digest: QBjPIbf2WamFq/avZg49x+3n7gc=
+
+Name: org/w3c/dom/svg/SVGAnimateTransformElement.java
+SHA1-Digest: TKxIHwleBa4KeCBWjw0m8BEMLEw=
+
+Name: org/w3c/dom/svg/SVGPoint.java
+SHA1-Digest: KAiwNxKHcrykdzGYH3fqAYJYmrQ=
+
+Name: org/w3c/dom/svg/SVGFEFloodElement.java
+SHA1-Digest: 4Ih3LjF2BdKkUt/521srIdgABzU=
+
+Name: org/w3c/dom/svg/SVGFEFuncBElement.java
+SHA1-Digest: M0D+oYyRK033BU7Qe4yl6o7o1W4=
+
+Name: org/w3c/dom/svg/SVGAElement.java
+SHA1-Digest: wsB6rY5Ijz/1xwgIDqKkZ18T13Q=
+
+Name: org/w3c/dom/svg/SVGCircleElement.java
+SHA1-Digest: BP8lHmLxWJ7riv6HVrYkCzuJ+Kw=
+
+Name: about_files/LICENSE-W3C-20021231.html
+SHA1-Digest: 2GooOdQv7CkyJQAhG2q/2NHneu0=
+
+Name: org/w3c/dom/svg/SVGFEOffsetElement.java
+SHA1-Digest: +tVqGFUYYLWS2Di+rKN1lypWFfA=
+
+Name: org/w3c/dom/svg/SVGFETurbulenceElement.java
+SHA1-Digest: Nw6LZDL79cKoNACtqc70ZOG6SfU=
+

@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.w3c.dom.smil;version="1.0.0.v200806040011"
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.w3c.dom.smil.source
+Bundle-Version: 1.0.0.v200806040011
+Bundle-ManifestVersion: 2
+
+Name: about_files/LICENSE-2.0.txt
+SHA1-Digest: NV/tRSeBE64tS1EXrewu6DAklWI=
+
+Name: about_files/NOTICE
+SHA1-Digest: 7sj4n7c6wtvZjq7hnNMC2mGUdTE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: about_files/README
+SHA1-Digest: 6ucCCJgwbMHFjoa+zJeAytt+bwA=
+
+Name: org/w3c/dom/smil/ElementTimeControl.java
+SHA1-Digest: 3RfVoClEADxzl2DfCnJhnroagH0=
+
+Name: about.html
+SHA1-Digest: IXeFFYjRK7btgM4ophgarXecSFk=
+
+Name: plugin.properties
+SHA1-Digest: xTGJAVdN/crWfwouPVzh0HYHVnY=
+
+Name: about_files/LICENSE-W3C-20021231.html
+SHA1-Digest: s0gqnX9NrkK4zmAToI4gGkgc/DU=
+

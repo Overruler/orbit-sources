@@ -1,0 +1,324 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %Bundle-Vendor.0
+Eclipse-SourceBundle: org.apache.jasper.glassfish;version="2.2.2.b050"
+Bundle-Localization: plugin
+Bundle-Name: %Bundle-Name.0
+Bundle-SymbolicName: org.apache.jasper.glassfish.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/org.apache.jasper.glassfish/source-bundle;projec
+ t="org.apache.jasper.glassfish.source";tag=v201205150955
+Bundle-Version: 2.2.2.v201205150955
+Bundle-ManifestVersion: 2
+
+Name: org/apache/jasper/compiler/JasperTagInfo.java
+SHA1-Digest: pL5Zg0D9cEyn6yXSWxR48OSm6UU=
+
+Name: org/apache/jasper/runtime/JspWriterImpl.java
+SHA1-Digest: slyhbM6M4cSzc3ARs4scGXFDhxE=
+
+Name: org/apache/jasper/runtime/BodyContentImpl.java
+SHA1-Digest: Bt6ZyW0utGyi261al3oZ5dshLGA=
+
+Name: org/apache/jasper/runtime/ExpressionEvaluatorImpl.java
+SHA1-Digest: dDfL91v9T1/JnhWcnzMY9jAXEuo=
+
+Name: org/apache/jasper/xmlparser/ASCIIReader.java
+SHA1-Digest: ycIsmTSs4gsZCchRq6A2iKRHUgc=
+
+Name: org/glassfish/jsp/api/ByteWriter.java
+SHA1-Digest: NkMwzEvuhrktXbGJwAIxvsiHcAU=
+
+Name: org/apache/jasper/compiler/JavaCompiler.java
+SHA1-Digest: nXr/zCcg+DD+xsMlfD1zptNQevM=
+
+Name: org/apache/jasper/xmlparser/XMLStringBuffer.java
+SHA1-Digest: 0k+WITzkXege6ByNYnANHuj85cA=
+
+Name: org/apache/jasper/compiler/Compiler.java
+SHA1-Digest: L47J7mU/LW2mokMqx8ODIJP+0RA=
+
+Name: org/apache/jasper/Constants.java
+SHA1-Digest: X5nzZ1aYr6rqWLgzzi335N6OJt4=
+
+Name: org/apache/jasper/compiler/ParserController.java
+SHA1-Digest: B41EQepwQtpbtR1pzDAQAO+HTDs=
+
+Name: org/apache/jasper/compiler/JavacErrorDetail.java
+SHA1-Digest: EzNsrabyEshw4Updj7ItFGmOsQ0=
+
+Name: org/apache/jasper/compiler/DefaultErrorHandler.java
+SHA1-Digest: l7zZlF0bVNt4gz44nFBj5Go9tg4=
+
+Name: org/apache/jasper/security/SecurityClassLoad.java
+SHA1-Digest: C1oyKCxHy+lSGa4T+xBfULsmMnM=
+
+Name: org/apache/jasper/compiler/JspRuntimeContext.java
+SHA1-Digest: I1wgLmhJjH4HWagXT181FD9HDY0=
+
+Name: org/apache/jasper/Options.java
+SHA1-Digest: jPUuHS+pGd2pHREq5mpBdDG/eUg=
+
+Name: org/apache/jasper/runtime/TldScanner.java
+SHA1-Digest: a3FX31JyzzUWtbd+2logrYDTG4U=
+
+Name: org/apache/jasper/compiler/ServletWriter.java
+SHA1-Digest: uN/sPCAy/jkqnfRmvqXa24ppBAE=
+
+Name: org/apache/jasper/compiler/Validator.java
+SHA1-Digest: iswPFqJGud34UyVEw3UNAF83wBI=
+
+Name: org/apache/jasper/runtime/ELContextImpl.java
+SHA1-Digest: IFBRYaM7c50D9itb/rwd4ceu0PY=
+
+Name: org/apache/jasper/xmlparser/XMLString.java
+SHA1-Digest: 6xD9b1Skcn+m2Rq8xU8lml7XrnA=
+
+Name: org/apache/jasper/JspC.java
+SHA1-Digest: cryUQ8DOID8kywHQhZtlTNV0858=
+
+Name: org/apache/jasper/runtime/JspFactoryImpl.java
+SHA1-Digest: 0L7Qn61KBl7JTy4tfxg0RUmU/Ds=
+
+Name: META-INF/services/javax.servlet.ServletContainerInitializer
+SHA1-Digest: tNNjHwH426MVGq1eglHS6X0/824=
+
+Name: org/apache/jasper/runtime/HttpJspBase.java
+SHA1-Digest: VlcmLg02qnyFlG69C8jx/cGj6Xk=
+
+Name: org/apache/jasper/compiler/NullJavaCompiler.java
+SHA1-Digest: pM3WacyGRGj/Pbm3yOHb7BfkSqI=
+
+Name: org/apache/jasper/compiler/Generator.java
+SHA1-Digest: 1nNudH48xxgfyHhWS53eUBUkhPM=
+
+Name: org/apache/jasper/compiler/Dumper.java
+SHA1-Digest: KKQx9vmAPxR+EO/ZzwVCk/o5XeQ=
+
+Name: org/apache/jasper/servlet/mbeans-descriptors.xml
+SHA1-Digest: m3a6Z84JRqzxA7hPZy3f6yMnzms=
+
+Name: org/apache/jasper/tagplugins/jstl/Otherwise.java
+SHA1-Digest: McJWPuxoNCSL6ZhYXWEfcYarGJg=
+
+Name: org/apache/jasper/compiler/PageDataImpl.java
+SHA1-Digest: cgA7QuDnun0fXBx+OdpsruU0Pgw=
+
+Name: org/apache/jasper/compiler/Localizer.java
+SHA1-Digest: Ccmd8PnhGMa92xfSWn9tEqKEPa0=
+
+Name: org/apache/jasper/xmlparser/UTF8Reader.java
+SHA1-Digest: yyvuR4s4r3A1eRmD7geMkPkgnL8=
+
+Name: about.html
+SHA1-Digest: eqSlhj9a13NVVZwbQm+A7ZG+314=
+
+Name: org/apache/jasper/xmlparser/ParserUtils.java
+SHA1-Digest: Ddmcy/fIXxHhB3dl3VOCVRUYbuc=
+
+Name: org/apache/jasper/runtime/JspRuntimeLibrary.java
+SHA1-Digest: blC2XS+Te4zR6P+htwWCFvXNCf0=
+
+Name: org/apache/jasper/compiler/ErrorHandler.java
+SHA1-Digest: Wm1ndb6FAobPJ0JjJ9dBDq+9XZc=
+
+Name: org/apache/jasper/xmlparser/UCSReader.java
+SHA1-Digest: UGL0leRmjeMnz/1xKmyuKIOc/7E=
+
+Name: org/apache/jasper/tagplugins/jstl/Choose.java
+SHA1-Digest: 6qZzg7gFpcY0TIrjNrm//g/C/pg=
+
+Name: org/apache/jasper/servlet/JspServletWrapper.java
+SHA1-Digest: yK8BG7RjUleKTjjqsian0w/59oM=
+
+Name: org/apache/jasper/compiler/BeanRepository.java
+SHA1-Digest: Yf7UlfBaMgkhNfJlfjj0BrMo+fc=
+
+Name: org/apache/jasper/compiler/JspConfig.java
+SHA1-Digest: kRP+ne9c8faQFecTNKybdZ4QF8o=
+
+Name: org/apache/jasper/runtime/PageContextImpl.java
+SHA1-Digest: LlZ3bU2xg4cwhqWoKGGfpawr8d0=
+
+Name: org/apache/jasper/runtime/VariableResolverImpl.java
+SHA1-Digest: WJOcOGxZ+2X/eWU9n//o/BE3WZw=
+
+Name: org/apache/jasper/xmlparser/TreeNode.java
+SHA1-Digest: t46JgljEqMPvGliSgm6cR8O8ejQ=
+
+Name: org/apache/jasper/compiler/ImplicitTagLibraryInfo.java
+SHA1-Digest: QmwmV8nugXAEFVaLbAb66+gwDAA=
+
+Name: org/apache/jasper/compiler/JspProperty.java
+SHA1-Digest: 3Z+7W8EDHui5RktlYdbe4Q1YSUM=
+
+Name: org/apache/jasper/compiler/SmapUtil.java
+SHA1-Digest: dsTp4PKmuRxF8U1QluwC3VOZOVU=
+
+Name: org/glassfish/jsp/api/JspProbeEmitter.java
+SHA1-Digest: S03SfBbtcJOGnJCHG6XFjPxpwlo=
+
+Name: org/apache/jasper/servlet/JspServlet.java
+SHA1-Digest: AA9nG7bd8VxUm1VfKGs3lIxxld4=
+
+Name: org/apache/jasper/xmlparser/XMLEncodingDetector.java
+SHA1-Digest: AAfrVPaEVoTI67HML/Bde7xHrt0=
+
+Name: org/apache/jasper/compiler/ELParser.java
+SHA1-Digest: 6CqgIXBWg+DiXEFGzAJVHcoXG4I=
+
+Name: org/apache/jasper/resources/messages.properties
+SHA1-Digest: UoMVjysimM6Ic49L9ZYaXaYziKs=
+
+Name: org/apache/jasper/xmlparser/XMLChar.java
+SHA1-Digest: qio5jPywLKcAADYT2dl0HxcV6UA=
+
+Name: org/apache/jasper/compiler/JspPropertyGroup.java
+SHA1-Digest: vA3neA+p6lVkB8unD8ygKOXPGtU=
+
+Name: org/apache/jasper/compiler/Node.java
+SHA1-Digest: u0ye8DbwLO1Y8WO7ZZ1H535fUnk=
+
+Name: org/apache/jasper/security/SecurityUtil.java
+SHA1-Digest: opwDaTt1uzP0FKeXd2J34d19XEw=
+
+Name: org/apache/jasper/xmlparser/EncodingMap.java
+SHA1-Digest: ImQUwxKeDnWt8hKgGE6sSj0iM1w=
+
+Name: org/apache/jasper/compiler/Parser.java
+SHA1-Digest: RCJ5rnr4AigA03PQMPaPavgdTgM=
+
+Name: org/apache/jasper/compiler/PageInfo.java
+SHA1-Digest: u5vGXlkt1Y01DnK2VsA+Q81IAWY=
+
+Name: org/apache/jasper/compiler/JspReader.java
+SHA1-Digest: CifSBBxLrukOBDJgCo1qV0J7YrE=
+
+Name: org/apache/jasper/compiler/TagConstants.java
+SHA1-Digest: bIvBDVuZV4dHxg+/H6tcJTrWRRs=
+
+Name: org/apache/jasper/tagplugins/jstl/ForEach.java
+SHA1-Digest: Yf53ui8LQBgfD9DvBg8RAU+k0w0=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/apache/jasper/runtime/JspSourceDependent.java
+SHA1-Digest: ml4iAYotzwMKW5UoIkH6kBxhw3w=
+
+Name: org/apache/jasper/runtime/ServletResponseWrapperInclude.java
+SHA1-Digest: caEvPBqbEOuZ0arIQgzsrs4EZog=
+
+Name: org/apache/jasper/util/SystemLogHandler.java
+SHA1-Digest: k4LHz/BjHu4dOJ6nCgcUwdedbFY=
+
+Name: org/apache/jasper/compiler/JspDocumentParser.java
+SHA1-Digest: pQakRQodJWicG/krr5pECxxLTRg=
+
+Name: org/apache/jasper/compiler/Mark.java
+SHA1-Digest: ZLfeaYycufTHCc1cGUI2ptFFKHM=
+
+Name: org/apache/jasper/xmlparser/SymbolTable.java
+SHA1-Digest: aRERsyiG2eCOJextzx+27zBYzlE=
+
+Name: org/apache/jasper/compiler/JDTJavaCompiler.java
+SHA1-Digest: oqMYyF15vihFimCa8R0ybhQtsU0=
+
+Name: org/apache/jasper/compiler/SmapStratum.java
+SHA1-Digest: wz6zsAwNe1+HLjDlMBO/reZ/3Ek=
+
+Name: org/apache/jasper/EmbeddedServletOptions.java
+SHA1-Digest: Sahyu8tiGwQyjhyHHmM1hRYf/1k=
+
+Name: org/apache/jasper/tagplugins/jstl/If.java
+SHA1-Digest: g37SVhCoqHOnoQmZftCs2ohIwzI=
+
+Name: org/apache/jasper/compiler/ELFunctionMapper.java
+SHA1-Digest: OUxRqS0r1Ilv3rWIemHlpl9vSl8=
+
+Name: org/apache/jasper/runtime/ProtectedFunctionMapper.java
+SHA1-Digest: RIWg6LwSyEBXnKPdZV/oc0LtZ9s=
+
+Name: org/apache/jasper/compiler/ScriptingVariabler.java
+SHA1-Digest: vLpZesFLbtX3TKdvn3+osbEO5I0=
+
+Name: org/apache/jasper/runtime/JspApplicationContextImpl.java
+SHA1-Digest: mtNFSun8RkqRMXkKuirdXQWl0pI=
+
+Name: org/apache/jasper/compiler/SmapGenerator.java
+SHA1-Digest: a//aYGFJXD7Z4GSkqyIDwhOhquk=
+
+Name: org/apache/jasper/compiler/TextOptimizer.java
+SHA1-Digest: BwHU9QbHNWI5zGYTVc8skorwR+g=
+
+Name: org/apache/jasper/runtime/PerThreadTagHandlerPool.java
+SHA1-Digest: irmDUoZxkorUeuJAkonNkOgEb1k=
+
+Name: plugin.properties
+SHA1-Digest: 6olnHIFHk1/qr99L4fk0zSQ6nR4=
+
+Name: org/apache/jasper/compiler/Jsr199JavaCompiler.java
+SHA1-Digest: bSEZcyw8qwJLN4ITH8BwK0aPehI=
+
+Name: org/apache/jasper/compiler/ELNode.java
+SHA1-Digest: wxTVi7qjQeQARDRvA4zT8uO8N1k=
+
+Name: org/apache/jasper/compiler/tagplugin/TagPluginContext.java
+SHA1-Digest: EfD0uRndCAybs6Wr90elqMuZQ9k=
+
+Name: org/apache/jasper/JspCompilationContext.java
+SHA1-Digest: VhabHw1zywLrt+GEvdpqRENozdc=
+
+Name: org/apache/jasper/runtime/TagHandlerPool.java
+SHA1-Digest: FbOt5r6hGPFRzqJy4SymIHUlVSg=
+
+Name: org/apache/jasper/compiler/TagPluginManager.java
+SHA1-Digest: eZf/6QndMm0tBX391U8VSBQUaAA=
+
+Name: org/apache/jasper/compiler/ErrorDispatcher.java
+SHA1-Digest: 7qg5nk1kppzJl6cb6D3XhI2s9/0=
+
+Name: org/apache/jasper/servlet/JasperLoader.java
+SHA1-Digest: cs1sZWHH03qMD9vpypfi1kE9Aww=
+
+Name: org/apache/jasper/compiler/Collector.java
+SHA1-Digest: zzDNWd7XUykATonwBSFGuWh4cZU=
+
+Name: org/apache/jasper/compiler/TagFileProcessor.java
+SHA1-Digest: Tfg9KkdX7RAVk6E1T8ycCgMi09s=
+
+Name: org/apache/jasper/compiler/AntJavaCompiler.java
+SHA1-Digest: 6UGXPcY/BXiljRPpN7chf0Yp9f8=
+
+Name: org/apache/jasper/runtime/VariableMapperImpl.java
+SHA1-Digest: ens1yin0m/Sa7RcSY6fVqe7j3ek=
+
+Name: org/apache/jasper/servlet/JspCServletContext.java
+SHA1-Digest: DUsBbjEi56gP9CXabTjVhEPVgRc=
+
+Name: org/apache/jasper/compiler/TagLibraryInfoImpl.java
+SHA1-Digest: NWLUU1O+EZFJkp973liceY+UGTE=
+
+Name: org/glassfish/jsp/api/ResourceInjector.java
+SHA1-Digest: KZK3aBwHfTDIKUibMZ8NvHtguwA=
+
+Name: org/apache/jasper/tagplugins/jstl/tagPlugins.xml
+SHA1-Digest: ojtXG/3f2qvfkRuLsAXYpmyoglc=
+
+Name: org/apache/jasper/runtime/JspContextWrapper.java
+SHA1-Digest: gWJ7L1zBOPJ+42zjMEqrZ7Jo88c=
+
+Name: org/apache/jasper/tagplugins/jstl/When.java
+SHA1-Digest: CjRP76IQ4Hq1BEi7Avk59NtJmPg=
+
+Name: org/apache/jasper/JasperException.java
+SHA1-Digest: MixPbFP5AkvipiD7m2Qjxoa+xWc=
+
+Name: org/apache/jasper/runtime/JspFragmentHelper.java
+SHA1-Digest: eRqwT4uwTGA8UL6q8d86Ahs6L4o=
+
+Name: org/apache/jasper/compiler/tagplugin/TagPlugin.java
+SHA1-Digest: lfteFQ0kSg9fkagsYuCMiCwTIf8=
+
+Name: org/apache/jasper/compiler/JspUtil.java
+SHA1-Digest: 8KMENNzs5S+MbXNZvKp2C7DCqzM=
+

@@ -1,0 +1,116 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 1JrcyGXGrkDFhXdIlTfpQJ7J4G4=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: RVfAGY7SHZKKDRa+GgvFqMXJzq8=
+
+Name: about_files/LICENSE-2.0.txt
+SHA1-Digest: WQPAMR6UasOuSXQqhMW2ZmVd4y8=
+
+Name: org/w3c/css/sac/LexicalUnit.java
+SHA1-Digest: rD0b+xSx3iiadzl9UJBG3B4Ct2g=
+
+Name: org/w3c/css/sac/PositionalCondition.java
+SHA1-Digest: tUGzk3e/U3peUu5cI+Rl84UK6Xc=
+
+Name: org/w3c/css/sac/NegativeSelector.java
+SHA1-Digest: mIA+hXap1UfiG0B6H8mbwlCoIo4=
+
+Name: org/w3c/css/sac/helpers/ParserFactory.java
+SHA1-Digest: 7NgueQflB3e7tS3mpSK2aDfn/k0=
+
+Name: org/w3c/css/sac/SACMediaList.java
+SHA1-Digest: 3lKmJ7Nov/zpT+JLqpQXb04pZGQ=
+
+Name: org/w3c/css/sac/Condition.java
+SHA1-Digest: +B7kiQD5JeNIshnnY0qrIJEGfmM=
+
+Name: plugin.properties
+SHA1-Digest: sfZ7VnsW8NBUKuiCTFVAtQAd3P4=
+
+Name: org/w3c/css/sac/ProcessingInstructionSelector.java
+SHA1-Digest: 9fw6nylBrBaVVHYL/Z+ut1tUZV0=
+
+Name: org/w3c/css/sac/ErrorHandler.java
+SHA1-Digest: Gf1iTWW4wscpFLXBEhQaoojFTto=
+
+Name: org/w3c/css/sac/ContentCondition.java
+SHA1-Digest: IMnyznTrdL9PSmFdgkqRi4OdnrE=
+
+Name: about_files/LICENSE.sax.txt
+SHA1-Digest: MHj5/4aHtwkN690yXIQGHgHNWgc=
+
+Name: org/w3c/css/sac/CharacterDataSelector.java
+SHA1-Digest: kDbcOZvuX98vLQ+cCgayuGLuOXE=
+
+Name: org/w3c/css/sac/LangCondition.java
+SHA1-Digest: 329U+mDgEy9/fMdp9JRejgEOLX0=
+
+Name: about_files/NOTICE
+SHA1-Digest: WZ6T40Fu3zPOKXEBn1eZXrrr/4I=
+
+Name: org/w3c/css/sac/NegativeCondition.java
+SHA1-Digest: XKbAN8sLdMazKGQGCbfO60GBq4Q=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/w3c/css/sac/ConditionalSelector.java
+SHA1-Digest: 73RRYWexG3uf5Ubr7FsrJDoHJ+w=
+
+Name: org/w3c/css/sac/InputSource.java
+SHA1-Digest: 6FmgSr+DoOxkif9hmPAk+3kCIqY=
+
+Name: org/w3c/css/sac/SimpleSelector.java
+SHA1-Digest: OB+CMbnqbKZCeVnTff904xPrnqY=
+
+Name: org/w3c/css/sac/SiblingSelector.java
+SHA1-Digest: W6LwsaWdupwgW7Znwu28lxGlT/o=
+
+Name: org/w3c/css/sac/ConditionFactory.java
+SHA1-Digest: RLp/nHXbM/+Krt/ruXGhoLo/Qds=
+
+Name: org/w3c/css/sac/CombinatorCondition.java
+SHA1-Digest: DzHty8gFT0eAhYc55FsIe8W1IfI=
+
+Name: org/w3c/css/sac/CSSParseException.java
+SHA1-Digest: qwFOS6g1iWvf+ClwQYE+p/j+IIg=
+
+Name: org/w3c/css/sac/CSSException.java
+SHA1-Digest: 4J7xz3yxVJBmr9S8pi9YOo8Sw7I=
+
+Name: about.html
+SHA1-Digest: XPu1aDqxEdgGWES4kCCqwb0DAS0=
+
+Name: org/w3c/css/sac/ElementSelector.java
+SHA1-Digest: 0qHlYjeSPORfH1FwvOyyR8/Sbi0=
+
+Name: org/w3c/css/sac/Locator.java
+SHA1-Digest: 9gILtmzs1ndipUsjpsOrqslW3Dc=
+
+Name: about_files/README
+SHA1-Digest: eqzl2DMeTAYplW/IJ958qY4L4og=
+
+Name: org/w3c/css/sac/AttributeCondition.java
+SHA1-Digest: SYvjcPEXwjFZ6c9XtLhgR82HdjM=
+
+Name: org/w3c/css/sac/Parser.java
+SHA1-Digest: 903anSlWEyI8bzzO3gsZLvPezbs=
+
+Name: org/w3c/css/sac/Selector.java
+SHA1-Digest: gt7fxGRjz7Y3MlTFj9YKHWRM+Ck=
+
+Name: org/w3c/css/sac/DocumentHandler.java
+SHA1-Digest: Y/TKIsnG3n5k6R1BUiugRvi2brY=
+
+Name: org/w3c/css/sac/SelectorList.java
+SHA1-Digest: +ZBg4IxBMTYrQftfNmFjS7v/axE=
+
+Name: org/w3c/css/sac/DescendantSelector.java
+SHA1-Digest: 8kGzwNSolhMKT2OCW5gDKnTaRzY=
+
+Name: about_files/LICENSE-W3C-20021231.html
+SHA1-Digest: VppZieoZPnB5JXQhWjRNiCyPNiI=
+
+Name: org/w3c/css/sac/SelectorFactory.java
+SHA1-Digest: /fwuEKo6Q0Q8MJdoQEAX/T2VbeU=
+

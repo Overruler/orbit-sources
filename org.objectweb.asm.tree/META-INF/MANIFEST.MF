@@ -1,0 +1,115 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %providerName
+Eclipse-SourceBundle: org.objectweb.asm.tree;version="5.0.1.v201404251
+ 740";roots:="."
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.objectweb.asm.tree.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/org.objectweb.asm.tree/source-bundle;project="or
+ g.objectweb.asm.tree.source";tag=v201404251740
+Bundle-Version: 5.0.1.v201404251740
+Bundle-ManifestVersion: 2
+
+Name: org/objectweb/asm/tree/IincInsnNode.java
+SHA1-Digest: aptnkHUsIgHvadi9aFl8QPXRKHc=
+
+Name: org/objectweb/asm/tree/TableSwitchInsnNode.java
+SHA1-Digest: 1YscAIRnJbKc1TSms3tF3JCKOHY=
+
+Name: org/objectweb/asm/tree/AnnotationNode.java
+SHA1-Digest: Ja4rf5lfjTP1iprl6r1y7eFhFBI=
+
+Name: org/objectweb/asm/tree/JumpInsnNode.java
+SHA1-Digest: TxoJP46VvG2dcdSnUGNIcyUxq+k=
+
+Name: org/objectweb/asm/tree/package.html
+SHA1-Digest: QgZz22/Z/xwvt3eWRvGUqZQAxxs=
+
+Name: org/objectweb/asm/tree/FieldNode.java
+SHA1-Digest: HM0boaYb+HgEdi9WEj9Y5Ipl2S4=
+
+Name: plugin.properties
+SHA1-Digest: 3hwvCKowlGAs729NspAQUEqpqrw=
+
+Name: org/objectweb/asm/tree/ClassNode.java
+SHA1-Digest: jq+wkFabaA4Oi+ag1D7Aa+5VUnk=
+
+Name: org/objectweb/asm/tree/LabelNode.java
+SHA1-Digest: s7ZGBDWDukky75wItMhZg2xeG50=
+
+Name: org/objectweb/asm/tree/InnerClassNode.java
+SHA1-Digest: /RHSodZ81c+j7sDQgUgWUf+Dsf0=
+
+Name: org/objectweb/asm/tree/AbstractInsnNode.java
+SHA1-Digest: lTWPVz9EIrsWJ35T15/0kaBHqdY=
+
+Name: org/objectweb/asm/tree/MethodNode.java
+SHA1-Digest: 55dACRzQF8+cCR/WTxo6/WTQETI=
+
+Name: org/objectweb/asm/tree/InsnNode.java
+SHA1-Digest: apZYiU92ofZ5zq2LnynnnPbADlQ=
+
+Name: org/objectweb/asm/tree/IntInsnNode.java
+SHA1-Digest: 5954PBtK7B51Qz2hJugMdaKj98s=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: Q+8tcUG4ujkxQVlbgZYlx9UvhFA=
+
+Name: org/objectweb/asm/tree/LineNumberNode.java
+SHA1-Digest: Ly7+lwmJFZ9/0MS2RXZYkKOMotg=
+
+Name: org/objectweb/asm/tree/LdcInsnNode.java
+SHA1-Digest: VhXXNRSV1xTAQbuiS7zJhdZV9Nk=
+
+Name: org/objectweb/asm/tree/VarInsnNode.java
+SHA1-Digest: SugtzU+IGV7dRMxYWUmVj5dUgcQ=
+
+Name: org/objectweb/asm/tree/InvokeDynamicInsnNode.java
+SHA1-Digest: Kd+/ye2uo0zA5vW03PafPHDDlbA=
+
+Name: org/objectweb/asm/tree/LocalVariableNode.java
+SHA1-Digest: qY6c1medyCjD+PaJn7Ds8f4+v5I=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/objectweb/asm/tree/LookupSwitchInsnNode.java
+SHA1-Digest: YpvhNf2gkTWT1eRdVkQ7i6Pqdsg=
+
+Name: org/objectweb/asm/tree/FieldInsnNode.java
+SHA1-Digest: 26K60kbZipnwy3w5JM3xeMi3V9U=
+
+Name: about.html
+SHA1-Digest: 1IBVZBKMS4tHo8PPluB4yujRJYw=
+
+Name: org/objectweb/asm/tree/TypeAnnotationNode.java
+SHA1-Digest: F6XdTIp3vlPff002+M6Nfp0a4xs=
+
+Name: org/objectweb/asm/tree/LocalVariableAnnotationNode.java
+SHA1-Digest: 3ryxrtZwYhKXJqJQhbQkt5zdFfU=
+
+Name: org/objectweb/asm/tree/MultiANewArrayInsnNode.java
+SHA1-Digest: Z7xCflNISWFUomLY9u4ja5sZM4g=
+
+Name: org/objectweb/asm/tree/MethodInsnNode.java
+SHA1-Digest: iwE+HyLrRci0t26Gtair3Q5utFM=
+
+Name: org/objectweb/asm/tree/TryCatchBlockNode.java
+SHA1-Digest: oSS1JgdGYewgDevXv6q2ICWq2gM=
+
+Name: org/objectweb/asm/tree/FrameNode.java
+SHA1-Digest: xz5oM03zLzUiqJ3f3wc/S1FZnFQ=
+
+Name: org/objectweb/asm/tree/InsnList.java
+SHA1-Digest: VMCoy7TCJx/068k4PDcR3eMb2sg=
+
+Name: about_files/README.txt
+SHA1-Digest: g+hfjp6RL2xeop0L2gLHmlqdZkM=
+
+Name: org/objectweb/asm/tree/TypeInsnNode.java
+SHA1-Digest: usSd6+voSCh8v0ghTlrCmJ2xm/c=
+
+Name: org/objectweb/asm/tree/ParameterNode.java
+SHA1-Digest: A0TquzHgFqSl211XYIKTEoKATik=
+

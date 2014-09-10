@@ -1,0 +1,50 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: My5X1NCGa7XnYqZGKxSJ4+jSM6U=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: VmPUXivjNt674rY797DygnBteAQ=
+
+Name: org/apache/commons/logging/package.html
+SHA1-Digest: Vomg7w6/Ihe52dFNnTaKOmhzZHs=
+
+Name: org/apache/commons/logging/LogConfigurationException.java
+SHA1-Digest: OJilcIc882PEpp+q0Dt5dET3Urk=
+
+Name: org/apache/commons/logging/impl/SimpleLog.java
+SHA1-Digest: wRC8XPZKHFL/FRqHmULRZVEumOc=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: about_files/NOTICE.txt
+SHA1-Digest: 6KHULwHvnZirPL61/Vy2RKhXb2Q=
+
+Name: org/apache/commons/logging/impl/SLF4JLogFactory.java
+SHA1-Digest: R8WM252qweFPeNQ1RFg134I2BQs=
+
+Name: about.html
+SHA1-Digest: QmPTDAmkIyqhsj237+aQcmhc85c=
+
+Name: org/apache/commons/logging/impl/SLF4JLog.java
+SHA1-Digest: h9wcq/J8eOaxPFYkdkk+cyRKb1g=
+
+Name: plugin.properties
+SHA1-Digest: OsVvQ1t2z/mRvJlrDRyhqvT51nk=
+
+Name: about_files/SLF4J-LICENSE.txt
+SHA1-Digest: dmjJZYLPmwvot+vFQlNFBDWcsa0=
+
+Name: org/apache/commons/logging/impl/NoOpLog.java
+SHA1-Digest: YKQKPSpXof8U6Slhd4SdHVuSGCs=
+
+Name: org/apache/commons/logging/impl/SLF4JLocationAwareLog.java
+SHA1-Digest: q2yPdQD3HOxGQ6PxDwsQ5hciQRM=
+
+Name: org/apache/commons/logging/impl/package.html
+SHA1-Digest: uyAf47ftlhgisDnyULgSeyMLdRs=
+
+Name: org/apache/commons/logging/Log.java
+SHA1-Digest: h4KJRFCDUwerFwuWTGGue/xYvjA=
+
+Name: org/apache/commons/logging/LogFactory.java
+SHA1-Digest: 9qCPlKIVL0++t5oLKj5Z6FEBWOU=
+

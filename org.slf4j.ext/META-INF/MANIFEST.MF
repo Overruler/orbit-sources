@@ -1,0 +1,108 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %Bundle-Vendor.0
+Eclipse-SourceBundle: org.slf4j.ext;version="1.7.2.v20121108-1250"
+Bundle-Localization: plugin
+Bundle-Name: %Bundle-Name.0
+Bundle-SymbolicName: org.slf4j.ext.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/org.slf4j.ext/source-bundle;project="org.slf4j.e
+ xt.source";tag=v20121108-1250
+Bundle-Version: 1.7.2.v20121108-1250
+Bundle-ManifestVersion: 2
+
+Name: org/slf4j/profiler/DurationUnit.java
+SHA1-Digest: U1Vr8WN0o/22Joxjl0tyaksl5nY=
+
+Name: org/slf4j/ext/EventLogger.java
+SHA1-Digest: fExg2kfY5OtRPzgiB4zL5iLyI5E=
+
+Name: org/slf4j/instrumentation/package.html
+SHA1-Digest: EU+qxBMa6dHRyzdHGt6YLQCXT0g=
+
+Name: org/slf4j/ext/MDCStrLookup.java
+SHA1-Digest: Z57c7jQGGFUrfldUE9j4CGl9QI8=
+
+Name: plugin.properties
+SHA1-Digest: PyGTGkJOZe7ZPSAcJnd0ofIMrik=
+
+Name: org/slf4j/ext/LoggerWrapper.java
+SHA1-Digest: daN3E9WICsX0a2OzoDE2zUQIVMY=
+
+Name: org/slf4j/instrumentation/JavassistHelper.java
+SHA1-Digest: QYtxh8kNTaLqA3xVC/WwDD0NbnY=
+
+Name: org/slf4j/agent/package.html
+SHA1-Digest: t+3ehJwkd3DjQBoo/axIE2+yZMY=
+
+Name: org/slf4j/agent/AgentOptions.java
+SHA1-Digest: vr2ImWe71KaNCJqF4hyPjvcTLpc=
+
+Name: org/slf4j/cal10n/LocLogger.java
+SHA1-Digest: HjKTp7T7OoxCaHE8YOAGS/kasug=
+
+Name: org/slf4j/agent/AgentPremain.java
+SHA1-Digest: BGyCL/4WPIXuSawUaWmwNlQYxYI=
+
+Name: org/slf4j/NDC.java
+SHA1-Digest: iecU4mN1nWvRuf5iGLhDzbThDvU=
+
+Name: org/slf4j/profiler/TimeInstrumentStatus.java
+SHA1-Digest: lxFm9PG/mWuzHP7wGTHl/O7Fyzo=
+
+Name: org/slf4j/profiler/package.html
+SHA1-Digest: JshZGCRRwVBX2dXFYe9SEIxejmE=
+
+Name: org/slf4j/instrumentation/LogTransformer.java
+SHA1-Digest: fOwCrNiIYpFNzpUukN+E/7kiURY=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/slf4j/ext/XLoggerFactory.java
+SHA1-Digest: gHZiBnFKqbgNa+xMh1hxBlLNHqg=
+
+Name: org/slf4j/cal10n/package.html
+SHA1-Digest: sVv8UwdPZw5gvfFW7AlhbJtdecs=
+
+Name: about.html
+SHA1-Digest: Jf9KasrH8gevu0ZjtIr+u852Gsw=
+
+Name: org/slf4j/profiler/TimeInstrument.java
+SHA1-Digest: Fbxq6blvqMxrOMgx6j8Jl3L2vrk=
+
+Name: org/slf4j/ext/XLogger.java
+SHA1-Digest: q8d6QxAklEwu1ffMLsQW+naLfoQ=
+
+Name: about_files/SLF4J-LICENSE.txt
+SHA1-Digest: U64yX06BQZmT6IlD62m898LvAVY=
+
+Name: org/slf4j/ext/EventData.java
+SHA1-Digest: LfTnw3FVCeVgvZRV7msd/TVrGpY=
+
+Name: org/slf4j/profiler/StopWatch.java
+SHA1-Digest: PZd1H0NfH+FUa1T1q12axxK7zg8=
+
+Name: org/slf4j/ext/EventException.java
+SHA1-Digest: LubGN6R5exScuAy0rAJMmF1bdog=
+
+Name: org/slf4j/ext/package.html
+SHA1-Digest: 2bGseJmjMEHO4K9xsy6FVg4Sf80=
+
+Name: org/slf4j/profiler/Profiler.java
+SHA1-Digest: V9GEAWJPf3gPN5YqpoA48KGGcic=
+
+Name: org/slf4j/profiler/SpacePadder.java
+SHA1-Digest: zPPy4+JK+c+1vxhnMecw2ZRCqGE=
+
+Name: org/slf4j/profiler/ProfilerRegistry.java
+SHA1-Digest: ayU97N31JBJtUBL+24CeRLqLuLo=
+
+Name: org/slf4j/instrumentation/ToStringHelper.java
+SHA1-Digest: N5faWYsRN18+LQmSrgBrEJVjcEQ=
+
+Name: org/slf4j/profiler/Util.java
+SHA1-Digest: S+zXvdw17MhXk/aDE9Q1yIdU5Gs=
+
+Name: org/slf4j/cal10n/LocLoggerFactory.java
+SHA1-Digest: PVMQyB8/x1L5f1uJ5Fpd1QgcVS4=
+

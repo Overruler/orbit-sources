@@ -1,0 +1,26 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: BeC8XZux683wIxu92Ib4nqXnVqE=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: ZIcOzHvKXHC/6oeqAC1iR8ZTEIc=
+
+Name: org/slf4j/impl/StaticLoggerBinder.java
+SHA1-Digest: fALCL4fH4KH5kT3vu0oguPwvy2M=
+
+Name: org/slf4j/impl/StaticMDCBinder.java
+SHA1-Digest: Xo6QC6uROtHCi6lNLk1HmgPf8pA=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/slf4j/impl/StaticMarkerBinder.java
+SHA1-Digest: anN5I1lZ0zQc71xlXRcHJyn8fRA=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: Xy13q5ibD66PvJ/7X//X/1EOWMw=
+
+Name: about.html
+SHA1-Digest: dVtmsVSbeabGDERdO05u9TP1ppA=
+
+Name: plugin.properties
+SHA1-Digest: CZcgAyyMnscPJJynbjXbyjGwU2I=
+

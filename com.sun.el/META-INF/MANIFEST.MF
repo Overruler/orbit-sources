@@ -1,0 +1,216 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %bundleProvider
+Eclipse-SourceBundle: com.sun.el;version="2.2.0.v201303151357"
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: com.sun.el.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/com.sun.el/source-bundle;project="com.sun.el.sou
+ rce";tag=v201303151357
+Bundle-Version: 2.2.0.v201303151357
+Bundle-ManifestVersion: 2
+
+Name: com/sun/el/parser/AstBracketSuffix.java
+SHA1-Digest: EGkiIHIgaWYXGkw0KyNQZgh+xYU=
+
+Name: com/sun/el/MethodExpressionImpl.java
+SHA1-Digest: HFrIC8Vjl8p/X+N3bhCYddoYuWI=
+
+Name: com/sun/el/parser/AstNotEqual.java
+SHA1-Digest: msFDasosd9MJi3TWKnLQt1FIZYM=
+
+Name: com/sun/el/parser/AstMinus.java
+SHA1-Digest: ekAHhAUfIMdozisLhbwyX4A8yFA=
+
+Name: com/sun/el/util/ReflectionUtil.java
+SHA1-Digest: 0lWo5uP97cfJN3vanG/YHgSduNM=
+
+Name: com/sun/el/parser/SimpleCharStream.java
+SHA1-Digest: QEOeCZ0N1vO0J9PKuq6Kd3DpTz4=
+
+Name: com/sun/el/parser/AstFloatingPoint.java
+SHA1-Digest: lWwNUhp0H2mbYp0q+kvFL2B0bXM=
+
+Name: com/sun/el/parser/ELParser.java
+SHA1-Digest: c+F+HHElwHo5owrVrFmNqCJPuxA=
+
+Name: about_files/LICENSE_CDDL.txt
+SHA1-Digest: yS+NaHusQahfaERHqIRuonOeUCI=
+
+Name: com/sun/el/parser/Node.java
+SHA1-Digest: Z5LDGrrtQKkoPqhN3X1qTuYSscw=
+
+Name: com/sun/el/util/MessageFactory.java
+SHA1-Digest: PMluK0eZMkUEADBxPsN7i8S1mv8=
+
+Name: com/sun/el/parser/AstCompositeExpression.java
+SHA1-Digest: otmLWtFyVlckeYCqDeIYBQXmb30=
+
+Name: com/sun/el/parser/ELParserTreeConstants.java
+SHA1-Digest: XB3Zrmke3v3cLo1/Q0jXLokMCTk=
+
+Name: com/sun/el/parser/AstDynamicExpression.java
+SHA1-Digest: SD8k2l6YAEdhrW0Gs4upkqdO5zU=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: com/sun/el/parser/AstValue.java
+SHA1-Digest: rw7vqMVDjtGuDGQz6w7iS5hSm94=
+
+Name: com/sun/el/lang/VariableMapperImpl.java
+SHA1-Digest: 5FXt4YPZatDCwQZ4YRdkcZP7oCU=
+
+Name: com/sun/el/parser/AstPlus.java
+SHA1-Digest: QnLqzAg8FC0U2vodtqL2O2iEGVM=
+
+Name: com/sun/el/parser/AstFunction.java
+SHA1-Digest: 3ZVMRAThwj+/+ZC+UOWYxosmkns=
+
+Name: com/sun/el/MethodExpressionLiteral.java
+SHA1-Digest: /HBVftk4L1Abcm57q8Sfr1tR8kY=
+
+Name: com/sun/el/parser/AstLiteralExpression.java
+SHA1-Digest: p2VMqbwmAROS6gaVgTvZYYLSy6Q=
+
+Name: com/sun/el/lang/ELArithmetic.java
+SHA1-Digest: t0omWVozNEHQEDXV4SG0iQpgfdo=
+
+Name: com/sun/el/parser/AstFalse.java
+SHA1-Digest: 8MDSdMkuNhO3YdMzoiQwOPzQZMY=
+
+Name: com/sun/el/lang/ExpressionBuilder.java
+SHA1-Digest: LgEaXd8HaL4T6kbIWfrm0OKJSCE=
+
+Name: com/sun/el/parser/AstTrue.java
+SHA1-Digest: GEi+e9GVcNAR2MG/gKHkOA3QXBo=
+
+Name: com/sun/el/parser/ParseException.java
+SHA1-Digest: E3F/m6MzOnk3+pPOq0mRdmECU24=
+
+Name: com/sun/el/parser/AstInteger.java
+SHA1-Digest: lJW0ZMEtT6vGce80tIwYuuLv3CQ=
+
+Name: com/sun/el/parser/AstIdentifier.java
+SHA1-Digest: KyTDaJ8/s86widACEB+RQCVeltY=
+
+Name: com/sun/el/parser/AstDotSuffix.java
+SHA1-Digest: bkduu2htpx1o7F31zRT4u29ZMSE=
+
+Name: com/sun/el/parser/AstLessThanEqual.java
+SHA1-Digest: poI0dbG3H1UfhNz2gfpyt0BWEng=
+
+Name: com/sun/el/parser/AstAnd.java
+SHA1-Digest: woZ5TPTebwDOXRUgJu6QaYrUbNk=
+
+Name: com/sun/el/parser/SimpleNode.java
+SHA1-Digest: /3sHp3ThPDr4XIuzrnxO10adrcQ=
+
+Name: com/sun/el/parser/AstOr.java
+SHA1-Digest: UGW/PI4Ex530DrxUtsmRw9l7uC0=
+
+Name: com/sun/el/parser/AstEqual.java
+SHA1-Digest: 3YB27d4msa4+yaklUnZj27ixskk=
+
+Name: com/sun/el/parser/AstChoice.java
+SHA1-Digest: 2tLfk3h9raoxVV0KvAFTk2S1zbg=
+
+Name: com/sun/el/parser/AstNot.java
+SHA1-Digest: V/1tr8cul/OFannqqbr/4mIXPYs=
+
+Name: com/sun/el/lang/EvaluationContext.java
+SHA1-Digest: 9++AKkWfWcMKJwhgsPHJT5AhJtk=
+
+Name: com/sun/el/parser/AstDiv.java
+SHA1-Digest: Bzy22ue9NLlRt0R9mQx31d9C7Ws=
+
+Name: com/sun/el/lang/FunctionMapperFactory.java
+SHA1-Digest: zb+RCXYsn3sYGDwMJJqtBT6ra6k=
+
+Name: com/sun/el/parser/ArithmeticNode.java
+SHA1-Digest: jKc4alspBRFINQ7wMzE+isZvq7c=
+
+Name: com/sun/el/parser/AstEmpty.java
+SHA1-Digest: gRIEs+SUZGwvK0O6XQCLLh/plDE=
+
+Name: com/sun/el/lang/FunctionMapperImpl.java
+SHA1-Digest: vkOFVKRPAVA8luHRks2PyxUM38w=
+
+Name: plugin.properties
+SHA1-Digest: jmTItF2bn+ESqq4pHzW1gPL8cFg=
+
+Name: com/sun/el/parser/Token.java
+SHA1-Digest: kGfe2TUHtNpI/GT19XLzeOdvcMU=
+
+Name: com/sun/el/parser/AstDeferredExpression.java
+SHA1-Digest: bUR3APcOHqetS/TmVStX0Xp9KTE=
+
+Name: com/sun/el/parser/AstString.java
+SHA1-Digest: Dr6GVZo/stTYWCyQitTC3E2hg0k=
+
+Name: com/sun/el/parser/AstMult.java
+SHA1-Digest: Y6tJ3svNBs1pYei0T07kpexD11E=
+
+Name: com/sun/el/parser/NodeVisitor.java
+SHA1-Digest: S1t8p9UiyagpCoODic2XgbggJSA=
+
+Name: com/sun/el/parser/AstGreaterThan.java
+SHA1-Digest: Tj3mfYSjPr5Bx30a84WoY5QYSj4=
+
+Name: com/sun/el/parser/BooleanNode.java
+SHA1-Digest: T4JkErnJWKmsvBHQeIxGWTt41/k=
+
+Name: com/sun/el/parser/TokenMgrError.java
+SHA1-Digest: 1QpItwz3N1kNLnmII0nIVnVLkaQ=
+
+Name: com/sun/el/parser/JJTELParserState.java
+SHA1-Digest: LWD/9xrt4qj/gOh0yp5an+UHSIU=
+
+Name: com/sun/el/parser/ELParserConstants.java
+SHA1-Digest: 8p8dSI/ZVCQApYV71FgTLbip99o=
+
+Name: com/sun/el/parser/AstNull.java
+SHA1-Digest: N8Bj9vq0+HLqTQUceNUIlmACSas=
+
+Name: com/sun/el/parser/AstMethodArguments.java
+SHA1-Digest: ZWVHxJhlO5GUIKuTUWVOdNMJgJA=
+
+Name: com/sun/el/parser/ELParser.jjt
+SHA1-Digest: IlTrEzGAlbyhxsUbeSb0a9BOVNs=
+
+Name: about.html
+SHA1-Digest: wwhl0465dFV54bZ3xkg+Whtis3k=
+
+Name: com/sun/el/lang/VariableMapperFactory.java
+SHA1-Digest: ZKdW5Z+wKjQnR23y+ONz2vqa+WA=
+
+Name: com/sun/el/parser/AstLessThan.java
+SHA1-Digest: 1Wqa+ZnZC9dh9t/WBraJMkN+fmE=
+
+Name: com/sun/el/parser/AstGreaterThanEqual.java
+SHA1-Digest: qNvNke/s5IsfgfKGVVmPgeePm64=
+
+Name: com/sun/el/lang/ELSupport.java
+SHA1-Digest: ucoP/9VwFOiPgQoJL/lJW+oyHOg=
+
+Name: com/sun/el/parser/AstNegative.java
+SHA1-Digest: 8ZFiFuMl0VhxxUhSy2MU6tom9Lg=
+
+Name: com/sun/el/ValueExpressionLiteral.java
+SHA1-Digest: QbZsgPdnQs5RV2S7XqtIYzPNEIQ=
+
+Name: com/sun/el/ExpressionFactoryImpl.java
+SHA1-Digest: xliuoaKNiEO9goW+p3Yaz9mV0N4=
+
+Name: com/sun/el/parser/AstMod.java
+SHA1-Digest: NytgGdWdrzKNZJlsbe7C5Zbnh8U=
+
+Name: com/sun/el/parser/ELParserTokenManager.java
+SHA1-Digest: FHZAlIU2fyViHtR/7e8VvdkhsXw=
+
+Name: com/sun/el/Messages.properties
+SHA1-Digest: 9GcRs3UGvR1kX0wf1Ub3EkrhnNE=
+
+Name: com/sun/el/ValueExpressionImpl.java
+SHA1-Digest: dV0DMp1DAXOKhwyyz9UDKmij4Lg=
+

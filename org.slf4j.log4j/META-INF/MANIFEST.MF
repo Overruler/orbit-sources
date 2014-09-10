@@ -1,0 +1,102 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %Bundle-Vendor.0
+Eclipse-SourceBundle: org.slf4j.log4j;version="1.7.2.v20130115-1340"
+Bundle-Localization: plugin
+Bundle-Name: %Bundle-Name.0
+Bundle-SymbolicName: org.slf4j.log4j.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/org.slf4j.log4j/source-bundle;project="org.slf4j
+ .log4j.source";tag=v20130115-1340
+Bundle-Version: 1.7.2.v20130115-1340
+Bundle-ManifestVersion: 2
+
+Name: org/apache/log4j/PatternLayout.java
+SHA1-Digest: ShpjVSOkyYgVnUEULmmQqZ/ORN4=
+
+Name: org/apache/log4j/Priority.java
+SHA1-Digest: m7NlBrkuOp+w1tZ3TE8OmgfU0dM=
+
+Name: org/apache/log4j/spi/LoggerFactory.java
+SHA1-Digest: oDgiCzZrnqdy36A7KtzKQg5SX7Y=
+
+Name: org/apache/log4j/spi/LoggerRepository.java
+SHA1-Digest: vsdCre3tD6bZSugxg3Y2j9LxH6s=
+
+Name: org/apache/log4j/spi/Filter.java
+SHA1-Digest: hU8jzZa14MpJqdcS/VuGfXY1OG4=
+
+Name: plugin.properties
+SHA1-Digest: QOgiZzmLh7Gq//nmX2YSVI4WuBw=
+
+Name: org/apache/log4j/NDC.java
+SHA1-Digest: P0gfOXCsRKcEsrawY8LIEEhJL1Y=
+
+Name: org/apache/log4j/Logger.java
+SHA1-Digest: ttfBaDXruj/9qZ8pnzgLUVSt7R0=
+
+Name: org/apache/log4j/Level.java
+SHA1-Digest: jyHHyJUcwl2qHHh6AZff9qOo7VI=
+
+Name: org/apache/log4j/spi/Layout.java
+SHA1-Digest: TCKdBsqN6FX1eyjnhfKz7SFpfE8=
+
+Name: org/apache/log4j/xml/DOMConfigurator.java
+SHA1-Digest: 71ol95mTO43UoRihttsO0SXwiEE=
+
+Name: org/apache/log4j/spi/ErrorHandler.java
+SHA1-Digest: sKQu1uZIYDVmm+klgeGrv40dcQc=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: about_files/NOTICE.txt
+SHA1-Digest: l8kmUOH5ziCwuegrbv+5ZT8NVUE=
+
+Name: org/apache/log4j/Log4jLoggerFactory.java
+SHA1-Digest: q3FGeUxahSueWlF+ycwEiEaPAwE=
+
+Name: org/apache/log4j/helpers/NullEnumeration.java
+SHA1-Digest: sxKl+/apWBeAxx3BbN+ot/RBGHw=
+
+Name: org/apache/log4j/spi/LoggingEvent.java
+SHA1-Digest: 8vsijFO9R/xKLzNe1udMofKO0QE=
+
+Name: org/apache/log4j/Category.java
+SHA1-Digest: XJ4c039+3ilgXMuqXsjPEjgxmko=
+
+Name: org/apache/log4j/spi/HierarchyEventListener.java
+SHA1-Digest: CJhsBrsY8C7ExTFJI32UQaanl8U=
+
+Name: about.html
+SHA1-Digest: Jf9KasrH8gevu0ZjtIr+u852Gsw=
+
+Name: org/apache/log4j/spi/Configurator.java
+SHA1-Digest: OH4LYmv91VGRNcq+bsu+z+EHpvE=
+
+Name: org/apache/log4j/MDC.java
+SHA1-Digest: pwO32mCT8chY38qxgnk76mOZ3Ik=
+
+Name: about_files/SLF4J-LICENSE.txt
+SHA1-Digest: U64yX06BQZmT6IlD62m898LvAVY=
+
+Name: org/apache/log4j/BasicConfigurator.java
+SHA1-Digest: 7KE1Rn2u50b7X5gZXxsmnBwQz18=
+
+Name: org/apache/log4j/Layout.java
+SHA1-Digest: YGTH8T8430y8MBzYUlDAb1+FLco=
+
+Name: org/apache/log4j/PropertyConfigurator.java
+SHA1-Digest: r2uMZSyGIwEm2JnU7+aPq+pxO0U=
+
+Name: org/apache/log4j/helpers/LogLog.java
+SHA1-Digest: 4SSJjVd2/dSJN8v56NYNhONlQxc=
+
+Name: org/apache/log4j/LogManager.java
+SHA1-Digest: fL1X6G4fqkuIY4YINi9iEjoh/d0=
+
+Name: org/apache/log4j/Appender.java
+SHA1-Digest: sKL3AciZykAkkjA5fPhKk/RvQwQ=
+
+Name: org/apache/log4j/package.html
+SHA1-Digest: 8DNvAT57/8kRUSZO7LIOs6tU+bw=
+

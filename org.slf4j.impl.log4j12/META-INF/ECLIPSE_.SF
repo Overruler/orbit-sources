@@ -1,0 +1,38 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: Wa1CIO5NwFGlBGWErpOaTw6u4Ng=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: QBSWeAZ9QROnmnBJBEaiPlf0hVQ=
+
+Name: org/slf4j/impl/StaticLoggerBinder.java
+SHA1-Digest: zBIIWvI5HaQ5/LfoRcM1BcYrYqM=
+
+Name: org/slf4j/impl/StaticMDCBinder.java
+SHA1-Digest: y2YXlyGLXKkPF925xf/gly3tIE4=
+
+Name: org/slf4j/impl/Log4jLoggerAdapter.java
+SHA1-Digest: 8qP87fP8n5YF9zGE6bCmklknGW4=
+
+Name: about_files/NOTICE.txt
+SHA1-Digest: 6KHULwHvnZirPL61/Vy2RKhXb2Q=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/slf4j/impl/StaticMarkerBinder.java
+SHA1-Digest: JKmKwmEgTYvmyDl0lZG1Q/UGTL8=
+
+Name: org/slf4j/impl/Log4jLoggerFactory.java
+SHA1-Digest: i2ktw+CXaywyZG/EK5Tj633KDcA=
+
+Name: org/slf4j/impl/Log4jMDCAdapter.java
+SHA1-Digest: 8wZfG4zDuSDVOzgZelaO0r4U/xE=
+
+Name: about.html
+SHA1-Digest: QmPTDAmkIyqhsj237+aQcmhc85c=
+
+Name: plugin.properties
+SHA1-Digest: 4AeluRKL+5bnHl770NTYBXDdX3Q=
+
+Name: about_files/SLF4J-LICENSE.txt
+SHA1-Digest: dmjJZYLPmwvot+vFQlNFBDWcsa0=
+

@@ -1,0 +1,145 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %providerName
+Bundle-ActivationPolicy: lazy
+Eclipse-SourceBundle: org.hamcrest.core;version="1.3.0.v201303031735"
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.hamcrest.core.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/org.hamcrest.core/source-bundle;project="org.ham
+ crest.core.source";tag=v201303031735
+Bundle-Version: 1.3.0.v201303031735
+Bundle-ManifestVersion: 2
+
+Name: org/hamcrest/core/SubstringMatcher.java
+SHA1-Digest: j37aH4N3UmY6koqsf3kvK+ZiyVY=
+
+Name: org/hamcrest/core/Every.java
+SHA1-Digest: vpvgLLWJ/nh91mnrhHqAbmOBrTc=
+
+Name: org/hamcrest/TypeSafeMatcher.java
+SHA1-Digest: e/pOoKsmiAuH8YCDEM8XoMP+MrA=
+
+Name: plugin.properties
+SHA1-Digest: osnepURakkDuGePNPgwif/iRo8M=
+
+Name: org/hamcrest/CoreMatchers.java
+SHA1-Digest: zPz8k/XaXNfqK9f5o6rZvnJ5pHY=
+
+Name: org/hamcrest/core/IsNull.java
+SHA1-Digest: ccg5ex72x9JwJVL0Ih12nG58e78=
+
+Name: org/hamcrest/CustomMatcher.java
+SHA1-Digest: S4MolKST8BmM11yffoygtFt2ypU=
+
+Name: org/hamcrest/core/IsSame.java
+SHA1-Digest: BahfFKpE8YRbE0v71gYv2hJob6c=
+
+Name: org/hamcrest/core/StringEndsWith.java
+SHA1-Digest: Iu7B9smSnjX8jZO9u3VPl4Wfr3s=
+
+Name: org/hamcrest/package.html
+SHA1-Digest: xaWdfbtqrn9FKrLbOHRdnH9Q8jI=
+
+Name: org/hamcrest/core/DescribedAs.java
+SHA1-Digest: MPzT4c1B0VV9HYyK2JgRgCWvZ/4=
+
+Name: org/hamcrest/core/IsEqual.java
+SHA1-Digest: KzcnPsQzMA3i9Lx95VkIuGjfWfQ=
+
+Name: org/hamcrest/internal/SelfDescribingValueIterator.java
+SHA1-Digest: HtubGVUhUnt5tJnMActEyyjtG8Q=
+
+Name: org/hamcrest/core/IsNot.java
+SHA1-Digest: 3guoqf2jSQVw2EnCl7SMb/Wd7xk=
+
+Name: org/hamcrest/CustomTypeSafeMatcher.java
+SHA1-Digest: MxIhPlUNnFmbtI8tGtCmv2r8G/s=
+
+Name: org/hamcrest/core/Is.java
+SHA1-Digest: RgUIG4SCl1xYTr0h4ftKuXqycyM=
+
+Name: org/hamcrest/core/StringStartsWith.java
+SHA1-Digest: 4Oe8oY6w2Xg+k8o8vFTUi55G6+o=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: 1/XduEAjNSa+sw0ARl0ZSBZRQLQ=
+
+Name: org/hamcrest/MatcherAssert.java
+SHA1-Digest: FZL9/9dkZntHkB/IrxpjgqYV7x4=
+
+Name: org/hamcrest/internal/ArrayIterator.java
+SHA1-Digest: xTuPBUebWxl7A2t96DpK0iU63Xs=
+
+Name: org/hamcrest/DiagnosingMatcher.java
+SHA1-Digest: uLTD+tizavHGX3HhSySiKliHkAA=
+
+Name: org/hamcrest/SelfDescribing.java
+SHA1-Digest: HObuSEBouPlCu0w0nTL3kRg+hIg=
+
+Name: org/hamcrest/TypeSafeDiagnosingMatcher.java
+SHA1-Digest: Wnf2CA8tYCRQzF+Z9/sELWQXzSI=
+
+Name: org/hamcrest/core/package.html
+SHA1-Digest: 7NWxpeyqlkIe7HV1yxHlZs3vhTM=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/hamcrest/internal/SelfDescribingValue.java
+SHA1-Digest: dkaVuJ9Bpll9h8jiO5wK1X+tuzw=
+
+Name: org/hamcrest/internal/ReflectiveTypeFinder.java
+SHA1-Digest: b0jOP0u3dpu19e63qe4kPh3MYoU=
+
+Name: org/hamcrest/BaseDescription.java
+SHA1-Digest: x9YZEdjd/7JgYQPQHXWSVhqbw4o=
+
+Name: org/hamcrest/StringDescription.java
+SHA1-Digest: gLOFJIoY/6W59QeZezLvlimcWW4=
+
+Name: org/hamcrest/Factory.java
+SHA1-Digest: 6UrYSp3P+AoXpltdxf0Z6yc6hRM=
+
+Name: org/hamcrest/core/AllOf.java
+SHA1-Digest: bzL54QS0klvPAYA73PU4J+9M46A=
+
+Name: org/hamcrest/core/IsInstanceOf.java
+SHA1-Digest: o8Nz/AY28wVzI+g/Y36QKsR+AVs=
+
+Name: org/hamcrest/core/IsCollectionContaining.java
+SHA1-Digest: RT6FHkCAd4oC2KJBONYygKbQHSg=
+
+Name: about.html
+SHA1-Digest: gDT2Er1IoaKBT1HypdzQDPB7LUU=
+
+Name: org/hamcrest/core/CombinableMatcher.java
+SHA1-Digest: iSdd2UIbYFqDm0yu9TlrkJE6rWM=
+
+Name: org/hamcrest/BaseMatcher.java
+SHA1-Digest: tEqrSIIJp12iLWbt11wv7yUVmZw=
+
+Name: org/hamcrest/core/StringContains.java
+SHA1-Digest: Nu8+xYhplB9JyYp/aXjllOoQwUQ=
+
+Name: org/hamcrest/FeatureMatcher.java
+SHA1-Digest: /4XF1jq4MCDy3E+4nxr4QivDAAA=
+
+Name: org/hamcrest/core/IsAnything.java
+SHA1-Digest: 0G2hPCJic5LWxLb7OGViyxPyio0=
+
+Name: org/hamcrest/Description.java
+SHA1-Digest: ByjKe4N7oZa7/r25m/uR31GLh3o=
+
+Name: org/hamcrest/core/ShortcutCombination.java
+SHA1-Digest: KMybHjjTs3Achf9oxCXlw9HgyJg=
+
+Name: org/hamcrest/Condition.java
+SHA1-Digest: YFuIQsHqIYadpxjstxt4x2k0nNw=
+
+Name: org/hamcrest/core/AnyOf.java
+SHA1-Digest: Fme2J0LiEQ4ow2fVp9jb8RyFaO8=
+
+Name: org/hamcrest/Matcher.java
+SHA1-Digest: PCvde/Zo/Qnw6vp/VxKy4F4GGfs=
+

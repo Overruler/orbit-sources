@@ -1,0 +1,72 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %bundleProvider
+Eclipse-SourceBundle: javax.annotation;version="1.2.0.v201401042248"
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: javax.annotation.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/javax.annotation/source-bundle;project="javax.an
+ notation.source";tag=v201401042248
+Bundle-Version: 1.2.0.v201401042248
+Bundle-ManifestVersion: 2
+
+Name: javax/annotation/PostConstruct.java
+SHA1-Digest: m0yE3keXKZu1mx1jJ6MxRsNO99s=
+
+Name: javax/annotation/security/DenyAll.java
+SHA1-Digest: fr8RDM1dKuu3Bog8+6iL1sTOE84=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: javax/annotation/Priority.java
+SHA1-Digest: vm03SXWOvaHlCIgE4CNTdJw2a2Y=
+
+Name: javax/annotation/Generated.java
+SHA1-Digest: +BujlTh+aSXBpjBX1v9ms9ccSGE=
+
+Name: javax/annotation/ManagedBean.java
+SHA1-Digest: VfAvdAQNVTn8JL/T537pj5FT15c=
+
+Name: about.html
+SHA1-Digest: ppEv5VO0dEXhh//t1+U3L4AoDNY=
+
+Name: plugin.properties
+SHA1-Digest: w4U0gBHyDWxfWvCN4cVIv6+zvZE=
+
+Name: javax/annotation/sql/DataSourceDefinition.java
+SHA1-Digest: 684ZQu0Yk+WdHLwMFiDdh0gloqg=
+
+Name: javax/annotation/security/PermitAll.java
+SHA1-Digest: Glwho5PV2txd3U4kcNcKD2jClf0=
+
+Name: javax/annotation/PreDestroy.java
+SHA1-Digest: a1kRODodPL0D98SAhqP4XZyXGJI=
+
+Name: javax/annotation/Resources.java
+SHA1-Digest: uOJXiubCCsjP80g8SU6YPOHBN48=
+
+Name: about_files/LICENSE_CDDL.txt
+SHA1-Digest: yS+NaHusQahfaERHqIRuonOeUCI=
+
+Name: javax/annotation/security/DeclareRoles.java
+SHA1-Digest: 0jnczxSD4vLli7GD8X/o6TMaztA=
+
+Name: javax/annotation/package.html
+SHA1-Digest: 9n1GXYNwd280qtcnlrSclA1g9xQ=
+
+Name: javax/annotation/security/package.html
+SHA1-Digest: 6ZC9Zot2IcHQUr+VmMVFlVjzkJE=
+
+Name: javax/annotation/security/RunAs.java
+SHA1-Digest: Je+rfvC52DmaRqtFKDlaY8TkCqY=
+
+Name: javax/annotation/Resource.java
+SHA1-Digest: py4AmquF1/INQTZ6cL/hVTHGad8=
+
+Name: javax/annotation/sql/DataSourceDefinitions.java
+SHA1-Digest: kNQ0nBE50/OFuvYLe6H2fQm36Ts=
+
+Name: javax/annotation/security/RolesAllowed.java
+SHA1-Digest: +LRz8EZRHlhh2uQTeOgB4xiwHB0=
+

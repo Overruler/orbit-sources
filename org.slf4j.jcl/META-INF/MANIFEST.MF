@@ -1,0 +1,57 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %Bundle-Vendor.0
+Eclipse-SourceBundle: org.slf4j.jcl;version="1.7.2.v20130115-1340"
+Bundle-Localization: plugin
+Bundle-Name: %Bundle-Name.0
+Bundle-SymbolicName: org.slf4j.jcl.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/org.slf4j.jcl/source-bundle;project="org.slf4j.j
+ cl.source";tag=v20130115-1340
+Bundle-Version: 1.7.2.v20130115-1340
+Bundle-ManifestVersion: 2
+
+Name: org/apache/commons/logging/package.html
+SHA1-Digest: O6wXgzSw5wreccZJWghnJKKaiXA=
+
+Name: org/apache/commons/logging/LogConfigurationException.java
+SHA1-Digest: 0Gzw1BxngMAr9ecfKph55DPc6YE=
+
+Name: org/apache/commons/logging/impl/SimpleLog.java
+SHA1-Digest: mOKHa4U/18buHW6eILnaUvkz58k=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: about_files/NOTICE.txt
+SHA1-Digest: l8kmUOH5ziCwuegrbv+5ZT8NVUE=
+
+Name: org/apache/commons/logging/impl/SLF4JLogFactory.java
+SHA1-Digest: fVUEh3jZmZvnBYG/H7yKLANHHyk=
+
+Name: about.html
+SHA1-Digest: Jf9KasrH8gevu0ZjtIr+u852Gsw=
+
+Name: org/apache/commons/logging/impl/SLF4JLog.java
+SHA1-Digest: Y6ZHXrgvXjd3N6jVlprYOqYSYCI=
+
+Name: plugin.properties
+SHA1-Digest: giSfuy73czzqVutzcw4jifwZZLg=
+
+Name: about_files/SLF4J-LICENSE.txt
+SHA1-Digest: U64yX06BQZmT6IlD62m898LvAVY=
+
+Name: org/apache/commons/logging/impl/NoOpLog.java
+SHA1-Digest: lu4lLiZD0ZpkbsmMPHZ93vpa2V4=
+
+Name: org/apache/commons/logging/impl/SLF4JLocationAwareLog.java
+SHA1-Digest: 5UjHT2yI2xfbY+jWpMTI89slKyc=
+
+Name: org/apache/commons/logging/impl/package.html
+SHA1-Digest: omIOEUzQgEim6duS74N4DzCeAKM=
+
+Name: org/apache/commons/logging/Log.java
+SHA1-Digest: IoE5YzAQN+efgPPOyYyPMRnHCy8=
+
+Name: org/apache/commons/logging/LogFactory.java
+SHA1-Digest: wLH+TQVzaUgoo2TIV/UXU7huohM=
+

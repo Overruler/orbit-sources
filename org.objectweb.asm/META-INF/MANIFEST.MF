@@ -1,0 +1,160 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %providerName
+Eclipse-SourceBundle: org.objectweb.asm;version="5.0.1.v201404251740";
+ roots:="."
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.objectweb.asm.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/org.objectweb.asm/source-bundle;project="org.obj
+ ectweb.asm.source";tag=v201404251740
+Bundle-Version: 5.0.1.v201404251740
+Bundle-ManifestVersion: 2
+
+Name: org/objectweb/asm/ClassVisitor.java
+SHA1-Digest: oVkMO3wzLNOg99PKMGD7xVONnss=
+
+Name: org/objectweb/asm/FieldVisitor.java
+SHA1-Digest: zMBin9XBYkvUt1vtuubbajQmW7I=
+
+Name: org/objectweb/asm/optimizer/shrink.properties
+SHA1-Digest: uXdFsNg7e4A199s0po3+oS+oFPU=
+
+Name: org/objectweb/asm/AnnotationVisitor.java
+SHA1-Digest: UVfnEqrKdOFK21XTvjLA9lCOZBc=
+
+Name: org/objectweb/asm/package.html
+SHA1-Digest: Ae/ga/Qc46dQELG6g7s+kRA3Qo0=
+
+Name: org/objectweb/asm/optimizer/AnnotationConstantsCollector.java
+SHA1-Digest: gnt5C9o9y0UJ56We0rcyjJJe0n4=
+
+Name: org/objectweb/asm/optimizer/shrink-signatures.properties
+SHA1-Digest: QY4K1CcHYD3u4GHg28mpmh5n/LQ=
+
+Name: org/objectweb/asm/Frame.java
+SHA1-Digest: vF4cyngCVJ2GFioc/feIlPCHryE=
+
+Name: org/objectweb/asm/Type.java
+SHA1-Digest: 1MbAadaFKUxp9Jz25ZB1flerQH8=
+
+Name: org/objectweb/asm/optimizer/ConstantPool.java
+SHA1-Digest: sZDWS/IiAA2OELUlw2MRoYFenLk=
+
+Name: org/objectweb/asm/optimizer/MethodConstantsCollector.java
+SHA1-Digest: se/wXvRo5hCRem6Ic13EbGh3KKE=
+
+Name: org/objectweb/asm/Handler.java
+SHA1-Digest: nRB+zUmAj520AZCW6NSl15/mt78=
+
+Name: org/objectweb/asm/optimizer/NameMapping.java
+SHA1-Digest: /MeAdr4sburyHE2paqTHtnLy1EQ=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/objectweb/asm/signature/SignatureReader.java
+SHA1-Digest: knfQ0TblaVxyvZ7GChc1VZjLqas=
+
+Name: org/objectweb/asm/optimizer/ClassConstantsCollector.java
+SHA1-Digest: 2qkAS/S88xtL1J/0lv19Pa4xM60=
+
+Name: org/objectweb/asm/ClassReader.java
+SHA1-Digest: u8RGGp4kFcizl4FWjSCWHUX2dFs=
+
+Name: org/objectweb/asm/Handle.java
+SHA1-Digest: 8W+bkGRgsHBjY1ftMR9KFO1ts10=
+
+Name: org/objectweb/asm/optimizer/MethodOptimizer.java
+SHA1-Digest: l8gBlUukMSODq3jpB5y1cYagF94=
+
+Name: about_files/README.txt
+SHA1-Digest: g+hfjp6RL2xeop0L2gLHmlqdZkM=
+
+Name: org/objectweb/asm/MethodVisitor.java
+SHA1-Digest: eVAJt4VyaNhWEErAiIXZzj+QnYM=
+
+Name: org/objectweb/asm/FieldWriter.java
+SHA1-Digest: P7BhqqhU5AqrO5CyYiXhOvfsrps=
+
+Name: org/objectweb/asm/optimizer/ClassOptimizer.java
+SHA1-Digest: b2sxLxDGH2ZiUO5JNSYsoieqcBA=
+
+Name: org/objectweb/asm/signature/package.html
+SHA1-Digest: yqiHvPpXiVGlvIlStNBoVOj1lc4=
+
+Name: org/objectweb/asm/optimizer/Shrinker.java
+SHA1-Digest: 3p2uMN+c75hl/HrD5bHICry8bkM=
+
+Name: org/objectweb/asm/optimizer/shrink-frames.properties
+SHA1-Digest: u0eTAWms94jzkqTPMCbUXShw7sA=
+
+Name: org/objectweb/asm/ByteVector.java
+SHA1-Digest: orqAllYTSRv+oiZXx0QX3wQQ4X8=
+
+Name: org/objectweb/asm/Attribute.java
+SHA1-Digest: UlWQJzhWK5XTNnygSlN7flQbOTQ=
+
+Name: org/objectweb/asm/optimizer/shrink-annotations.properties
+SHA1-Digest: ITVbek5SGHdNUJkr2WVvUK0zQ1o=
+
+Name: plugin.properties
+SHA1-Digest: vHfkBcg6xgwdlJ6TrYlYqQobPFc=
+
+Name: org/objectweb/asm/AnnotationWriter.java
+SHA1-Digest: HRL3ceKI7AGA7mQIZlTMx1jUSus=
+
+Name: org/objectweb/asm/TypeReference.java
+SHA1-Digest: /7Tz2ZgnLre5errSOqLdiu0DRsw=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: Q+8tcUG4ujkxQVlbgZYlx9UvhFA=
+
+Name: org/objectweb/asm/optimizer/Constant.java
+SHA1-Digest: bMEjmxOspXrNYhQ9DARnHrjxA0w=
+
+Name: org/objectweb/asm/Context.java
+SHA1-Digest: sQyqkAbXVfYe1QMEZ7G1QedEbKM=
+
+Name: org/objectweb/asm/optimizer/shrink-writer.properties
+SHA1-Digest: Wq9V87i67BZh2nFwuPZ/G+llwgA=
+
+Name: org/objectweb/asm/MethodWriter.java
+SHA1-Digest: TpvusA4DDFs0y+nUInSay1J2Yn0=
+
+Name: org/objectweb/asm/optimizer/JarOptimizer.java
+SHA1-Digest: 4IWj3u0BiKHhzRnhOJU9U+45JpM=
+
+Name: org/objectweb/asm/Opcodes.java
+SHA1-Digest: zaCmClRO0VMUXi+q+zhHJNWWcyU=
+
+Name: org/objectweb/asm/Item.java
+SHA1-Digest: TCXgxaLYU5D47Wtt5r3I1tS1vJc=
+
+Name: org/objectweb/asm/signature/SignatureVisitor.java
+SHA1-Digest: ggnW/LzXtVQyiS5EEoIBiV3FH0Q=
+
+Name: org/objectweb/asm/optimizer/FieldConstantsCollector.java
+SHA1-Digest: TosaVIZMhh78KOy4BNpQZscuiTE=
+
+Name: about.html
+SHA1-Digest: 1IBVZBKMS4tHo8PPluB4yujRJYw=
+
+Name: org/objectweb/asm/Label.java
+SHA1-Digest: 7BuPcLRMfzL0OSyxX+3IfU2UkBI=
+
+Name: org/objectweb/asm/signature/SignatureWriter.java
+SHA1-Digest: UaZbmTkSkas5PogTvDccmTMhw+A=
+
+Name: org/objectweb/asm/TypePath.java
+SHA1-Digest: w8sQ+1sgbaNaAYrLzJpElZZg2Mc=
+
+Name: org/objectweb/asm/Edge.java
+SHA1-Digest: OjY9SGzEvNRepoe/KeQDU8CmtmM=
+
+Name: org/objectweb/asm/optimizer/shrink-resize.properties
+SHA1-Digest: pkW58oftC+Ha+vLLLtAF4dUynOs=
+
+Name: org/objectweb/asm/ClassWriter.java
+SHA1-Digest: whj535AjiNsknwQFTnpKax93A4Y=
+

@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %Bundle-Vendor.0
+Eclipse-SourceBundle: org.slf4j.impl.log4j12;version="1.7.2.v20131105-
+ 2200"
+Bundle-Localization: plugin
+Bundle-Name: %Bundle-Name.0
+Bundle-SymbolicName: org.slf4j.impl.log4j12.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/org.slf4j.impl.log4j/source-bundle;project="org.
+ slf4j.impl.log4j12.source";tag=v20131105-2200
+Bundle-Version: 1.7.2.v20131105-2200
+Bundle-ManifestVersion: 2
+
+Name: org/slf4j/impl/StaticMDCBinder.java
+SHA1-Digest: wsd1XHfkjNtlyP/P8LKNzbj+MYQ=
+
+Name: org/slf4j/impl/StaticLoggerBinder.java
+SHA1-Digest: YiNnQS8mBa5UaZ6tZd2i9TDcjg8=
+
+Name: org/slf4j/impl/Log4jLoggerAdapter.java
+SHA1-Digest: wx3ytGZNptEA5Sv4hpN71+XQ3DY=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: about_files/NOTICE.txt
+SHA1-Digest: l8kmUOH5ziCwuegrbv+5ZT8NVUE=
+
+Name: org/slf4j/impl/StaticMarkerBinder.java
+SHA1-Digest: e5PuFzBGSoojCsCS3PoJPs9kzwc=
+
+Name: org/slf4j/impl/Log4jLoggerFactory.java
+SHA1-Digest: 21jK+oHlrtSAWkIeKM77bqcBu4w=
+
+Name: org/slf4j/impl/Log4jMDCAdapter.java
+SHA1-Digest: Pj8TgTk/8FKF6Agv8ryrOcwgHws=
+
+Name: about.html
+SHA1-Digest: Jf9KasrH8gevu0ZjtIr+u852Gsw=
+
+Name: plugin.properties
+SHA1-Digest: Zjokz7gj4XIsE89jIEtw7LndPPc=
+
+Name: about_files/SLF4J-LICENSE.txt
+SHA1-Digest: U64yX06BQZmT6IlD62m898LvAVY=
+

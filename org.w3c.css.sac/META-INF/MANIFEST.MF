@@ -1,0 +1,120 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.w3c.css.sac;version="1.3.1.v200903091627"
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.w3c.css.sac.source
+Bundle-Version: 1.3.1.v200903091627
+Bundle-ManifestVersion: 2
+
+Name: about_files/LICENSE-2.0.txt
+SHA1-Digest: NV/tRSeBE64tS1EXrewu6DAklWI=
+
+Name: org/w3c/css/sac/LexicalUnit.java
+SHA1-Digest: JRddUIgriCqAFcojJBzauANEqZQ=
+
+Name: org/w3c/css/sac/PositionalCondition.java
+SHA1-Digest: esf7PB7ZZF3u2n/ZMS+lNajuwWA=
+
+Name: org/w3c/css/sac/NegativeSelector.java
+SHA1-Digest: vXc+5mz4nBK+89Im6D5Fi0tuO0Y=
+
+Name: org/w3c/css/sac/helpers/ParserFactory.java
+SHA1-Digest: dZ384Cr0Hy3yHz6cvApLlrzRMCo=
+
+Name: org/w3c/css/sac/SACMediaList.java
+SHA1-Digest: 3nGgYrOKyppDMeNY4Ih7VQk6zjk=
+
+Name: plugin.properties
+SHA1-Digest: U3ddNGJq+H0KTwszsZV2fke2fmk=
+
+Name: org/w3c/css/sac/Condition.java
+SHA1-Digest: F6Q89bNn7jPIZdxajp/9qQgrPD8=
+
+Name: org/w3c/css/sac/ProcessingInstructionSelector.java
+SHA1-Digest: uAChfTIq1u0VZoLVwVDC1N18WYc=
+
+Name: about_files/LICENSE.sax.txt
+SHA1-Digest: nLruOpGjtGaI+ZlGUtNVbIr5CEE=
+
+Name: org/w3c/css/sac/ContentCondition.java
+SHA1-Digest: lnLzF+nbtXN4/dv5Tp5CofrdzKc=
+
+Name: org/w3c/css/sac/ErrorHandler.java
+SHA1-Digest: Z1BrLm3j1V3ZkhEBDAByC9aPXsI=
+
+Name: org/w3c/css/sac/CharacterDataSelector.java
+SHA1-Digest: N4+xE0afLN+qpkDGZU+hZIo3lo0=
+
+Name: org/w3c/css/sac/LangCondition.java
+SHA1-Digest: CEvc3olA1NX/pf2rnzC0Sw+9hXc=
+
+Name: about_files/NOTICE
+SHA1-Digest: 7sj4n7c6wtvZjq7hnNMC2mGUdTE=
+
+Name: org/w3c/css/sac/NegativeCondition.java
+SHA1-Digest: 3QWiTdq+XOHzk9RrOZNOpCcW4HQ=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/w3c/css/sac/ConditionalSelector.java
+SHA1-Digest: RnrX7QilN/ErA4V3bLUsSVWAPyo=
+
+Name: org/w3c/css/sac/InputSource.java
+SHA1-Digest: c3Mzi6NITDTsVtRzNeDwXCZXXrE=
+
+Name: org/w3c/css/sac/SimpleSelector.java
+SHA1-Digest: EaIQxwg4GJOgPUiWywJKMaCb1Sk=
+
+Name: org/w3c/css/sac/SiblingSelector.java
+SHA1-Digest: ClPwQdwGB5lgWGLy6ISt7Fa7XkI=
+
+Name: org/w3c/css/sac/ConditionFactory.java
+SHA1-Digest: 5TKHtNKJ4Y0xB1eLnMusLnDJCGU=
+
+Name: org/w3c/css/sac/CombinatorCondition.java
+SHA1-Digest: nuYRpghxdLXJyA1V99bcmmrOaBg=
+
+Name: org/w3c/css/sac/CSSParseException.java
+SHA1-Digest: PU27XiZnWBIfvdoLcjEKfelIIU4=
+
+Name: org/w3c/css/sac/CSSException.java
+SHA1-Digest: Km/0rC0nCzJUUFLUIJDDoUQO6ko=
+
+Name: about.html
+SHA1-Digest: Xx4aRRKc4AA58Q3qFMNpDfE76u4=
+
+Name: org/w3c/css/sac/ElementSelector.java
+SHA1-Digest: 6XNz+9f+JPPJRoFDltrZrLjC9jk=
+
+Name: org/w3c/css/sac/Locator.java
+SHA1-Digest: xS8Oq4I65b1a4hLkIhANjz94eXA=
+
+Name: org/w3c/css/sac/Selector.java
+SHA1-Digest: EVmmWaLYpRA/76VlljDSTDrLWTA=
+
+Name: org/w3c/css/sac/Parser.java
+SHA1-Digest: dUZSbI8YrtKQ1bODnKMK5n5zLis=
+
+Name: org/w3c/css/sac/AttributeCondition.java
+SHA1-Digest: i+GDy2UKLvgr3mBy56toan62S0Q=
+
+Name: about_files/README
+SHA1-Digest: 6ucCCJgwbMHFjoa+zJeAytt+bwA=
+
+Name: org/w3c/css/sac/SelectorList.java
+SHA1-Digest: NDE47tbH1EPNsIZDmgBrNvUaUdk=
+
+Name: org/w3c/css/sac/DocumentHandler.java
+SHA1-Digest: xE4fnWNc+B/cMCuqGLuJ2YG7NGw=
+
+Name: org/w3c/css/sac/DescendantSelector.java
+SHA1-Digest: 3uLI7D1uvjRnneng4zS1Un92wUs=
+
+Name: org/w3c/css/sac/SelectorFactory.java
+SHA1-Digest: oKQ6IdfnzrAiFFH31SLydoQSOjA=
+
+Name: about_files/LICENSE-W3C-20021231.html
+SHA1-Digest: 2GooOdQv7CkyJQAhG2q/2NHneu0=
+

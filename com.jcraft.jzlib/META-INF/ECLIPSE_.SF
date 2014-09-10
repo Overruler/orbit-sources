@@ -1,0 +1,83 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: EaZyjXz7hzBxP3qed2l2jf839t0=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: uyZu8stZ8BCfgEVqtlZplR1Tjak=
+
+Name: com/jcraft/jzlib/JZlib.java
+SHA1-Digest: sslQCiNTs8t06w/fkUM3xc5PZM0=
+
+Name: com/jcraft/jzlib/Deflater.java
+SHA1-Digest: RMOWIR0TvuyaTvNQfICGQXV+PkU=
+
+Name: com/jcraft/jzlib/GZIPHeader.java
+SHA1-Digest: Q8XB0DoOOHpXAN66KOTaDjTY01Q=
+
+Name: com/jcraft/jzlib/Inflate.java
+SHA1-Digest: BXh2z7sv95s0XbuciqpS6RQPY4A=
+
+Name: com/jcraft/jzlib/InfBlocks.java
+SHA1-Digest: M7xlGV+xeK1qfDzOJWjkEgGvdTg=
+
+Name: plugin.properties
+SHA1-Digest: ps5WhER5IjDX2ifhxVrTTD6yuMI=
+
+Name: com/jcraft/jzlib/ZStreamException.java
+SHA1-Digest: GNMWqyX6rJ9WVZOShCdo3lMFAmI=
+
+Name: com/jcraft/jzlib/ZOutputStream.java
+SHA1-Digest: BVE9IWwCMUzqAAfNhigDdT41rXk=
+
+Name: com/jcraft/jzlib/ZStream.java
+SHA1-Digest: 5adgXcPiKMbYssYK0v1jwDv6xvs=
+
+Name: com/jcraft/jzlib/StaticTree.java
+SHA1-Digest: sSE61Bv8ge5ol9LNJ5AvJHcgdA0=
+
+Name: com/jcraft/jzlib/Adler32.java
+SHA1-Digest: tQ02dwHRj6D4w9BnXdXIbK0nYKU=
+
+Name: com/jcraft/jzlib/GZIPException.java
+SHA1-Digest: jb3wZKJNyHFfijXVUpFXLTLM2Vo=
+
+Name: com/jcraft/jzlib/Inflater.java
+SHA1-Digest: AQrXu+Id3BMz/lAarzLJBrp7BXc=
+
+Name: com/jcraft/jzlib/CRC32.java
+SHA1-Digest: 6mApOIVDoF4UuJX2jMUYcJ1DZXA=
+
+Name: com/jcraft/jzlib/DeflaterOutputStream.java
+SHA1-Digest: Kn8ycRAn05V0HGQdeMzOPlszefk=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: com/jcraft/jzlib/GZIPInputStream.java
+SHA1-Digest: Lci9buhZaZT30KVSoqoFq4CwOLI=
+
+Name: com/jcraft/jzlib/InfCodes.java
+SHA1-Digest: x+LIOAixty8HOpvCq9l6yPj7Q6g=
+
+Name: com/jcraft/jzlib/Checksum.java
+SHA1-Digest: iYpQa/kdsTHv+15R4XBPMfFwX7s=
+
+Name: com/jcraft/jzlib/Deflate.java
+SHA1-Digest: jzYQFYeHvFI02VGhHCB8n2YiRfA=
+
+Name: about.html
+SHA1-Digest: //ygrwoLROgeHiLIiE9RYHoAuZU=
+
+Name: com/jcraft/jzlib/Tree.java
+SHA1-Digest: 5IMcgFUfReqqnNXNnd92toSiwGA=
+
+Name: com/jcraft/jzlib/GZIPOutputStream.java
+SHA1-Digest: iDzDJ8dN9tnKZ2vVEJ2JlBKnSTs=
+
+Name: com/jcraft/jzlib/InflaterInputStream.java
+SHA1-Digest: temKMvgryNLBIys8frYqmnxEZHw=
+
+Name: com/jcraft/jzlib/InfTree.java
+SHA1-Digest: boH5Plk+JsSvhPJ5sr27Oq8yPhs=
+
+Name: com/jcraft/jzlib/ZInputStream.java
+SHA1-Digest: 1IbPhVPcTCCturJWM48D54TJz0Y=
+

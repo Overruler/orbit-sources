@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: javax.inject;version="1.0.0.v20091030"
+Bundle-Vendor: %bundleProvider
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: javax.inject.source
+Bundle-Version: 1.0.0.v20091030
+Bundle-ManifestVersion: 2
+
+Name: javax/inject/Scope.java
+SHA1-Digest: 9AADj58nuv1gkS3vanmpMOaAByI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: javax/inject/package-info.java
+SHA1-Digest: iBez5+JIUawGzr+/OQ6y9eed3cI=
+
+Name: javax/inject/Singleton.java
+SHA1-Digest: prVD5f6Ll86h0vkF3KNVVngyo98=
+
+Name: javax/inject/Provider.java
+SHA1-Digest: lVetR9i6kF7P7B8W0E4B1l2+ynY=
+
+Name: javax/inject/Inject.java
+SHA1-Digest: lzDNUhVByuJZIqo6fKw6A2v1y9Q=
+
+Name: javax/inject/Qualifier.java
+SHA1-Digest: /zF5NMal0usOMjbE/TxMTb1dmVE=
+
+Name: javax/inject/Named.java
+SHA1-Digest: L50T8nQnDIJ/UceNED8QADsKwiE=
+
+Name: about.html
+SHA1-Digest: uLAsDULTzC8HbUXgFh/wj37WTe4=
+
+Name: plugin.properties
+SHA1-Digest: IbhZh1oflZPwsmW4C1Qm9P0e61A=
+

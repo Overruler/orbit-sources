@@ -1,0 +1,308 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: bEfW2SYqUXLTatluVowNXrzUGc0=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: BWQh9mMoZenZ/RmNx6EGRJAA3Oo=
+
+Name: javax/servlet/ServletContext.java
+SHA1-Digest: w/JJkD4YV1TrMQwIvX4NItiKp1A=
+
+Name: javax/servlet/ServletContextAttributeEvent.java
+SHA1-Digest: 1ef+F6dCSUtJ/XNx+t8z693d6tc=
+
+Name: javax/servlet/resources/xml.xsd
+SHA1-Digest: Y4O0aQI9H1a4CEDbGLSxgHGSCH0=
+
+Name: javax/servlet/ServletConfig.java
+SHA1-Digest: IoxOvkhSqGaWX+RlnHA1Jk1BdqI=
+
+Name: javax/servlet/FilterConfig.java
+SHA1-Digest: KcYxYRqLsSIu+uI48fXZvTxOuAk=
+
+Name: javax/servlet/resources/javaee_web_services_1_2.xsd
+SHA1-Digest: eozG3Y5YuMBTSsqtHSZFG6pgEXM=
+
+Name: javax/servlet/http/HttpServletRequest.java
+SHA1-Digest: uS2wlZKaPGGdlBIz0rU9+2Iqjk4=
+
+Name: javax/servlet/MultipartConfigElement.java
+SHA1-Digest: ZtSliNN6pkjoQeKwFP8tADkvLPs=
+
+Name: javax/servlet/resources/javaee_6.xsd
+SHA1-Digest: d7/T6X+oVzgp9VYLslaueXfSNrQ=
+
+Name: javax/servlet/ServletRequest.java
+SHA1-Digest: V03aIhWxN/OJSbxq/E6hG13ZqgY=
+
+Name: javax/servlet/ServletRequestEvent.java
+SHA1-Digest: hKCc+4S4EDibC1Sp6YDVtmFaRNI=
+
+Name: javax/servlet/ServletRequestAttributeEvent.java
+SHA1-Digest: KVF0HFBHNsonNhkcd7EAGDYLtHg=
+
+Name: javax/servlet/http/Cookie.java
+SHA1-Digest: 4VOQB8AeFwjwjHNd7sSSHBhPUNM=
+
+Name: javax/servlet/http/HttpSessionAttributeListener.java
+SHA1-Digest: NKA9MBRbHlbuxDYn8sd8kNICstk=
+
+Name: javax/servlet/annotation/HttpMethodConstraint.java
+SHA1-Digest: BstuMjf5nOcaKa+liuMj8IerDUY=
+
+Name: javax/servlet/UnavailableException.java
+SHA1-Digest: F2VB+AEHze91KMXwAhqdsxwhDS0=
+
+Name: javax/servlet/AsyncEvent.java
+SHA1-Digest: QeDmcSlC4p52jNXpmMT0CK0RQUI=
+
+Name: javax/servlet/LocalStrings_fr.properties
+SHA1-Digest: NGAfQqnpYqa7M0+BQO3JhvQjbyY=
+
+Name: javax/servlet/resources/javaee_web_services_client_1_2.xsd
+SHA1-Digest: Fuz3j25HWrdP38NEZgv+7mfX/dg=
+
+Name: javax/servlet/ServletSecurityElement.java
+SHA1-Digest: Tw5/lectRO4I90wtJ+F7DrIibFA=
+
+Name: javax/servlet/resources/j2ee_1_4.xsd
+SHA1-Digest: MKJWXrznHJVn6+oRIqtyinpr3z8=
+
+Name: javax/servlet/descriptor/TaglibDescriptor.java
+SHA1-Digest: RCf5qulw7Ss3tak6TaYGoAcTo9U=
+
+Name: javax/servlet/HttpConstraintElement.java
+SHA1-Digest: tNGvBkq/Ib4eJ36SeMhn+qmlNgA=
+
+Name: javax/servlet/FilterRegistration.java
+SHA1-Digest: 0pzZ5hj+zsBqIQhtH4jrJ5tMLt4=
+
+Name: javax/servlet/RequestDispatcher.java
+SHA1-Digest: l1sQeJL4J+L9UyA5aWYc6TQJLLs=
+
+Name: javax/servlet/HttpMethodConstraintElement.java
+SHA1-Digest: dXgwHREzDfh16qCELpzstbpQ0FM=
+
+Name: javax/servlet/resources/web-app_2_4.xsd
+SHA1-Digest: UPNtOPeiRvaqf4Hz6SM9hLcLwQ8=
+
+Name: javax/servlet/http/HttpSessionEvent.java
+SHA1-Digest: Licez7RIYtWC2vY4KjP/glVaKvc=
+
+Name: javax/servlet/AsyncListener.java
+SHA1-Digest: ZPHeyeg9L1JkoU2VL6O7HVYjpk8=
+
+Name: javax/servlet/ServletContextEvent.java
+SHA1-Digest: lNrrQ1bgFup13Td0jQY9c3EHmLE=
+
+Name: javax/servlet/resources/web-app_2_2.dtd
+SHA1-Digest: 6nv++RUC93UO9xEOWDW4zgeYm2A=
+
+Name: javax/servlet/ServletOutputStream.java
+SHA1-Digest: OMIKCaCalXBK6ZIeDwhqKejNmq0=
+
+Name: javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+SHA1-Digest: ywqZiNMiGSrWgPmyZAJ7j+gpKCA=
+
+Name: javax/servlet/SessionCookieConfig.java
+SHA1-Digest: dwGWwxZS7YqSE7CkjSZcSWnKch8=
+
+Name: javax/servlet/http/HttpSessionBindingListener.java
+SHA1-Digest: QFNcRwv4m6T4F9nJQOJX2RJzfM8=
+
+Name: javax/servlet/annotation/WebFilter.java
+SHA1-Digest: vXBm+NMoHvYe68CMpg+Jv50MXBk=
+
+Name: javax/servlet/annotation/WebListener.java
+SHA1-Digest: ZWJQ/ZKvmHFvZTJxqpInudMaTT0=
+
+Name: javax/servlet/http/LocalStrings_ja.properties
+SHA1-Digest: SScivs2nGnbZvZN52uJxR/v78Ds=
+
+Name: about.html
+SHA1-Digest: +y54g/73e9FnXXWJ3J7w5DL2//Q=
+
+Name: javax/servlet/ServletRegistration.java
+SHA1-Digest: RETIskalSYrsjKFyy0iX+r/Fraw=
+
+Name: javax/servlet/http/HttpServletResponseWrapper.java
+SHA1-Digest: q3sbFk+4asVE0mYzJtU3AwYkCZ4=
+
+Name: javax/servlet/resources/web-app_3_0.xsd
+SHA1-Digest: oiunB5SzWOTRM5ETuu/9KLQeEgM=
+
+Name: javax/servlet/ServletResponseWrapper.java
+SHA1-Digest: Aqayzdv71MeEYIguXj2UyA6/FOc=
+
+Name: javax/servlet/descriptor/JspPropertyGroupDescriptor.java
+SHA1-Digest: Qrr7TFtd73cwHvQ9UiwFAkYMnjM=
+
+Name: javax/servlet/annotation/HandlesTypes.java
+SHA1-Digest: LzYZN0j9nEval0LboFGzOWlqTjk=
+
+Name: javax/servlet/LocalStrings.properties
+SHA1-Digest: 1u5z8m8rwRfCXZ+kCgdb1N94SnQ=
+
+Name: javax/servlet/annotation/ServletSecurity.java
+SHA1-Digest: ZyLOe0LXTKSBJ3Lvh5TUdLIuNqw=
+
+Name: javax/servlet/ServletRequestWrapper.java
+SHA1-Digest: C3c7GpntC+ESr4e4QGCO1/dC04A=
+
+Name: javax/servlet/DispatcherType.java
+SHA1-Digest: ETw3N1QIQhKr2vXjcryEOZrjyBw=
+
+Name: javax/servlet/ServletRequestAttributeListener.java
+SHA1-Digest: q8OpFW4TglVtU4aOsXWQF+2Y/O8=
+
+Name: javax/servlet/ServletContainerInitializer.java
+SHA1-Digest: NBIrWLCQG/i8LGR3E15VFRZjoYQ=
+
+Name: javax/servlet/annotation/HttpConstraint.java
+SHA1-Digest: X1HHQgF903oHW2Q/BECbCGxi+T4=
+
+Name: javax/servlet/http/LocalStrings_es.properties
+SHA1-Digest: vAKGlG4o0Sn4Od2oOt7KhqHBNBI=
+
+Name: javax/servlet/http/HttpSessionListener.java
+SHA1-Digest: Ih8LNxzpK/VLsODDSzAgcjJftfQ=
+
+Name: about_files/LICENSE_CDDL.txt
+SHA1-Digest: jAvUsWkd//yXv7qyLY25ES7gXvs=
+
+Name: javax/servlet/Registration.java
+SHA1-Digest: YRlf/hhN0VmSeR+8JlH4MIvNvuI=
+
+Name: javax/servlet/descriptor/JspConfigDescriptor.java
+SHA1-Digest: DDGpWkeBM+vN5wIwXaBy8drX+4Q=
+
+Name: javax/servlet/http/HttpServlet.java
+SHA1-Digest: Sl3bhBjWAEZWhnqqomXrY7iR7DE=
+
+Name: javax/servlet/resources/javaee_web_services_1_3.xsd
+SHA1-Digest: YqGJJl+Zs+Xdvs5sxnnPdTMMWlE=
+
+Name: javax/servlet/SingleThreadModel.java
+SHA1-Digest: YUCoW5TgXwZgsPqPPlssdZd+qIg=
+
+Name: javax/servlet/http/HttpSessionActivationListener.java
+SHA1-Digest: N7ZIWVVMCRnFhIqSkr5wXsDu3MM=
+
+Name: javax/servlet/resources/javaee_5.xsd
+SHA1-Digest: o38ZgUlycGm8yC2NDN0vMVTc8Yg=
+
+Name: javax/servlet/SessionTrackingMode.java
+SHA1-Digest: F2fliaJMgHzcm76ABuNTf4Ar5ns=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: javax/servlet/http/LocalStrings.properties
+SHA1-Digest: D9R5ZN/r00x8GzADl7DkboefNl8=
+
+Name: javax/servlet/ServletInputStream.java
+SHA1-Digest: fdtyxKeiXsG53sS0mGYYJHmJUDM=
+
+Name: javax/servlet/http/HttpUtils.java
+SHA1-Digest: MjAhCl/QfY2+A1oL5ZFwT0vG18o=
+
+Name: javax/servlet/ServletContextAttributeListener.java
+SHA1-Digest: GQxTW00qj/Z2MFGtb86MZHBAsfU=
+
+Name: javax/servlet/Servlet.java
+SHA1-Digest: d8Lye0wzYB8ypbSxOd5lyXSRlqI=
+
+Name: javax/servlet/ServletContextListener.java
+SHA1-Digest: a6afrM7jWDtMTwkot6365A1P91U=
+
+Name: javax/servlet/descriptor/package.html
+SHA1-Digest: GcZZQk2Q6zmXso29lfO9QFDYAkk=
+
+Name: javax/servlet/http/LocalStrings_fr.properties
+SHA1-Digest: i0YlTMzYqSoNCJWLMx2DAR1Qn44=
+
+Name: javax/servlet/resources/XMLSchema.dtd
+SHA1-Digest: HBZq++j7U9yrBBae6v8UaQq5PSY=
+
+Name: javax/servlet/resources/j2ee_web_services_1_1.xsd
+SHA1-Digest: c/mfbxSmhSqWhCQwHtyed+iz5RE=
+
+Name: javax/servlet/resources/javaee_web_services_client_1_3.xsd
+SHA1-Digest: E1KNL2O2BVfReQUdbLLfSUeRMws=
+
+Name: javax/servlet/http/HttpServletRequestWrapper.java
+SHA1-Digest: 3bRC1eiO9aQekfuNF9esPjg/faw=
+
+Name: javax/servlet/resources/web-fragment_3_0.xsd
+SHA1-Digest: 0mv4vybKEiOT13pS/pyRd8QRj9c=
+
+Name: javax/servlet/package.html
+SHA1-Digest: F9wuYRpbqS+AGjkRAnlzGY9YbQI=
+
+Name: javax/servlet/annotation/MultipartConfig.java
+SHA1-Digest: J2vacPHeFQSNSfP3yfOYXf/zujI=
+
+Name: javax/servlet/GenericServlet.java
+SHA1-Digest: 50zENttpEA+86N4Xyv+ygbixUBA=
+
+Name: javax/servlet/resources/web-app_2_5.xsd
+SHA1-Digest: DrjtGleoHbwSlvxRFlTdX9lwufg=
+
+Name: javax/servlet/annotation/WebServlet.java
+SHA1-Digest: 8GVo77TYmVegr3m0xHzafKPR3Is=
+
+Name: javax/servlet/resources/datatypes.dtd
+SHA1-Digest: MYeBjDo2yS6KRm71j/eieU4fUdU=
+
+Name: javax/servlet/resources/web-app_2_3.dtd
+SHA1-Digest: SSEZM385zZ2BkuWGVJO3qVZvSlQ=
+
+Name: javax/servlet/FilterChain.java
+SHA1-Digest: DxKwOLFnKizIN5suLkepCOh+9tM=
+
+Name: javax/servlet/http/HttpSessionContext.java
+SHA1-Digest: 8XVAvO5PdTxP+VqWIp6GWKNVww0=
+
+Name: plugin.properties
+SHA1-Digest: T4MbHk3GSUMcUbcVB+XFQn2MuJ4=
+
+Name: javax/servlet/ServletRequestListener.java
+SHA1-Digest: s2U4RV5WeVT6pfYuZeVLM5QIv/o=
+
+Name: javax/servlet/resources/web-common_3_0.xsd
+SHA1-Digest: i3khImCnTHTsGu8AnN+BaBiNjAQ=
+
+Name: javax/servlet/http/HttpSessionBindingEvent.java
+SHA1-Digest: moQdtMdFI8cG1Ye8aCaBpkzUKnk=
+
+Name: javax/servlet/http/HttpServletResponse.java
+SHA1-Digest: BhaUh7KUBy6brfC+QtOlvphzNCc=
+
+Name: javax/servlet/ServletException.java
+SHA1-Digest: 16o0Oyps1MgnPuB3SDAdtR02JB4=
+
+Name: javax/servlet/LocalStrings_ja.properties
+SHA1-Digest: uFK+X0ddvzZ4veoLgd0kvMcZPqw=
+
+Name: javax/servlet/http/HttpSession.java
+SHA1-Digest: lNgZfwEU2INEJnd/rJ0lRSKbyOM=
+
+Name: javax/servlet/annotation/WebInitParam.java
+SHA1-Digest: z9b3LtxbqySAG2WcHbPg2sPM7HY=
+
+Name: javax/servlet/ServletResponse.java
+SHA1-Digest: dkV34nGKhAE4daQ4zygR8GidAPY=
+
+Name: javax/servlet/annotation/package.html
+SHA1-Digest: vdYQN5uUsOWdMfDzyJR46wzPlvM=
+
+Name: javax/servlet/Filter.java
+SHA1-Digest: GfikinE/NHLDvFkAUki1dJJhlr4=
+
+Name: javax/servlet/http/package.html
+SHA1-Digest: mExNc6/kgYygrEfYffX0siwQ1kM=
+
+Name: javax/servlet/http/Part.java
+SHA1-Digest: i2KwvyJUYhVURbqh4zz6Ugf+k2A=
+
+Name: javax/servlet/AsyncContext.java
+SHA1-Digest: 07yiEhfCmGeUjH/nRU3ngHqySc8=
+

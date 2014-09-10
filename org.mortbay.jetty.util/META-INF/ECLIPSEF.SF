@@ -1,0 +1,182 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: P3NjKN8dAQv351to/1VqbadW/9U=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: qoV68bq/YVqGBziiidH8rBE9GRk=
+
+Name: org/mortbay/servlet/ThrottlingFilter.java
+SHA1-Digest: caPVxOeqrIomgk6l4f5juvLymK8=
+
+Name: org/mortbay/util/TypeUtil.java
+SHA1-Digest: j5baZrEgh/syxLSNBQZg5sNJYVk=
+
+Name: org/mortbay/util/URIUtil.java
+SHA1-Digest: iPk2gWCzWJT8OSkHwKftZnuapQ4=
+
+Name: org/mortbay/servlet/ConcatServlet.java
+SHA1-Digest: UFoaONHzZhVgByHk0PkCKdklbFo=
+
+Name: org/mortbay/thread/Timeout.java
+SHA1-Digest: ja31H8Xsin0PH0dYaFjDdRDuXJw=
+
+Name: org/mortbay/util/ajax/WaitingContinuation.java
+SHA1-Digest: gg1eDcloRNB94QVuJPIdaftmZp4=
+
+Name: org/mortbay/servlet/CGI.java
+SHA1-Digest: M7cm8ufXJWvFx0+S+SpMUOQtBwk=
+
+Name: org/mortbay/servlet/MultiPartFilter.java
+SHA1-Digest: jBEI80sq4X56hB6YVc0QhcsazVg=
+
+Name: org/mortbay/log/Log.java
+SHA1-Digest: qWKTqU66JA4tcnwJZDFvrbNbSJc=
+
+Name: org/mortbay/util/Scanner.java
+SHA1-Digest: LadX8f/lbEvgqyJzK6LRZE7wLYk=
+
+Name: org/mortbay/util/ajax/ContinuationSupport.java
+SHA1-Digest: 6Ql8s4waLRAgF3sFKaq1xVDLThI=
+
+Name: org/mortbay/log/Slf4jLog.java
+SHA1-Digest: 1e2iIa9tA2pBaaGdnM10zhVTEmY=
+
+Name: org/mortbay/servlet/NoJspServlet.java
+SHA1-Digest: DcSlntkEDXOfBPPw+4JMOZK0iJk=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/mortbay/util/DateCache.java
+SHA1-Digest: tV0qbZ0CLd81lmmxjFX/J1AV2qs=
+
+Name: org/mortbay/util/ajax/JSONObjectConvertor.java
+SHA1-Digest: dSth4KcwalHoOk3zn/QE6vuUfPU=
+
+Name: org/mortbay/thread/ThreadPool.java
+SHA1-Digest: pbHIBQMRDnyCvBF6BhiQTqBLnWw=
+
+Name: org/mortbay/servlet/UserAgentFilter.java
+SHA1-Digest: HBcxE1IY8oIw/27+os0NupoLc04=
+
+Name: org/mortbay/util/ajax/JSONPojoConvertor.java
+SHA1-Digest: J9HhEuNom9QW2uSyTZ0MShE+Tn4=
+
+Name: org/mortbay/thread/BoundedThreadPool.java
+SHA1-Digest: 826zrHjG8pshb+mXTOzmqCUEJMc=
+
+Name: org/mortbay/util/Attributes.java
+SHA1-Digest: 6ZZ6IOmh06NT69BNg0bDz813KjI=
+
+Name: org/mortbay/servlet/GzipFilter.java
+SHA1-Digest: LAho8N7U6gM0VzHfwxnLPTtQjKI=
+
+Name: org/mortbay/util/AttributesMap.java
+SHA1-Digest: Qo4EH5i7QGZFwDvUkfJa/OCaL68=
+
+Name: org/mortbay/util/RolloverFileOutputStream.java
+SHA1-Digest: qN+I5sT2as+kM42fAMkC5m7SrQw=
+
+Name: org/mortbay/component/LifeCycle.java
+SHA1-Digest: Ciot6vVI8UHbqRhGJj+lQNVq+JU=
+
+Name: org/mortbay/util/ByteArrayISO8859Writer.java
+SHA1-Digest: /pg7FjqNIWC55TsFe49HckhWn0g=
+
+Name: org/mortbay/log/StdErrLog.java
+SHA1-Digest: /j4orn4hTiSb6YvnrdN8rQFq7vA=
+
+Name: org/mortbay/servlet/WelcomeFilter.java
+SHA1-Digest: BEuYZXHMk9YcQ3s6vvK4SndIzxk=
+
+Name: org/mortbay/util/ajax/JSONPojoConvertorFactory.java
+SHA1-Digest: 06Lk2hp+WNowt8v9NcvhcYR4n7U=
+
+Name: org/mortbay/servlet/ProxyServlet.java
+SHA1-Digest: 6vBXdYDQ/dwdA4SC0hl4lnBAfPI=
+
+Name: plugin.properties
+SHA1-Digest: dRcW4IIjV72kosnqgIkzCCEaXIY=
+
+Name: org/mortbay/log/Logger.java
+SHA1-Digest: 81QOYaPt+HTnIE0ZWfOEAyZpRWc=
+
+Name: org/mortbay/util/MultiException.java
+SHA1-Digest: xvhQ61heii7ZCYyE+R/3W9ehiBw=
+
+Name: org/mortbay/util/ajax/Continuation.java
+SHA1-Digest: 7/GsFXjN3qpyJoU+IeQv/u3tYEw=
+
+Name: org/mortbay/util/StringUtil.java
+SHA1-Digest: jUP9ExNZV047vWANWr4ByVHqb+U=
+
+Name: org/mortbay/util/ajax/JSONDateConvertor.java
+SHA1-Digest: r7Uf/oiTBUV+B8/1CMbC9BLajHM=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: AZ1Gz6XJJe7p5KHLgXjkErkNZ+A=
+
+Name: org/mortbay/util/MultiPartWriter.java
+SHA1-Digest: udZBmzoPABoWtbsmul9NIaCsfBM=
+
+Name: org/mortbay/util/QuotedStringTokenizer.java
+SHA1-Digest: XgJt5Z7vCm/ZnJRilfZZKEbsvQE=
+
+Name: org/mortbay/util/IntrospectionUtil.java
+SHA1-Digest: tm/2sFzQQnl1nME+KLC30ZfyAqY=
+
+Name: org/mortbay/util/IO.java
+SHA1-Digest: OEkKS5e9B/GlpjCUn6j/By5D5+s=
+
+Name: org/mortbay/util/ajax/JSON.java
+SHA1-Digest: QlW33ACcDvb9pr9txuBWyxciIU0=
+
+Name: about_files/NOTICE.txt
+SHA1-Digest: sfuZ5KOws2nNaxvDdUjJgxdw338=
+
+Name: org/mortbay/util/MultiMap.java
+SHA1-Digest: vSrFwU/6tWCC/ksqaWfbobAPVxY=
+
+Name: org/mortbay/component/Container.java
+SHA1-Digest: RPLrg3n2q4HrpkyjszbBA9blst0=
+
+Name: org/mortbay/util/Utf8StringBuffer.java
+SHA1-Digest: sllk6Pe4e7rtuQQq1zwQuC62RII=
+
+Name: org/mortbay/util/ByteArrayOutputStream2.java
+SHA1-Digest: qSeSmp4TbIXWb2oivFov9xf3U3I=
+
+Name: org/mortbay/util/UrlEncoded.java
+SHA1-Digest: JcslOfBi1j3hbxN2rFUC44hMmw8=
+
+Name: org/mortbay/util/ajax/JSONEnumConvertor.java
+SHA1-Digest: yxM/WRX50hWb32bPnLBuxmLutOo=
+
+Name: org/mortbay/util/MultiPartOutputStream.java
+SHA1-Digest: 3vP23byJd0Sj9Od8J3jAjJG6BBQ=
+
+Name: about.html
+SHA1-Digest: rw50gTKdO6PsxR2aKtUnjJ5gLVM=
+
+Name: org/mortbay/util/StringMap.java
+SHA1-Digest: rcLM8qblrzkJC4QBCMWybeC/XYk=
+
+Name: org/mortbay/util/SingletonList.java
+SHA1-Digest: kaItLHWBRrE00++5JQ4UL7aVFrY=
+
+Name: org/mortbay/util/ajax/AjaxFilter.java
+SHA1-Digest: j6x45KyxUTaRai1IlURUHU4eHYc=
+
+Name: org/mortbay/util/Loader.java
+SHA1-Digest: QcrwKYPMEHtoDS4G/5mFNNisQbk=
+
+Name: org/mortbay/util/LazyList.java
+SHA1-Digest: oIcYfvQ/3muul1oFrunIDEndwt0=
+
+Name: org/mortbay/servlet/RestFilter.java
+SHA1-Digest: v5SIZYk7rGVdeJ5gjG/ZziASjro=
+
+Name: org/mortbay/thread/QueuedThreadPool.java
+SHA1-Digest: fRyp8+6goCdRXR/F7ICrxYTWgpQ=
+
+Name: org/mortbay/component/AbstractLifeCycle.java
+SHA1-Digest: Pr3daHMGSxBtSoYFN1i9/13JIqs=
+

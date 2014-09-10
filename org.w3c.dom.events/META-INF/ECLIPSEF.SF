@@ -1,0 +1,65 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: IPAtRK/pVlE+73i1hwpHzxrZZfs=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: XutMvKKvqXEtvu8nEcUXC9f3xiM=
+
+Name: org/w3c/dom/events/UIEvent.java
+SHA1-Digest: LsN/K+rw4VlvdGL0+XN0SGsk17k=
+
+Name: org/w3c/dom/events/MutationNameEvent.java
+SHA1-Digest: puY+Nwox1xMhRgkHZpuymgOg5p0=
+
+Name: about_files/LICENSE-2.0.txt
+SHA1-Digest: WQPAMR6UasOuSXQqhMW2ZmVd4y8=
+
+Name: about_files/NOTICE
+SHA1-Digest: B5eN3FAnxBosFCsQDEZ/04AYORQ=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/w3c/dom/events/MouseEvent.java
+SHA1-Digest: cGOGYaTYj46xSz9y/dQHyX0/YhM=
+
+Name: org/w3c/dom/events/EventException.java
+SHA1-Digest: UMzBaVx8GuO2aWnRyPa3+OF28h4=
+
+Name: org/w3c/dom/events/DocumentEvent.java
+SHA1-Digest: vJGI1QnCSSs1WgqrcxrpKFKMHrM=
+
+Name: about_files/LICENSE.dom-software.txt
+SHA1-Digest: zsJ/6ew8B438yFMmjfVrNe4sqRE=
+
+Name: about.html
+SHA1-Digest: T4XU2BX0pwYo/ZI0YPSZChoL0g8=
+
+Name: org/w3c/dom/events/Event.java
+SHA1-Digest: zC1Q7JBb/x64c2l415RJVPZh8YU=
+
+Name: plugin.properties
+SHA1-Digest: pS8ptc8OnmmkOjEt22bdQ32tM1U=
+
+Name: org/w3c/dom/events/KeyboardEvent.java
+SHA1-Digest: 2zboSXLfn/Jirx9KjwMmpuQ+Uxg=
+
+Name: about_files/LICENSE.sax.txt
+SHA1-Digest: H25VYYcI7vLTRX53TAx1K8rtGkc=
+
+Name: org/w3c/dom/events/MutationEvent.java
+SHA1-Digest: TOWlGiPH0kKTvR3Y7SvKVQVO15Q=
+
+Name: org/w3c/dom/events/EventListener.java
+SHA1-Digest: E130HWwYw6ycrILoXWfx60DYvWM=
+
+Name: about_files/README
+SHA1-Digest: eqzl2DMeTAYplW/IJ958qY4L4og=
+
+Name: org/w3c/dom/events/TextEvent.java
+SHA1-Digest: JPUzsyPz+Hej2vJVS5jMUYaOi9c=
+
+Name: org/w3c/dom/events/EventTarget.java
+SHA1-Digest: x8QZif9D7gr+y4jAWVuEMzOZolw=
+
+Name: org/w3c/dom/events/CustomEvent.java
+SHA1-Digest: mZB1r/VVr0nGmvnQMycM9FxnsY0=
+

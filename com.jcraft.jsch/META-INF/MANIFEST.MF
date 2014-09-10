@@ -1,0 +1,369 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %venderName
+Eclipse-SourceBundle: com.jcraft.jsch;version="0.1.50.v201403120620"
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: com.jcraft.jsch.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/com.jcraft.jsch/source-bundle;project="com.jcraf
+ t.jsch.source";tag=v201403120620
+Bundle-Version: 0.1.50.v201403120620
+Bundle-ManifestVersion: 2
+
+Name: com/jcraft/jsch/KeyPairDSA.java
+SHA1-Digest: hJqR2Gx+5jLPvRNcR7PXhV6C6DY=
+
+Name: com/jcraft/jsch/KeyExchange.java
+SHA1-Digest: bTh5osQDAL1G9qq0VpsQiMwQ3Sw=
+
+Name: com/jcraft/jsch/ChannelX11.java
+SHA1-Digest: Nm8GZ+jd1GDWNSoTSyEdWwZRMgc=
+
+Name: com/jcraft/jsch/RequestAgentForwarding.java
+SHA1-Digest: N/SQEcOn9+uAwSSX2bWDC1Ii/bU=
+
+Name: com/jcraft/jsch/jcraft/Compression.java
+SHA1-Digest: pv627B8iii1sN7z4zfLu5rxkZBU=
+
+Name: com/jcraft/jsch/RequestPtyReq.java
+SHA1-Digest: wnatpZsjF7BBEW1ZSnGQEGeinFo=
+
+Name: com/jcraft/jsch/jce/SHA1.java
+SHA1-Digest: 6ak7kPt/zkD8lHkzXLXdtUpiyeI=
+
+Name: com/jcraft/jsch/jce/KeyPairGenRSA.java
+SHA1-Digest: Ptye/TOcOTh5s/JhTRlERW3qUas=
+
+Name: com/jcraft/jsch/KeyPair.java
+SHA1-Digest: ZO8oH5fYnX5kfG50ebQJaMgpz7s=
+
+Name: com/jcraft/jsch/ChannelShell.java
+SHA1-Digest: Q8WokACxZzEDXZQzc8Ori/MRkns=
+
+Name: com/jcraft/jsch/Signature.java
+SHA1-Digest: fDsEE6D4D8OgqjnuTJkvUzFkItw=
+
+Name: com/jcraft/jsch/HostKey.java
+SHA1-Digest: X4d+TVqgz8cQKpKhi6FFsEBP62s=
+
+Name: com/jcraft/jsch/RequestSignal.java
+SHA1-Digest: e3ejFUFOucUYyPN09drkxn6+clY=
+
+Name: com/jcraft/jsch/SocketFactory.java
+SHA1-Digest: tU6+95ZUGTE2axi04huUWFZGqvo=
+
+Name: com/jcraft/jsch/jgss/GSSContextKrb5.java
+SHA1-Digest: Kq2AXgYbstXdppE7010xhFON9tU=
+
+Name: com/jcraft/jsch/KnownHosts.java
+SHA1-Digest: 4vYjxIxAZFrfJHG/dZiZG1lAfBw=
+
+Name: com/jcraft/jsch/KeyPairRSA.java
+SHA1-Digest: hjqYRZqTjHQF2uGxLxM5oLDYM/Q=
+
+Name: com/jcraft/jsch/IO.java
+SHA1-Digest: n3Kb9x4wLy0dDku7Fyod12VClQQ=
+
+Name: com/jcraft/jsch/Request.java
+SHA1-Digest: zBaulAc7zlxdEKsI2P1GnEXpQy8=
+
+Name: com/jcraft/jsch/Proxy.java
+SHA1-Digest: BYfATvc2ExRot8rnndCPZBIZWRk=
+
+Name: com/jcraft/jsch/Util.java
+SHA1-Digest: yeJ4hC3FklKxY1hK30ktgppDS1U=
+
+Name: com/jcraft/jsch/Buffer.java
+SHA1-Digest: Ne4nPKlJaDR8Mf4t3sLT6qZasrE=
+
+Name: com/jcraft/jsch/jcraft/HMACMD5.java
+SHA1-Digest: KC7yhrQlojnMNzf2piGZljzQnf0=
+
+Name: com/jcraft/jsch/jcraft/HMACMD596.java
+SHA1-Digest: PpQCId0ss7KY0kyCGNUR/0mpjms=
+
+Name: com/jcraft/jsch/Channel.java
+SHA1-Digest: 2JVYPzOt1jYdWXBtE8HwV1YCZjY=
+
+Name: com/jcraft/jsch/HostKeyRepository.java
+SHA1-Digest: /XsoVfKmjEgP4PgfMKJoewg8GNA=
+
+Name: com/jcraft/jsch/ChannelSession.java
+SHA1-Digest: a048B+Ksvtudt8kcHkK91svR6kA=
+
+Name: com/jcraft/jsch/PortWatcher.java
+SHA1-Digest: dbNqKnVACxS9cm5dtS3wLERTtXI=
+
+Name: com/jcraft/jsch/KeyPairGenDSA.java
+SHA1-Digest: hFkbSv66EIvWDr/ZaMP5eOhKoKI=
+
+Name: com/jcraft/jsch/ConfigRepository.java
+SHA1-Digest: XdUuaWAi5yYOVmpQ8bKejg4aIIo=
+
+Name: com/jcraft/jsch/Cipher.java
+SHA1-Digest: aGp9s6dCTyft+SREolqSSkr/oII=
+
+Name: com/jcraft/jsch/DHGEX.java
+SHA1-Digest: hfCFN1Y38zO4X/yR+/jQv5aHGxc=
+
+Name: com/jcraft/jsch/ForwardedTCPIPDaemon.java
+SHA1-Digest: AqtBmHqd39tH0vfw5SL0U14/brw=
+
+Name: com/jcraft/jsch/ServerSocketFactory.java
+SHA1-Digest: 5bEVsNZwIO3iizruN1FBBBmAVGI=
+
+Name: com/jcraft/jsch/jce/HMACMD5.java
+SHA1-Digest: Zqdwam+7L88g+a7i6s8E8TNMbIM=
+
+Name: com/jcraft/jsch/ProxySOCKS4.java
+SHA1-Digest: af8Q2afKBrzjVuhRjte2XjgvXTI=
+
+Name: com/jcraft/jsch/jce/Random.java
+SHA1-Digest: WCUfcD3X2j1Ykn0tIWjntPY73d0=
+
+Name: com/jcraft/jsch/jce/ARCFOUR128.java
+SHA1-Digest: flHr3KskEKr7Yxde9E5e0w9+OAo=
+
+Name: com/jcraft/jsch/RequestSubsystem.java
+SHA1-Digest: WcoWebwS3XvG3dJ29SbtEeOS2Cg=
+
+Name: com/jcraft/jsch/RequestEnv.java
+SHA1-Digest: TSAgzK8oswu0WUb5G0HZtTIpUCQ=
+
+Name: com/jcraft/jsch/jce/SignatureDSA.java
+SHA1-Digest: KHowWGV1+jTs7SjUiEL0voa9nU4=
+
+Name: com/jcraft/jsch/ChannelForwardedTCPIP.java
+SHA1-Digest: xSPFrPFvLZ6evoopypiz644GNo0=
+
+Name: com/jcraft/jsch/SignatureDSA.java
+SHA1-Digest: ZhDhkIy6G+K6nKo/cCn6Vsbci2U=
+
+Name: com/jcraft/jsch/UserAuthPublicKey.java
+SHA1-Digest: l2ifCET9yi7YmrcGF86om7HQmpM=
+
+Name: com/jcraft/jsch/jce/TripleDESCTR.java
+SHA1-Digest: We99Ax6jSP5F5oOel8+oZaQTYhc=
+
+Name: com/jcraft/jsch/JSch.java
+SHA1-Digest: nWTLiFwuP+78pMjHqqXv2nU3cmE=
+
+Name: about.html
+SHA1-Digest: zxgdJvkbxA+ObTQ/2ujUCuqLgwQ=
+
+Name: com/jcraft/jsch/jce/SHA256.java
+SHA1-Digest: OKotvKiC+4D5vrziGT9TNZsT9NM=
+
+Name: com/jcraft/jsch/MAC.java
+SHA1-Digest: Cnc3x4gIbB12zctWyg/b24YQhjY=
+
+Name: com/jcraft/jsch/CipherNone.java
+SHA1-Digest: CV5/7xt+KDg+qxW3X9dlUH2iA8Q=
+
+Name: com/jcraft/jsch/ChannelAgentForwarding.java
+SHA1-Digest: 4TpUfU6uezNZhYjzzx2aw3KB+q8=
+
+Name: com/jcraft/jsch/KeyPairGenRSA.java
+SHA1-Digest: aH+w2YgEIMn/AZT6xEFxT0OX/gA=
+
+Name: com/jcraft/jsch/UserInfo.java
+SHA1-Digest: Qvqmbu3XTpQxh9ICpKuEcNSOb3c=
+
+Name: com/jcraft/jsch/jce/AES192CTR.java
+SHA1-Digest: im9q4SnetshceJjPzmkJEmPLRW0=
+
+Name: com/jcraft/jsch/JSchPartialAuthException.java
+SHA1-Digest: n9HTakTSFn3d3Odklg+byZmCWMQ=
+
+Name: com/jcraft/jsch/jce/TripleDESCBC.java
+SHA1-Digest: Kdj6nj8LyuQMDm2q62kJf60yr+Q=
+
+Name: com/jcraft/jsch/jce/HMACSHA1.java
+SHA1-Digest: xk47W2lDamcwl1PqtSXgWQBPzdg=
+
+Name: com/jcraft/jsch/UserAuthGSSAPIWithMIC.java
+SHA1-Digest: xPB72CAx5TJKmsDsiLbokogs1Os=
+
+Name: com/jcraft/jsch/DHG1.java
+SHA1-Digest: gWwkhJZjOMq/kfH2DXj5HPKCDoU=
+
+Name: com/jcraft/jsch/jce/SignatureRSA.java
+SHA1-Digest: ebiPFd1QyJsJ4FDecaSKWwFoB50=
+
+Name: com/jcraft/jsch/jce/BlowfishCBC.java
+SHA1-Digest: Gc1OCwzA+3nm0Tzw8Isri7k7/58=
+
+Name: com/jcraft/jsch/Session.java
+SHA1-Digest: 4O+0mqc2mu8RfNEJpYV6PbGC7r0=
+
+Name: com/jcraft/jsch/jce/HMAC.java
+SHA1-Digest: zr3pnFL1Djwuna3w/xVGjnAoZ90=
+
+Name: com/jcraft/jsch/RequestX11.java
+SHA1-Digest: SGxt746rMg2IYzbQzE5LNCE7cG4=
+
+Name: com/jcraft/jsch/SignatureRSA.java
+SHA1-Digest: JTpHUZqLm80GZjpmqA9LbVOlUmM=
+
+Name: com/jcraft/jsch/DH.java
+SHA1-Digest: RZJuhQlGXvdJb+VqmXl/J6Wfq2s=
+
+Name: com/jcraft/jsch/Random.java
+SHA1-Digest: U4Kto4gwFj5nN8pZKdU8OOkZ/Oc=
+
+Name: com/jcraft/jsch/ChannelDirectTCPIP.java
+SHA1-Digest: dbC657xrKexqAPvYPh1mb2yPoSI=
+
+Name: com/jcraft/jsch/jce/AES192CBC.java
+SHA1-Digest: IZ+GMP20Zoa9zFUY7TByPMm7HrI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: com/jcraft/jsch/jcraft/HMACSHA196.java
+SHA1-Digest: MwxpOApVqsL98agKcQPZcEQczOA=
+
+Name: com/jcraft/jsch/OpenSSHConfig.java
+SHA1-Digest: gsC15boT/4+1c0TmAHSr/G7Fuqg=
+
+Name: com/jcraft/jsch/RequestExec.java
+SHA1-Digest: 9Qfxcs16I9G2/knbhLJ8vWUNoSI=
+
+Name: com/jcraft/jsch/SftpStatVFS.java
+SHA1-Digest: ImgMEBbcsjbAsNexsXzOYZE2SlI=
+
+Name: com/jcraft/jsch/jce/HMACSHA256.java
+SHA1-Digest: fqrm7Gv1CFjbxgzUIHWZEcTNmcc=
+
+Name: com/jcraft/jsch/ProxyHTTP.java
+SHA1-Digest: 6tWneVqmSb89PXnJXvJ3fdZ9EXY=
+
+Name: com/jcraft/jsch/jce/AES128CTR.java
+SHA1-Digest: tYeaQFlbC0nx+iaMBRtaAAPp9I8=
+
+Name: com/jcraft/jsch/ChannelExec.java
+SHA1-Digest: S6IcAe6SJ1KhDR/i3D5tB7NNn48=
+
+Name: com/jcraft/jsch/RequestShell.java
+SHA1-Digest: 9mpF7/eI2qgjSg2wiAdArCCXYe8=
+
+Name: com/jcraft/jsch/jce/ARCFOUR256.java
+SHA1-Digest: GXensQpc6Q9ZLl1es2OeIqWUucM=
+
+Name: com/jcraft/jsch/Compression.java
+SHA1-Digest: v+oj9C8LtT+xjXuD9id9VYkJyRc=
+
+Name: com/jcraft/jsch/jce/HMACSHA512.java
+SHA1-Digest: fb9MRdmpVHaai8F5pZTWIBay7Es=
+
+Name: com/jcraft/jsch/JSchAuthCancelException.java
+SHA1-Digest: 9T/YEa2rayOsA/KzxK58qIorzzE=
+
+Name: com/jcraft/jsch/UserAuth.java
+SHA1-Digest: lNUx+G2b9Uij+4ysH7DUdPcNKms=
+
+Name: com/jcraft/jsch/SftpProgressMonitor.java
+SHA1-Digest: SSHWMvZLnLdOG2k8yDPOLCyLS70=
+
+Name: com/jcraft/jsch/HASH.java
+SHA1-Digest: TpCgsb51N2K+WwQqgzMGEnau1q4=
+
+Name: com/jcraft/jsch/jce/AES256CTR.java
+SHA1-Digest: 0IKFSIvld/zMRJsI3qepGhMXooU=
+
+Name: com/jcraft/jsch/jce/AES128CBC.java
+SHA1-Digest: A5jvAhvEu9Mt9nKBwjWGYme1mi4=
+
+Name: plugin.properties
+SHA1-Digest: txndMNkfVYK1HVXqGiXmyoip3J4=
+
+Name: com/jcraft/jsch/jce/HMACSHA196.java
+SHA1-Digest: LltXiZ0nN/K5l+hbqASmnXpqFa4=
+
+Name: com/jcraft/jsch/ChannelSubsystem.java
+SHA1-Digest: +hFQRIHOVOuwedHiFx4foI8AgPE=
+
+Name: com/jcraft/jsch/jce/ARCFOUR.java
+SHA1-Digest: pBLL75P1JXRzZDzDzwiLinPNVOc=
+
+Name: com/jcraft/jsch/IdentityRepository.java
+SHA1-Digest: VmUOmQmBt5qha2sMwhJ7jXKbpPU=
+
+Name: com/jcraft/jsch/GSSContext.java
+SHA1-Digest: A6n2Pn2boSJErbclQORCBvtmIx0=
+
+Name: com/jcraft/jsch/LocalIdentityRepository.java
+SHA1-Digest: ZvOBYSrQOkM1pUNG0e8o7Wyw640=
+
+Name: com/jcraft/jsch/jce/DH.java
+SHA1-Digest: QqtAfUUHMBAwG+PV9ZoV79e8KQg=
+
+Name: com/jcraft/jsch/jce/HMACMD596.java
+SHA1-Digest: 0wTh97RnB2OZBQHOz6LcFSFj/iA=
+
+Name: com/jcraft/jsch/RequestWindowChange.java
+SHA1-Digest: rEQEty2QS5LhI4EjIQ2/ovhWbnE=
+
+Name: com/jcraft/jsch/DHGEX256.java
+SHA1-Digest: gCyGcx+gGGE7NaKLJIL4CjlTMAk=
+
+Name: com/jcraft/jsch/UIKeyboardInteractive.java
+SHA1-Digest: zPT/Fh97Mru/DsQaZLQHpVjLSn4=
+
+Name: com/jcraft/jsch/IdentityFile.java
+SHA1-Digest: AdtQpb0YNXuvGc/dN+Uxdihh2lg=
+
+Name: com/jcraft/jsch/DHG14.java
+SHA1-Digest: 8iizEJNZgQvKPUaKEVAjebb2aUI=
+
+Name: com/jcraft/jsch/jcraft/HMACSHA1.java
+SHA1-Digest: wmJiEUdsI+XDHEqH+SgdkUp25Es=
+
+Name: com/jcraft/jsch/JSchException.java
+SHA1-Digest: Czei+PMoK0RqDPZehD9xqzXe3Pk=
+
+Name: com/jcraft/jsch/jcraft/HMAC.java
+SHA1-Digest: Al+FGT8LHKEfKjITVQe7NcFNTd4=
+
+Name: com/jcraft/jsch/SftpException.java
+SHA1-Digest: /V3M5YJk9pbm7d2T8JNqcrSTyrM=
+
+Name: com/jcraft/jsch/RequestSftp.java
+SHA1-Digest: mWUtB88ItYXPd6PDxTQloiM4a3E=
+
+Name: com/jcraft/jsch/jce/AES256CBC.java
+SHA1-Digest: wWQNNr3nKtWUVMVoEkaa+vd65Fg=
+
+Name: com/jcraft/jsch/Logger.java
+SHA1-Digest: HSIABpSLR05IWTJcQozacsCw5/w=
+
+Name: com/jcraft/jsch/jce/MD5.java
+SHA1-Digest: lWseutFz4DApYGDq/pQhYPjVm2g=
+
+Name: com/jcraft/jsch/UserAuthPassword.java
+SHA1-Digest: vgOdPgqZchfqdRr1+52WEnA7m2I=
+
+Name: com/jcraft/jsch/jce/KeyPairGenDSA.java
+SHA1-Digest: rLHh3lBCRwCIreSMvGGikYh+3N4=
+
+Name: com/jcraft/jsch/UserAuthNone.java
+SHA1-Digest: Q35zYUl65j7zTBOtRXcIXFn7FpQ=
+
+Name: com/jcraft/jsch/Packet.java
+SHA1-Digest: QhJFmlEDgU598dQG2MgvAvmrEFw=
+
+Name: com/jcraft/jsch/ProxySOCKS5.java
+SHA1-Digest: e6sjos46aUv0LEGnChiKqUEZDBY=
+
+Name: com/jcraft/jsch/SftpATTRS.java
+SHA1-Digest: 5PsSw2mVWLQoLrYkikvtDDrM+zw=
+
+Name: com/jcraft/jsch/ChannelSftp.java
+SHA1-Digest: sDxrjbw49Hua8kkT4TedjLq4Ef8=
+
+Name: com/jcraft/jsch/Identity.java
+SHA1-Digest: AuJ3IQ96oKVjbu8YFeAHqvHz1vA=
+
+Name: com/jcraft/jsch/UserAuthKeyboardInteractive.java
+SHA1-Digest: NvGnfjl1Mlsj6K0k8e/ODaBmhtY=
+

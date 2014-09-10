@@ -1,0 +1,107 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: EgVrWq5XflT2ZuHMeti1BuxbsgY=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: WCS1DgLKrsMPktmEgJYkmd8mW9E=
+
+Name: org/slf4j/impl/StaticMDCBinder.java
+SHA1-Digest: obSQWnLZs9WYgM4a5eAEuAIuAbI=
+
+Name: org/slf4j/helpers/BasicMDCAdapter.java
+SHA1-Digest: FZC1R/0FhMJCXO840V5fsFZSjy4=
+
+Name: org/slf4j/spi/LoggerFactoryBinder.java
+SHA1-Digest: yHcuPHACPg7CH+4UAogN2jbZsLs=
+
+Name: org/slf4j/ILoggerFactory.java
+SHA1-Digest: OAwjCh+RiDY2mXKDJCZ4AA3mun8=
+
+Name: org/slf4j/Logger.java
+SHA1-Digest: IV63FlGIMO2YTCp/+wqa4u81gYQ=
+
+Name: org/slf4j/package.html
+SHA1-Digest: WkUx3S+AOixaALVc60NQ8ZCzNL0=
+
+Name: org/slf4j/impl/package.html
+SHA1-Digest: VWsTr2yDMR3MI85tdglxYOT89c0=
+
+Name: org/slf4j/helpers/Util.java
+SHA1-Digest: ZeVuAgqr04IgOjFU8jLFDrfwYqI=
+
+Name: org/slf4j/LoggerFactory.java
+SHA1-Digest: jJjpbXXsKioxuLJwscDMsJ0YsYI=
+
+Name: org/slf4j/spi/package.html
+SHA1-Digest: ld0ppIxfUU0psWuW0kIftsY8QQs=
+
+Name: plugin.properties
+SHA1-Digest: vla/49Ahg3wdVZac3FX+DjQPyeU=
+
+Name: org/slf4j/impl/StaticLoggerBinder.java
+SHA1-Digest: tbRzUq21Ml96qF9cABxmiKi3CbA=
+
+Name: org/slf4j/helpers/SubstituteLoggerFactory.java
+SHA1-Digest: DagPuJoPCLqovmQNz49tQLfmuM8=
+
+Name: org/slf4j/helpers/NOPLogger.java
+SHA1-Digest: iLRaEIN+9WjtPYshAAyJwL4dPW4=
+
+Name: org/slf4j/spi/MDCAdapter.java
+SHA1-Digest: iUlvbLHMMP+SreyPj4NtnoDk3aA=
+
+Name: org/slf4j/helpers/package.html
+SHA1-Digest: yVWtWLUiOvjX3/UQ1a6tHRtx5kE=
+
+Name: org/slf4j/helpers/NamedLoggerBase.java
+SHA1-Digest: QOZ78tpBACPOcRNraMxQcuNvffM=
+
+Name: org/slf4j/Marker.java
+SHA1-Digest: O21jsx/wSSr+e6BQFV0EXbMsiRw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/slf4j/helpers/NOPLoggerFactory.java
+SHA1-Digest: Nl5kAhEDhDoXcxImdz4LF9E6Tpo=
+
+Name: org/slf4j/impl/StaticMarkerBinder.java
+SHA1-Digest: vbEZ+pHTX9BOMkhr0A9hc5B1jtQ=
+
+Name: org/slf4j/helpers/BasicMarker.java
+SHA1-Digest: UgYgpFqG7xl7PrW1TI85s87Hutk=
+
+Name: about.html
+SHA1-Digest: /reCA9yaWO7lBgC/T8rXSkhwGT4=
+
+Name: org/slf4j/helpers/MessageFormatter.java
+SHA1-Digest: /T1eLR+LlVfM+yFKiz9OfWew6Uk=
+
+Name: org/slf4j/helpers/BasicMarkerFactory.java
+SHA1-Digest: v8haQ1t2++1L4eFWXov5AArbsUM=
+
+Name: org/slf4j/helpers/FormattingTuple.java
+SHA1-Digest: ESKLGmDp4HITstTSD2JTdasYtSI=
+
+Name: about_files/SLF4J-LICENSE.txt
+SHA1-Digest: dmjJZYLPmwvot+vFQlNFBDWcsa0=
+
+Name: org/slf4j/spi/MarkerFactoryBinder.java
+SHA1-Digest: ppllq2hEOFZALlm+QBhXF3ub4AI=
+
+Name: org/slf4j/spi/LocationAwareLogger.java
+SHA1-Digest: FRJrY8AgogHjb+IQyFvH0ErxxMs=
+
+Name: org/slf4j/IMarkerFactory.java
+SHA1-Digest: ZzWtbeKwVbMw4p7xFfVOZpPVnrI=
+
+Name: org/slf4j/helpers/MarkerIgnoringBase.java
+SHA1-Digest: 9ORM2nOX+3YAjL+GBgw00sAueXw=
+
+Name: org/slf4j/MarkerFactory.java
+SHA1-Digest: B3tYUVHA20g8A5R636aNaYGMgq8=
+
+Name: org/slf4j/MDC.java
+SHA1-Digest: AfaF7RyxhNyhtDMYfkf4VLm3vy4=
+
+Name: org/slf4j/helpers/NOPMDCAdapter.java
+SHA1-Digest: 3Y2GZnisg/xJ1QqqaAbe18jGjW8=
+

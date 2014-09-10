@@ -1,0 +1,544 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %providerName
+Eclipse-SourceBundle: org.junit;version="4.11.0.v201303080030";roots:=
+ "junitsrc"
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.junit.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/org.junit/source-bundle;project="org.junit.sourc
+ e";tag=v201303080030
+Bundle-Version: 4.11.0.v201303080030
+Bundle-ManifestVersion: 2
+
+Name: junitsrc/org/junit/experimental/theories/Theory.java
+SHA1-Digest: xRhDXFIenaXbHhK8gu1KFfWmqT8=
+
+Name: junitsrc/org/junit/experimental/theories/suppliers/TestedOnSuppl
+ ier.java
+SHA1-Digest: SvXiu7y+31ShV2Ro6jeON9GqAPc=
+
+Name: junitsrc/junit/framework/TestCase.java
+SHA1-Digest: I99JGAsAcRXm8Vs/5UwV3Mkj/00=
+
+Name: junitsrc/org/junit/rules/TestRule.java
+SHA1-Digest: 2ewavKa7WCKembJSVu0vIecPJ4s=
+
+Name: junitsrc/org/junit/internal/matchers/ThrowableMessageMatcher.jav
+ a
+SHA1-Digest: n4x/90P/hrXoCmZMbfQVIjnLeqE=
+
+Name: junitsrc/org/junit/internal/requests/SortingRequest.java
+SHA1-Digest: XTAnvgh+VPjp21yWYr4xkcUBqew=
+
+Name: junitsrc/org/junit/rules/RuleChain.java
+SHA1-Digest: gjn+JufwrGNzlvrxvrxP3jPEnSo=
+
+Name: junitsrc/org/junit/experimental/ParallelComputer.java
+SHA1-Digest: e2AIR0wE+IGxHXt9xdPoxolvFtw=
+
+Name: junitsrc/org/junit/experimental/runners/Enclosed.java
+SHA1-Digest: Ha1cZeBUoT3r9FmEBLbuXMtzEwE=
+
+Name: junitsrc/org/junit/AfterClass.java
+SHA1-Digest: QPXYCL59Ow+YC0xiq80pEnrr2XI=
+
+Name: junitsrc/org/junit/internal/runners/SuiteMethod.java
+SHA1-Digest: Wi8u6OUw+yHEwcnhNo7+XcskwTg=
+
+Name: junitsrc/org/junit/experimental/theories/internal/Assignments.ja
+ va
+SHA1-Digest: 4Ak2vUUlAK3RZGcLI5h/61LKVfE=
+
+Name: junitsrc/org/junit/ComparisonFailure.java
+SHA1-Digest: r4wStUdhd6UoEMLZLxrHdfu2//w=
+
+Name: junitsrc/org/junit/experimental/max/CouldNotReadCoreException.ja
+ va
+SHA1-Digest: GeTlrZxazfazzSh2DbbH2Yn/qIA=
+
+Name: junitsrc/org/junit/internal/runners/ClassRoadie.java
+SHA1-Digest: apS9nwKx796ib8sylhfpps27t/o=
+
+Name: junitsrc/org/junit/runner/Describable.java
+SHA1-Digest: cYRKj+MkoN8HBN8HYyOUfOpZ/uQ=
+
+Name: junitsrc/org/junit/internal/ExactComparisonCriteria.java
+SHA1-Digest: NlzCrAq6z0JOl1FJgn4aA+Nks9k=
+
+Name: junitsrc/org/junit/experimental/theories/ParameterSignature.java
+SHA1-Digest: afOUL5npSX+yqNsOKAuf9TYuAMM=
+
+Name: junitsrc/org/junit/internal/runners/MethodValidator.java
+SHA1-Digest: dNrSjBfbbYKyd9SIPetd7n7EoyU=
+
+Name: junitsrc/junit/runner/BaseTestRunner.java
+SHA1-Digest: Wh93lT37vfuvPDC0OtCi9mTvBbQ=
+
+Name: junitsrc/org/junit/runners/JUnit4.java
+SHA1-Digest: MvZrMCv4ADn3SyO8yLUNi4BOIx0=
+
+Name: junitsrc/org/junit/runners/model/RunnerScheduler.java
+SHA1-Digest: dBypkXJfhw4+7c/Rb9J8cLE0Z2I=
+
+Name: junitsrc/org/junit/runner/manipulation/Sortable.java
+SHA1-Digest: sPVwa/rPpM4A6ADJj9KkNIUATIw=
+
+Name: junitsrc/org/junit/internal/runners/InitializationError.java
+SHA1-Digest: tNAJoOFZNZ4pS/fbZYw4wQ20BCI=
+
+Name: junitsrc/org/junit/internal/builders/JUnit4Builder.java
+SHA1-Digest: Y1Wk+JYMOSfLFmaTZ0aJMvoS0uE=
+
+Name: junitsrc/org/junit/runner/manipulation/Sorter.java
+SHA1-Digest: fheCUysISbXKPp/C6Tdjwc8GBxg=
+
+Name: junitsrc/org/junit/internal/builders/IgnoredClassRunner.java
+SHA1-Digest: VGOMTbfY/kLFQiY6HFeyjzIRmTs=
+
+Name: junitsrc/junit/extensions/ActiveTestSuite.java
+SHA1-Digest: HD8BOmE6JESltQNKGJoNISn0cKM=
+
+Name: junitsrc/org/junit/package-info.java
+SHA1-Digest: dcSO++uawBJv3/Th1U+e7AhSf5Q=
+
+Name: junitsrc/org/junit/internal/requests/FilterRequest.java
+SHA1-Digest: 46jGLjwRjULx3h5RX/Q+uxGbRmc=
+
+Name: junitsrc/org/junit/internal/runners/model/MultipleFailureExcepti
+ on.java
+SHA1-Digest: nosY9a2iPGOmmFaXdKtLFKUsOhg=
+
+Name: junitsrc/org/junit/internal/builders/IgnoredBuilder.java
+SHA1-Digest: 5HoMCpBcRN7tqyJuXFP0VyMDwYI=
+
+Name: junitsrc/org/junit/internal/runners/ErrorReportingRunner.java
+SHA1-Digest: dWrwXVHdch4vN0bT5BTEUEg77MY=
+
+Name: junitsrc/org/junit/rules/TestWatcher.java
+SHA1-Digest: KM5Lv4OhPdfhpxx+jNetdgyHyTA=
+
+Name: junitsrc/junit/extensions/RepeatedTest.java
+SHA1-Digest: euQ9A8FxH+xrijLa187g2Niv1CE=
+
+Name: junitsrc/junit/framework/TestFailure.java
+SHA1-Digest: LzA1lKGGCg8iAj3mONZQTg5+5fw=
+
+Name: junitsrc/org/junit/runner/notification/StoppedByUserException.ja
+ va
+SHA1-Digest: Kn+cknu0pc0o3aDaTzer9NcTAJ4=
+
+Name: junitsrc/org/junit/internal/matchers/TypeSafeMatcher.java
+SHA1-Digest: G5DWHjGFuqtgnkLY5R+cC/WPr24=
+
+Name: junitsrc/org/junit/rules/RunRules.java
+SHA1-Digest: VCSna8pi/ykrQV2OOTqMtTVKHG0=
+
+Name: junitsrc/org/junit/experimental/results/PrintableResult.java
+SHA1-Digest: tyoFChf+vrVUMryTRxpxd0SU1ZA=
+
+Name: junitsrc/org/junit/runner/notification/RunNotifier.java
+SHA1-Digest: QwnH7lbS0A66bwf3wuHRBKAb0c4=
+
+Name: junitsrc/org/junit/matchers/JUnitMatchers.java
+SHA1-Digest: dqLdkVzX6loJvqPbmTSaYHhgqPw=
+
+Name: junitsrc/org/junit/runner/Description.java
+SHA1-Digest: w2mm2FuiiBAs9sjlqWKrk545MXk=
+
+Name: junitsrc/org/junit/Rule.java
+SHA1-Digest: xqLuq6JXfKNgPp0T8O2j3FqL8g8=
+
+Name: junitsrc/org/junit/runner/notification/package-info.java
+SHA1-Digest: CZ6b6Wlz3+Zd2lU1bnVEL1kFSQM=
+
+Name: junitsrc/org/junit/matchers/package-info.java
+SHA1-Digest: wAeKvmVmRIXs03nhu2Pwx2/32+Y=
+
+Name: junitsrc/org/junit/experimental/max/MaxHistory.java
+SHA1-Digest: MKqSJ1jRNapD97MNgw0UugHiASw=
+
+Name: junitsrc/junit/extensions/package-info.java
+SHA1-Digest: E0frh6ue/dG6j0q8W9tgzVggjxE=
+
+Name: junitsrc/org/junit/experimental/max/MaxCore.java
+SHA1-Digest: /SzDAF2ElM6/IwUSzsYCiFqKQ5c=
+
+Name: junitsrc/org/junit/internal/ComparisonCriteria.java
+SHA1-Digest: oPTnVHfNL+t1hmiEGFkMSmC2Qo4=
+
+Name: junitsrc/junit/framework/AssertionFailedError.java
+SHA1-Digest: qyiPqyNwX+ccSEpe9kAbtsQ1gNA=
+
+Name: junitsrc/junit/framework/Assert.java
+SHA1-Digest: 0u+77Ke6yyvTm6IWVNXqFtB8Vt0=
+
+Name: junitsrc/org/junit/internal/JUnitSystem.java
+SHA1-Digest: 5r6Uz6S+0lrrOT1tBpFhUAfyjkY=
+
+Name: junitsrc/org/junit/internal/runners/JUnit38ClassRunner.java
+SHA1-Digest: DYS3Ok5K3mUn4iMF+tey43oIbPE=
+
+Name: junitsrc/org/junit/internal/runners/TestClass.java
+SHA1-Digest: GUeuLfGKaND5F9lrWe/iUbgUJIc=
+
+Name: junitsrc/junit/runner/smalllogo.gif
+SHA1-Digest: 7TaC2gmj3qw1VfMf/d+UC7CBNvU=
+
+Name: junitsrc/junit/framework/JUnit4TestAdapter.java
+SHA1-Digest: Jvf8BYmERTRHB0aav04t4i9Gmhg=
+
+Name: junitsrc/org/junit/experimental/theories/internal/AllMembersSupp
+ lier.java
+SHA1-Digest: aumE5aKtwFB4e44jHYS+bQrhlII=
+
+Name: junitsrc/org/junit/internal/runners/statements/InvokeMethod.java
+SHA1-Digest: VvGRuBWf2U06bJFgUXTPo0R7GZw=
+
+Name: junitsrc/org/junit/runner/Runner.java
+SHA1-Digest: qqReQ0W7wj2I9Nj7YfF0n29CilU=
+
+Name: junitsrc/org/junit/experimental/theories/ParametersSuppliedBy.ja
+ va
+SHA1-Digest: N7h5b1nrg2fzQej7DA7rZC0W1rw=
+
+Name: junitsrc/org/junit/runners/Parameterized.java
+SHA1-Digest: i1XRcmatk66+mJ9+9pjjyjWXTnc=
+
+Name: junitsrc/junit/runner/TestRunListener.java
+SHA1-Digest: uM6+eJO9FrnUgB4K7OUd8oC8ufk=
+
+Name: junitsrc/junit/extensions/TestDecorator.java
+SHA1-Digest: ee3lnzXmWtnm2J8SyG082u1CFgg=
+
+Name: junitsrc/org/junit/runners/package-info.java
+SHA1-Digest: FP3jYJwK6w84xrrFszLdaCnugX0=
+
+Name: junitsrc/org/junit/runners/BlockJUnit4ClassRunner.java
+SHA1-Digest: psu2v+aNMa/JYH9dSdVsRW5jIac=
+
+Name: junitsrc/junit/runner/Version.java.template
+SHA1-Digest: ibJBTyLmbZgmBON7n+zwYGVlSg0=
+
+Name: junitsrc/org/junit/internal/runners/statements/ExpectException.j
+ ava
+SHA1-Digest: SdNx5RQTjxfWxBtBrqYstouBcNs=
+
+Name: about.html
+SHA1-Digest: 2L8xqcf6eipv9+ZIQ/ETKjMfnWw=
+
+Name: junitsrc/org/junit/rules/ErrorCollector.java
+SHA1-Digest: 7VIdF9ghA+TFMo/6NQDsx67W40A=
+
+Name: junitsrc/org/junit/experimental/theories/suppliers/TestedOn.java
+SHA1-Digest: NTtrftGhvdDkER58rWe3pexXaXw=
+
+Name: junitsrc/org/junit/runners/model/FrameworkMember.java
+SHA1-Digest: qGHI+cWEsfePgX3KesGndYMocZU=
+
+Name: junitsrc/org/junit/FixMethodOrder.java
+SHA1-Digest: JnbWmfnLSsCPkJTIDYpKTF1wTPY=
+
+Name: junitsrc/junit/runner/package-info.java
+SHA1-Digest: 0vMlA3k1AZv5f/7E9nzeCdalY2M=
+
+Name: junitsrc/junit/framework/TestResult.java
+SHA1-Digest: VpEoyfs0cugQDFWhLIW+Jom4RgQ=
+
+Name: junitsrc/org/junit/runner/RunWith.java
+SHA1-Digest: hYE8tZMGZAUMOyPHRIcU2F9Z+lM=
+
+Name: junitsrc/org/junit/Test.java
+SHA1-Digest: tGVbJlZrjkJ6L8s7vq6oGc5BOts=
+
+Name: junitsrc/org/junit/Ignore.java
+SHA1-Digest: Yv1Yoyq019PgnHMqNa9nMdo2Q/M=
+
+Name: junitsrc/org/junit/internal/ArrayComparisonFailure.java
+SHA1-Digest: BXMcQzpir9nUymQVa0dSrCS7QGM=
+
+Name: junitsrc/org/junit/internal/InexactComparisonCriteria.java
+SHA1-Digest: u4cc7Rsj2BSe2QdMGZpPdFzZjaI=
+
+Name: junitsrc/org/junit/internal/requests/ClassRequest.java
+SHA1-Digest: +MRUhFOUgE/kQFnFEURA/yXO1zA=
+
+Name: junitsrc/org/junit/internal/requests/package-info.java
+SHA1-Digest: OPJ4oR782N8mrJq5KbXsKidQYl4=
+
+Name: junitsrc/org/junit/runners/AllTests.java
+SHA1-Digest: kxR8rdR4nNSP7UZrZgKne//9ME4=
+
+Name: junitsrc/junit/framework/TestListener.java
+SHA1-Digest: NLuea+jUtRjRv2YyMhYskclceqE=
+
+Name: junitsrc/org/junit/runner/package-info.java
+SHA1-Digest: uGW/nIp+AT5s7FPESqfpGwFAjwA=
+
+Name: junitsrc/org/junit/runner/manipulation/package-info.java
+SHA1-Digest: bEsfRxJA2b+2iD2gOZUwbfLkWeY=
+
+Name: junitsrc/org/junit/experimental/categories/Categories.java
+SHA1-Digest: O/E662HevS2WskBH6vYGgBgayeE=
+
+Name: junitsrc/org/junit/experimental/results/FailureList.java
+SHA1-Digest: mCS7r65V9hjRWEizxWK3WpgX57k=
+
+Name: junitsrc/org/junit/internal/builders/AnnotatedBuilder.java
+SHA1-Digest: RuJs8NdbsIZo64/nytJa51eBt+g=
+
+Name: junitsrc/org/junit/Assert.java
+SHA1-Digest: OvymsEw7SnlLsTMhzgUeD/eM46k=
+
+Name: junitsrc/org/junit/runner/manipulation/Filterable.java
+SHA1-Digest: Nyo+6e7oLWSffxQSrxgBrfPzNW8=
+
+Name: junitsrc/junit/textui/package-info.java
+SHA1-Digest: gorXzjs44LIu04pRSBsgGButM9Q=
+
+Name: junitsrc/org/junit/runners/model/FrameworkMethod.java
+SHA1-Digest: 2DhB/oY7N3KmwipiJcgZiR/qR0s=
+
+Name: junitsrc/org/junit/runners/Suite.java
+SHA1-Digest: 3L4hEQ+VJOGNYrMdHDgyH2vGx3A=
+
+Name: junitsrc/org/junit/rules/Timeout.java
+SHA1-Digest: id2Ck0GQXHxYUa8zKIk2dOVlK54=
+
+Name: junitsrc/org/junit/rules/TemporaryFolder.java
+SHA1-Digest: M7NMmVcgg0U4AxD+/TsYJl/n2EQ=
+
+Name: junitsrc/junit/framework/package-info.java
+SHA1-Digest: Q4qF4DL8LN0X7o7w6ad8ia1SUnw=
+
+Name: junitsrc/org/junit/internal/matchers/StacktracePrintingMatcher.j
+ ava
+SHA1-Digest: 0cZo9MrshSo3huuEt5YW8z2GSmQ=
+
+Name: junitsrc/org/junit/internal/runners/statements/RunBefores.java
+SHA1-Digest: IX9lmOelMo7DMkcWw79D4/IU+bM=
+
+Name: junitsrc/org/junit/internal/RealSystem.java
+SHA1-Digest: yQ4ZRsg3cASxj60rhJVeOuRenxw=
+
+Name: junitsrc/org/junit/internal/MethodSorter.java
+SHA1-Digest: jXzMJDcXPMu+udxpJdyUh9fOQH4=
+
+Name: junitsrc/org/junit/runner/Result.java
+SHA1-Digest: Dgt4VY9qdXydW59OnWuUaQjF1m0=
+
+Name: junitsrc/org/junit/rules/ExternalResource.java
+SHA1-Digest: cdTid/6fh9ZuSH9JpnGYSYQxkzw=
+
+Name: junitsrc/junit/framework/JUnit4TestAdapterCache.java
+SHA1-Digest: c0P2+cfQQ/JoMD0eF1CedJyJw3Q=
+
+Name: junitsrc/org/junit/runner/Request.java
+SHA1-Digest: DAE5Pitih25X495090r36Oou4v8=
+
+Name: junitsrc/org/junit/runner/JUnitCore.java
+SHA1-Digest: yGAq0LXLoW4DrNeLiZNBhZcsb+g=
+
+Name: junitsrc/org/junit/internal/runners/statements/FailOnTimeout.jav
+ a
+SHA1-Digest: YwesRs2ayk1hlSnaahcwyb0Zy+I=
+
+Name: junitsrc/org/junit/runner/manipulation/Filter.java
+SHA1-Digest: TCmXDZj2o8eLT1sAYJPkKBUF+WI=
+
+Name: junitsrc/org/junit/runners/model/TestClass.java
+SHA1-Digest: nj8AN+OeQRc5LIWwX6tsuHHWoHg=
+
+Name: junitsrc/org/junit/runners/model/NoGenericTypeParametersValidato
+ r.java
+SHA1-Digest: bD0AOB448VruV3gkrwFtUvAFThI=
+
+Name: junitsrc/org/junit/experimental/categories/Category.java
+SHA1-Digest: rYltbHT3JJztRRnnQE1VUuCF2FE=
+
+Name: junitsrc/org/junit/ClassRule.java
+SHA1-Digest: rUczs1BBER0NmLxGJzwxvPWppaA=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: M1yh6ypEH7aiF3JiaBs2vAuNi54=
+
+Name: junitsrc/org/junit/internal/builders/JUnit3Builder.java
+SHA1-Digest: E15zPSgqdTTQTXxJu4+dUi82TEc=
+
+Name: junitsrc/org/junit/experimental/theories/ParameterSupplier.java
+SHA1-Digest: Qu5gxEgmO/Ea8hs8eKJTSQrD+oU=
+
+Name: junitsrc/org/junit/internal/matchers/ThrowableCauseMatcher.java
+SHA1-Digest: dQIxM613B0nZOUzezFbx7ckMjNU=
+
+Name: junitsrc/org/junit/internal/runners/rules/RuleFieldValidator.jav
+ a
+SHA1-Digest: W9gZ+7JtFs+b1FjIC5JCB6/cy/U=
+
+Name: junitsrc/org/junit/runner/notification/Failure.java
+SHA1-Digest: j/yi2N75ko9msN1ANTJ72s62ymo=
+
+Name: junitsrc/org/junit/runner/manipulation/NoTestsRemainException.ja
+ va
+SHA1-Digest: 6L+yQGQ3TcJMgaBw04v1S6cG4s4=
+
+Name: junitsrc/org/junit/rules/TestWatchman.java
+SHA1-Digest: 8WdtGuPlUyYag0DRdPMN6KwVApA=
+
+Name: junitsrc/org/junit/experimental/theories/DataPoints.java
+SHA1-Digest: arnEJKXJw6RCw3opuzy1dspjNPM=
+
+Name: junitsrc/org/junit/experimental/theories/internal/ParameterizedA
+ ssertionError.java
+SHA1-Digest: ENlU7mR9/TDFTRn+MviMp4rBlw4=
+
+Name: junitsrc/org/junit/internal/runners/FailedBefore.java
+SHA1-Digest: wGdZUI9QYcKMnwAPmzNQ/0pUt/Q=
+
+Name: junitsrc/junit/framework/ComparisonCompactor.java
+SHA1-Digest: F13aUeJbnspl+KX1mh6WLSXInW0=
+
+Name: junitsrc/org/junit/internal/runners/package-info.java
+SHA1-Digest: kfYntJQeZsnazYp6CzrEdXS9PaA=
+
+Name: junitsrc/org/junit/internal/TextListener.java
+SHA1-Digest: EIpyXmpgOww62vLFEmJK9M8xRKk=
+
+Name: junitsrc/junit/framework/JUnit4TestCaseFacade.java
+SHA1-Digest: 9dfBxYpOk+bk9d78iUc/VlyanMI=
+
+Name: junitsrc/org/junit/runners/ParentRunner.java
+SHA1-Digest: sNolwYhBH+s8nb3DmqehyIMEpVY=
+
+Name: junitsrc/junit/runner/logo.gif
+SHA1-Digest: JvyaocHBABsxCR6rPdnu8iH1WD0=
+
+Name: junitsrc/org/junit/internal/builders/NullBuilder.java
+SHA1-Digest: E6iiVWefOTGmehWUDSYyNASE6Zc=
+
+Name: plugin.properties
+SHA1-Digest: xq16Wym4rkemuW69Og7Mqok53ww=
+
+Name: junitsrc/junit/framework/Protectable.java
+SHA1-Digest: dCENBbuiEqdhd0peN9JYkSALJhQ=
+
+Name: junitsrc/junit/framework/Test.java
+SHA1-Digest: pr32//gWj+JIFXX27DXzcTDaLD4=
+
+Name: junitsrc/org/junit/experimental/theories/DataPoint.java
+SHA1-Digest: AXEAJKbclPi3A6bpz+uZSA6g3J0=
+
+Name: junitsrc/junit/framework/TestSuite.java
+SHA1-Digest: QfFPYfuonBdKT33IMliArWxPR9k=
+
+Name: junitsrc/org/junit/rules/TestName.java
+SHA1-Digest: 5MkhhXg79PcMvyX+6rqyE0X8hZU=
+
+Name: junitsrc/org/junit/rules/MethodRule.java
+SHA1-Digest: bzQ1rqI03GALRQvBJ/5aIwLJGig=
+
+Name: junitsrc/org/junit/runners/model/Statement.java
+SHA1-Digest: UCc5WDj5Wx9iUSAe2lsTXxS30oY=
+
+Name: junitsrc/org/junit/internal/runners/model/EachTestNotifier.java
+SHA1-Digest: NsYv9P1mK+TOZZDRXqdtMS8joio=
+
+Name: junitsrc/org/junit/After.java
+SHA1-Digest: HokwGIKpswf0npVtL4qsMkImfdQ=
+
+Name: junitsrc/org/junit/runner/Computer.java
+SHA1-Digest: n6TQqRYoa7LuZ1Cd8zvFgLfjCwE=
+
+Name: junitsrc/org/junit/internal/AssumptionViolatedException.java
+SHA1-Digest: HxadWrV2xXy/wPoddRO8SlZ3Fa4=
+
+Name: junitsrc/org/junit/BeforeClass.java
+SHA1-Digest: W9khCzuwG8TO4pl4SF9GHk5iX58=
+
+Name: about_files/cpl-v10.html
+SHA1-Digest: REygXYi+T14Sj1v8XnnKycNjpN4=
+
+Name: junitsrc/org/junit/rules/Verifier.java
+SHA1-Digest: n5W5OJwUwexeXjjbJ6XzBIgEKoA=
+
+Name: junitsrc/junit/runner/Version.java
+SHA1-Digest: eISXZoqvgele6FxvfSTygnfWGbE=
+
+Name: junitsrc/org/junit/runners/model/InitializationError.java
+SHA1-Digest: zVtSao356/xG2L4bZBzzsKAkTB0=
+
+Name: junitsrc/org/junit/Assume.java
+SHA1-Digest: 1o8PXPmWvX5rpMjy3N6Lqq9RJbo=
+
+Name: junitsrc/org/junit/internal/runners/statements/RunAfters.java
+SHA1-Digest: nbe4n6ygueVMf5ahD7sQtWNlehg=
+
+Name: junitsrc/org/junit/internal/runners/statements/Fail.java
+SHA1-Digest: ayuwlydrxaOMruAtX9KeBgYLVp0=
+
+Name: junitsrc/org/junit/experimental/theories/Theories.java
+SHA1-Digest: XO7RkPaIoi5CZZZT6QT0c2KMxOs=
+
+Name: junitsrc/org/junit/runners/model/MultipleFailureException.java
+SHA1-Digest: OhJsHb9VlDdwYr+sNCUP6j/AIu4=
+
+Name: junitsrc/org/junit/internal/runners/TestMethod.java
+SHA1-Digest: KrXGcdYw5zUspNKvVwp1fLELKSM=
+
+Name: junitsrc/org/junit/internal/builders/SuiteMethodBuilder.java
+SHA1-Digest: W445w3xbhO/cwnnvNQPFoitKg5M=
+
+Name: junitsrc/junit/extensions/TestSetup.java
+SHA1-Digest: eKDFqkiJOGzRH1KD9CDwyKuXvLY=
+
+Name: junitsrc/org/junit/internal/runners/JUnit4ClassRunner.java
+SHA1-Digest: iMNTuoca9p/sLzeFD8MWZRXfGMg=
+
+Name: junitsrc/junit/textui/ResultPrinter.java
+SHA1-Digest: x7GsVjevgMo3cPFSZ+K5kkRuT+k=
+
+Name: junitsrc/org/junit/Before.java
+SHA1-Digest: v/ZcF55luSYiZ01fleTplh7DfLY=
+
+Name: junitsrc/org/junit/rules/ExpectedExceptionMatcherBuilder.java
+SHA1-Digest: Esp80sbtwS7A9S09Uy/2uIlGJ7g=
+
+Name: junitsrc/org/junit/experimental/theories/PotentialAssignment.jav
+ a
+SHA1-Digest: ROrDNbRwNCFUYCeOpiSaEIYuw5U=
+
+Name: junitsrc/org/junit/rules/ExpectedException.java
+SHA1-Digest: W5WUOhksf822jHKm5ghl6T0udNE=
+
+Name: junitsrc/org/junit/experimental/results/ResultMatchers.java
+SHA1-Digest: 3D6848jbOrmwxI01SXtI5esm4oI=
+
+Name: junitsrc/org/junit/runners/MethodSorters.java
+SHA1-Digest: uZOr+xdqbwDWejg06OroPu+pmi8=
+
+Name: junitsrc/org/junit/internal/runners/MethodRoadie.java
+SHA1-Digest: aAqRzrUHjeVubgMKGaZCC6gegaY=
+
+Name: junitsrc/junit/textui/TestRunner.java
+SHA1-Digest: q0CMCFKy3fwJyIdsnxOC7QVUkD0=
+
+Name: junitsrc/junit/framework/ComparisonFailure.java
+SHA1-Digest: P/LD3phg3wbo/jFmvVG+mdEt0Rw=
+
+Name: junitsrc/org/junit/runner/notification/RunListener.java
+SHA1-Digest: OBwlZpFjBYppuYwacA/XAa9Lwn4=
+
+Name: junitsrc/org/junit/runners/model/RunnerBuilder.java
+SHA1-Digest: YKF6CxxxYgkUqNQPGKl0923xUFE=
+
+Name: junitsrc/org/junit/internal/builders/AllDefaultPossibilitiesBuil
+ der.java
+SHA1-Digest: s10vR4gpmF6zEarnuaRRgtJhZMg=
+
+Name: junitsrc/org/junit/runners/model/FrameworkField.java
+SHA1-Digest: zolg35/ayf6wTxp+keIGnGgmtEs=
+
+Name: junitsrc/org/junit/internal/runners/model/ReflectiveCallable.jav
+ a
+SHA1-Digest: vAQHLrrJPGHfnYES7wx8u7l8wMY=
+

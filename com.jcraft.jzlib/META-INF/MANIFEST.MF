@@ -1,0 +1,90 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %venderName
+Eclipse-SourceBundle: com.jcraft.jzlib;version="1.1.1.v201205102305"
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: com.jcraft.jzlib.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/com.jcraft.jzlib/source-bundle;project="com.jcra
+ ft.jzlib.source";tag=v201205102305
+Bundle-Version: 1.1.1.v201205102305
+Bundle-ManifestVersion: 2
+
+Name: com/jcraft/jzlib/JZlib.java
+SHA1-Digest: 9QtqljsSz/NDumxPdHIrZuQ/dW0=
+
+Name: com/jcraft/jzlib/GZIPHeader.java
+SHA1-Digest: v5anhQ4hCMh3yLtsWq/zkyjNIQM=
+
+Name: com/jcraft/jzlib/Deflater.java
+SHA1-Digest: Oz3THt+DR4pRCUXRug8xISIM7bc=
+
+Name: plugin.properties
+SHA1-Digest: lde9m5gRIeYOkamj29WnQrEcIew=
+
+Name: com/jcraft/jzlib/InfBlocks.java
+SHA1-Digest: tx3y41/8I+Tuj+GyoVm4ELxPeC4=
+
+Name: com/jcraft/jzlib/Inflate.java
+SHA1-Digest: ZSwi8HlC2gmIOn9nucaI/mFgWZs=
+
+Name: com/jcraft/jzlib/ZStreamException.java
+SHA1-Digest: MLmxjHJU3+JaTaSOFIwGoUqpxzg=
+
+Name: com/jcraft/jzlib/ZOutputStream.java
+SHA1-Digest: BDC9aAa2vO40SSyYXTA9LK0j84k=
+
+Name: com/jcraft/jzlib/ZStream.java
+SHA1-Digest: HpBlq9QXjJsXVkTo5CC1KREUQpE=
+
+Name: com/jcraft/jzlib/StaticTree.java
+SHA1-Digest: ioBdrm1eqsGVEAaBjt2T/Pp4JS8=
+
+Name: com/jcraft/jzlib/GZIPException.java
+SHA1-Digest: kVuMl7E3nlRtqQdTLMJec0iUHSM=
+
+Name: com/jcraft/jzlib/Adler32.java
+SHA1-Digest: sJmwAJXn+QQMZFMo+dDp4XmP138=
+
+Name: com/jcraft/jzlib/Inflater.java
+SHA1-Digest: HdxWKcyHTu8pHgVzOqDfjMCxasQ=
+
+Name: com/jcraft/jzlib/CRC32.java
+SHA1-Digest: ArnWM5JyiSm1h2XiwmEmd/Q1x8I=
+
+Name: com/jcraft/jzlib/DeflaterOutputStream.java
+SHA1-Digest: AoVz5aBS5o9fQdcGLEams4He6s8=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: com/jcraft/jzlib/GZIPInputStream.java
+SHA1-Digest: RvfNofWAbGShAnXEHnXaNMvcK1g=
+
+Name: com/jcraft/jzlib/InfCodes.java
+SHA1-Digest: vDyBes9kpkHYmYXIS97R/s9h51g=
+
+Name: com/jcraft/jzlib/Checksum.java
+SHA1-Digest: kxx+1UF4nAFZj5Kk/H9EUC2MraA=
+
+Name: com/jcraft/jzlib/Deflate.java
+SHA1-Digest: 2XO6q4G1A33akzFAgS/h6tOKFeA=
+
+Name: about.html
+SHA1-Digest: 4uTBRUibJsiQBTLtI1k1FE+C6Ng=
+
+Name: com/jcraft/jzlib/Tree.java
+SHA1-Digest: Y58R2SaKPAhVXqRkRdSbP0FH4N8=
+
+Name: com/jcraft/jzlib/GZIPOutputStream.java
+SHA1-Digest: ahELxrUGLpmlFQTqRX4rmy7Td94=
+
+Name: com/jcraft/jzlib/InfTree.java
+SHA1-Digest: fbBKE80Slbh8WfAqo5fiO8T7w8Y=
+
+Name: com/jcraft/jzlib/InflaterInputStream.java
+SHA1-Digest: cG16b0kr+VMTDlLErwJQAFoZu4M=
+
+Name: com/jcraft/jzlib/ZInputStream.java
+SHA1-Digest: tm9tLanPUo/7m23ZlDTcX5lTxRE=
+
