@@ -1,0 +1,211 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %bundleProvider
+Eclipse-SourceBundle: com.google.gwtjsonrpc;version="1.2.5.v2011122414
+ 44"
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: com.google.gwtjsonrpc.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/com.google.gwtjsonrpc/source-bundle;project="com
+ .google.gwtjsonrpc.source";tag=v201112241444
+Bundle-Version: 1.2.5.v201112241444
+Bundle-ManifestVersion: 2
+
+Name: com/google/gwtjsonrpc/client/impl/ser/JavaLangString_JsonSeriali
+ zer.java
+SHA1-Digest: va0I+u+S5kDLKaRngXlUSDWUa1s=
+
+Name: com/google/gwtjsonrpc/server/ServletCookieAccess.java
+SHA1-Digest: jIjboSBdSUb8PYOPdNH1uhg+vw8=
+
+Name: com/google/gwtjsonrpc/server/CallDeserializer.java
+SHA1-Digest: r8Z1S4/gg0EBh3Wx6mAS0Qd2Yuw=
+
+Name: com/google/gwtjsonrpc/rebind/ProxyCreator.java
+SHA1-Digest: fiNqp3/rJz4MgZu7i1JjTTwCJe4=
+
+Name: com/google/gwtjsonrpc/GWTJSONRPC.gwt.xml
+SHA1-Digest: /YU82LlyeaTqhiT2smTbqxoVIis=
+
+Name: com/google/gwtjsonrpc/client/event/RpcCompleteEvent.java
+SHA1-Digest: 0u3f91nVLpKZEoAtCubl0WzTXyI=
+
+Name: com/google/gwtjsonrpc/client/VoidResult.java
+SHA1-Digest: jLKPX/7f6UPpK/8L94KRxX7Od3c=
+
+Name: com/google/gwtjsonrpc/client/CallbackHandle.java
+SHA1-Digest: Fa1MNwQubUoTnosnxzPkAc82yiI=
+
+Name: com/google/gwtjsonrpc/server/XsrfException.java
+SHA1-Digest: 7QHTsjLEuGTSVh6thM/ClqDya70=
+
+Name: com/google/gwtjsonrpc/client/event/RpcStartHandler.java
+SHA1-Digest: F0AssDbf8w6omScJQWG97dcU1tw=
+
+Name: com/google/gwtjsonrpc/server/SignedToken.java
+SHA1-Digest: 8bi+wJ7CQdZD5parkQcXLSxnxnE=
+
+Name: com/google/gwtjsonrpc/server/JsonServlet.java
+SHA1-Digest: KCDqX+AsznmgPmyMXX9IMQ21yJg=
+
+Name: com/google/gwtjsonrpc/client/impl/JsonCall.java
+SHA1-Digest: aJ6Gdrw8bzJegxDI0xEPxWhe9Nw=
+
+Name: com/google/gwtjsonrpc/client/event/RpcCompleteHandler.java
+SHA1-Digest: +KAn+5fUK2Gx/Q2uaMhFlpUGnZ8=
+
+Name: com/google/gwtjsonrpc/client/HostPageCache.java
+SHA1-Digest: DE/0cEHuRW5lNl+4gNGMvu/cW1A=
+
+Name: com/google/gwtjsonrpc/client/impl/JsonSerializer.java
+SHA1-Digest: AMnZJMXjhE6scuHHYhaFGnXFdsE=
+
+Name: com/google/gwtjsonrpc/client/event/BaseRpcEvent.java
+SHA1-Digest: gJCyJTPHxK4q6T4MzkJ45L8ywyE=
+
+Name: com/google/gwtjsonrpc/client/RpcImpl.java
+SHA1-Digest: /XTF/btcEgYhSzJiJ44dLYFHWLI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: com/google/gwtjsonrpc/client/RemoteJsonException.java
+SHA1-Digest: S5tGrXkPtGhvA+kMywOJSM4OY5g=
+
+Name: com/google/gwtjsonrpc/client/impl/ser/PrimitiveArrayResultDeseri
+ alizers.java
+SHA1-Digest: R0jqGp+R42uzqfGsxVHLmJ+NZWk=
+
+Name: com/google/gwtjsonrpc/client/XsrfManager.java
+SHA1-Digest: 4OJO/C9eY9ilvLbNnc5cmSFXHrw=
+
+Name: com/google/gwtjsonrpc/client/impl/ser/JavaSqlDate_JsonSerializer
+ .java
+SHA1-Digest: jth4PNzhjSwSGXO6WzvlIJ2boXM=
+
+Name: com/google/gwtjsonrpc/client/impl/ser/ObjectMapSerializer.java
+SHA1-Digest: dOo2l3dy0NYX8KGWa05JmgU5JDs=
+
+Name: com/google/gwtjsonrpc/server/NoSuchRemoteMethodException.java
+SHA1-Digest: yGGrGjC4auZaR3L5ioga3ZYZWEQ=
+
+Name: com/google/gwtjsonrpc/server/ActiveCall.java
+SHA1-Digest: VI+gsvQKO1b9gQWHTuNLieUhTvg=
+
+Name: com/google/gwtjsonrpc/client/impl/v2_0/JsonCall20HttpGet.java
+SHA1-Digest: n/B1iJO+mha+pek0tbsFRnb4DT0=
+
+Name: com/google/gwtjsonrpc/client/impl/ser/JavaUtilDate_JsonSerialize
+ r.java
+SHA1-Digest: zlwcpXIepm+M5Lu6ir18wWUmL4k=
+
+Name: com/google/gwtjsonrpc/client/impl/ser/EnumSerializer.java
+SHA1-Digest: xA3XzzkKYeHCRoa7+Q4Gve7xy6M=
+
+Name: com/google/gwtjsonrpc/rebind/RemoteJsonServiceProxyGenerator.jav
+ a
+SHA1-Digest: XOzmshFgCJuhDWa5y+ku4YCyS6I=
+
+Name: com/google/gwtjsonrpc/server/SqlTimestampDeserializer.java
+SHA1-Digest: +A5/1coeolqIZaobr+e+TWSSA04=
+
+Name: com/google/gwtjsonrpc/client/impl/ser/ObjectSerializer.java
+SHA1-Digest: fKM6lu22qXbwhcp6TreXSeWhKJI=
+
+Name: com/google/gwtjsonrpc/client/ServerUnavailableException.java
+SHA1-Digest: q9Iqave2qGEwEJIaGZDlKE5GM/g=
+
+Name: com/google/gwtjsonrpc/client/event/RpcStartEvent.java
+SHA1-Digest: 4XMyAmD9a6DWdxhHiriqfdEEjug=
+
+Name: com/google/gwtjsonrpc/server/MapDeserializer.java
+SHA1-Digest: 4b/uT7lxrrknMiviLG44ImHDxYw=
+
+Name: com/google/gwtjsonrpc/client/impl/v2_0/JsonCall20.java
+SHA1-Digest: lsJD1fsxmn9Z6HqoBUYWpXnAlVI=
+
+Name: com/google/gwtjsonrpc/client/impl/ser/SetSerializer.java
+SHA1-Digest: 23RRPniGdmlZbjQCoQJk+0Bnca8=
+
+Name: com/google/gwtjsonrpc/client/impl/ser/JavaSqlTimestamp_JsonSeria
+ lizer.java
+SHA1-Digest: ObPIQ5sAFmVovtGcfayRX+UESsQ=
+
+Name: com/google/gwtjsonrpc/client/impl/ser/ObjectArraySerializer.java
+SHA1-Digest: JrYdiJuNgsBTS2dx2oGzsNtwArc=
+
+Name: com/google/gwtjsonrpc/client/impl/ser/PrimitiveResultDeserialize
+ rs.java
+SHA1-Digest: xVSgSQ3gQnsQcIUHnAFRIG2DIUg=
+
+Name: plugin.properties
+SHA1-Digest: +awkjS/r4toU7Xe4aky41+CRy6o=
+
+Name: com/google/gwtjsonrpc/client/CookieAccess.java
+SHA1-Digest: /fFIDut9D90iO2RaJl1isj7P/tU=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: K4uBUimqimHkg/tLoFiLi2xJGJA=
+
+Name: com/google/gwtjsonrpc/client/impl/v2_0/JsonCall20HttpPost.java
+SHA1-Digest: FyBakCSss1Cqx812qK0xGe9MbyY=
+
+Name: com/google/gwtjsonrpc/client/impl/ArrayResultDeserializer.java
+SHA1-Digest: /LsRqCBJ0L+vo58Vr/lDEDXMLUk=
+
+Name: com/google/gwtjsonrpc/client/VoidCallback.java
+SHA1-Digest: iK4RkxUlALsNzvSpcRIMz4I39hI=
+
+Name: com/google/gwtjsonrpc/client/impl/ser/PrimitiveArraySerializer.j
+ ava
+SHA1-Digest: fRcoCgTB1+MojXgiGwPz78U01es=
+
+Name: com/google/gwtjsonrpc/client/impl/AbstractJsonProxy.java
+SHA1-Digest: YXm2vtZdMIqZMWXml8Q7i344egA=
+
+Name: com/google/gwtjsonrpc/rebind/ResultDeserializerCreator.java
+SHA1-Digest: Upu0oIb876gpvQpcJCjBDzbVwgI=
+
+Name: com/google/gwtjsonrpc/rebind/SerializerCreator.java
+SHA1-Digest: 239aC10/AGFrYmdxQDBOGoJW+UE=
+
+Name: com/google/gwtjsonrpc/client/impl/ResultDeserializer.java
+SHA1-Digest: whWgcdfgLH6P5qlceZ4+U2rOzeM=
+
+Name: com/google/gwtjsonrpc/server/MethodHandle.java
+SHA1-Digest: 74LYdWaCpp+z6w5klipGQ9yo5EM=
+
+Name: about.html
+SHA1-Digest: ozRY3Kkd/XrJwcdg8jI2jgiNzjg=
+
+Name: com/google/gwtjsonrpc/client/JsonUtil.java
+SHA1-Digest: DcS6izW+feLS7wwXfUXjB+Adnf0=
+
+Name: com/google/gwtjsonrpc/client/impl/ser/VoidResult_JsonSerializer.
+ java
+SHA1-Digest: YsmbKszHJpfFqLbT95eaopjXzhA=
+
+Name: com/google/gwtjsonrpc/server/ValidToken.java
+SHA1-Digest: CiiXWOO54lu70cuXEHV/hS88/WI=
+
+Name: com/google/gwtjsonrpc/client/AllowCrossSiteRequest.java
+SHA1-Digest: PIbwiaMZxglqhTgVZiqgFUVWJN8=
+
+Name: com/google/gwtjsonrpc/client/JsonDefTarget.java
+SHA1-Digest: Dvc0k9j7ftPEXMrascp1YbbkxD4=
+
+Name: com/google/gwtjsonrpc/client/impl/ser/ListSerializer.java
+SHA1-Digest: 0xoBOs5nYafiHqetB12rOduguvs=
+
+Name: com/google/gwtjsonrpc/client/impl/v1_1/JsonCall11HttpPost.java
+SHA1-Digest: rW0q8wN71Opp68oU5/xcHAQ6SOE=
+
+Name: com/google/gwtjsonrpc/client/impl/ser/StringMapSerializer.java
+SHA1-Digest: noU1cXTqjsex4+rXfs8c1mX2fRU=
+
+Name: com/google/gwtjsonrpc/server/SqlDateDeserializer.java
+SHA1-Digest: 5JYhUuDkezr6gV+ClaCaOEMQcN8=
+
+Name: com/google/gwtjsonrpc/client/RemoteJsonService.java
+SHA1-Digest: HuLHv4xSCx6NwYgqcveg5L6/+GQ=
+
