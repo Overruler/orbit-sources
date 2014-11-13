@@ -1,0 +1,493 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.apache.commons.httpclient;version="3.1.0.v20
+ 1012070820"
+Bundle-Vendor: %bundleProvider
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.apache.commons.httpclient.source
+Bundle-Version: 3.1.0.v201012070820
+Bundle-ManifestVersion: 2
+
+Name: about_files/RELEASE_NOTES.txt
+SHA1-Digest: qWzdT0MWmh/Kp5RrKh1s4+okY7o=
+
+Name: org/apache/commons/httpclient/methods/multipart/PartSource.java
+SHA1-Digest: S+29VJy0kgoAusUlsocImCXf0IQ=
+
+Name: org/apache/commons/httpclient/Header.java
+SHA1-Digest: 7HfC+dYrPRWdJRmaDLdd1KHIOAU=
+
+Name: org/apache/commons/httpclient/UsernamePasswordCredentials.java
+SHA1-Digest: Gr06t4fMg8va2jiyqpofmFRiRE8=
+
+Name: org/apache/commons/httpclient/HttpMethod.java
+SHA1-Digest: HJ3H7ZRBHhyXN63P9cDW6vPejWY=
+
+Name: org/apache/commons/httpclient/auth/CredentialsProvider.java
+SHA1-Digest: Pc1N7CuBsnbwinlrZcFOy8Si748=
+
+Name: org/apache/commons/httpclient/methods/InputStreamRequestEntity.j
+ ava
+SHA1-Digest: 2hpIbrvVo3DwQtUiuC7lZwgFBgQ=
+
+Name: org/apache/commons/httpclient/util/ExceptionUtil.java
+SHA1-Digest: otaa/dZsIGEsqzqpbDXqDkFreEs=
+
+Name: org/apache/commons/httpclient/params/HttpConnectionManagerParams
+ .java
+SHA1-Digest: rXQZdq2aZ1YVHE+7VZYH0BZBxIQ=
+
+Name: org/apache/commons/httpclient/params/HttpClientParams.java
+SHA1-Digest: qNepNLrc+cGEqCKMiWRHIWO4Pic=
+
+Name: org/apache/commons/httpclient/methods/multipart/StringPart.java
+SHA1-Digest: 0WiUnF4Vu0+76dWa6s6eiVixCCY=
+
+Name: org/apache/commons/httpclient/auth/HttpAuthenticator.java
+SHA1-Digest: YyYmHi6+juFxnD7yu42ZSVcSzls=
+
+Name: org/apache/commons/httpclient/util/URIUtil.java
+SHA1-Digest: 8pX6JFQNmL+2lypnVw/lmoEpeGw=
+
+Name: org/apache/commons/httpclient/auth/MalformedChallengeException.j
+ ava
+SHA1-Digest: +r/QKo5/5i4S2eba5u29oTmKSts=
+
+Name: org/apache/commons/httpclient/methods/ExpectContinueMethod.java
+SHA1-Digest: n9uMsjV6W0xXgZvQncJQLxIpM5w=
+
+Name: org/apache/commons/httpclient/methods/GetMethod.java
+SHA1-Digest: kd84Jag3/x/Z72vV2ReeutGeDps=
+
+Name: org/apache/commons/httpclient/methods/FileRequestEntity.java
+SHA1-Digest: gk+3CptNexhYScyymXe+idbd0Js=
+
+Name: org/apache/commons/httpclient/util/DateParseException.java
+SHA1-Digest: bFXwx49OQ+gNCDV6FBEtzaQKLxc=
+
+Name: org/apache/commons/httpclient/ProxyHost.java
+SHA1-Digest: ICdZ09lL0wIUaXA8biXHmExTZL0=
+
+Name: org/apache/commons/httpclient/params/HttpConnectionParams.java
+SHA1-Digest: LW+XbED1bt+3qM1jnuZXPGO7/2U=
+
+Name: org/apache/commons/httpclient/HttpContentTooLargeException.java
+SHA1-Digest: j3QTR4vXRNkLbdqSrU20L8mLfhE=
+
+Name: org/apache/commons/httpclient/HttpClientError.java
+SHA1-Digest: N1wBSWvO9RboGYP6TagkKxJlHEA=
+
+Name: org/apache/commons/httpclient/auth/RFC2617Scheme.java
+SHA1-Digest: 2uGwZz0suV5Nmhnd+ujtr8OqLY8=
+
+Name: org/apache/commons/httpclient/CircularRedirectException.java
+SHA1-Digest: DOr31ibBP9je+sbAD6Gup009RMc=
+
+Name: org/apache/commons/httpclient/HeaderGroup.java
+SHA1-Digest: gqv27cAICmlK0uAqvlUxhAb7Sq4=
+
+Name: org/apache/commons/httpclient/HostConfiguration.java
+SHA1-Digest: bJdSo9cLO2bUNgFBfkzb35+CLxc=
+
+Name: org/apache/commons/httpclient/ChunkedOutputStream.java
+SHA1-Digest: O0S9lbuP1Mvio7LFe4g2BhrpU6Y=
+
+Name: org/apache/commons/httpclient/HttpConnectionManager.java
+SHA1-Digest: W3PVarLZbXdGvlYfg6qbU7UiTK0=
+
+Name: org/apache/commons/httpclient/cookie/CookieVersionSupport.java
+SHA1-Digest: aOwBAilMuQSChLeaa2FLKeyIPJU=
+
+Name: org/apache/commons/httpclient/InvalidRedirectLocationException.j
+ ava
+SHA1-Digest: 6CnTe//IKJ9/2S+FVqC8MkinNvM=
+
+Name: org/apache/commons/httpclient/params/DefaultHttpParams.java
+SHA1-Digest: K9MBsGdw3MQH2neQJwxBze7N5C4=
+
+Name: org/apache/commons/httpclient/MultiThreadedHttpConnectionManager
+ .java
+SHA1-Digest: HR0dLUKNfTpUY0dykZEZaGrG/oE=
+
+Name: org/apache/commons/httpclient/HttpsURL.java
+SHA1-Digest: KjV4lHKhIluWHBaJx8grdJrcy7s=
+
+Name: org/apache/commons/httpclient/package.html
+SHA1-Digest: hozor3kXi3CDFjE/pulHg9gJRVg=
+
+Name: org/apache/commons/httpclient/ChunkedInputStream.java
+SHA1-Digest: VMQMcB1zNmI+cGoE9g6/+S+g5mE=
+
+Name: org/apache/commons/httpclient/auth/AuthChallengeException.java
+SHA1-Digest: m0WfTddNqTfN/JBJWEXy9GBPBjU=
+
+Name: org/apache/commons/httpclient/protocol/ControllerThreadSocketFac
+ tory.java
+SHA1-Digest: PXLpEFVBJmWNcd88Fio1KB1zEuw=
+
+Name: org/apache/commons/httpclient/params/HttpMethodParams.java
+SHA1-Digest: R1sL7ezsjarL3vwERzNjkIZmNQw=
+
+Name: org/apache/commons/httpclient/params/HostParams.java
+SHA1-Digest: ptviDeIKmFyfLxRqIkD7az/+kPw=
+
+Name: org/apache/commons/httpclient/auth/HttpAuthRealm.java
+SHA1-Digest: 2bOgVDqxqJBhvmQPXWbx3MbQ5h0=
+
+Name: org/apache/commons/httpclient/protocol/DefaultProtocolSocketFact
+ ory.java
+SHA1-Digest: cOgNNQ6ZehB1y70BTynZtmK3V0I=
+
+Name: about_files/README.txt
+SHA1-Digest: qTsLL+tIdB6CSOrcGmMLCNxmEVw=
+
+Name: org/apache/commons/httpclient/SimpleHttpConnectionManager.java
+SHA1-Digest: gPADuXnIJkcW8gMhi7aPzQG9J+M=
+
+Name: org/apache/commons/httpclient/cookie/CookieOrigin.java
+SHA1-Digest: OIm/Yygbd4qKj40eUeZuOOf182E=
+
+Name: org/apache/commons/httpclient/methods/MultipartPostMethod.java
+SHA1-Digest: J3vxgagfbrG3QWrQWzepDG02Mh0=
+
+Name: org/apache/commons/httpclient/methods/multipart/FilePart.java
+SHA1-Digest: KXcyN/iSTzMytbrxtNYVrzqEjT0=
+
+Name: org/apache/commons/httpclient/methods/EntityEnclosingMethod.java
+SHA1-Digest: v8+H458rP1f9KvfNpiu6SV9K3BE=
+
+Name: org/apache/commons/httpclient/DefaultHttpMethodRetryHandler.java
+SHA1-Digest: eD57c4d+zzimAq3wYZCVel0000A=
+
+Name: org/apache/commons/httpclient/protocol/SSLProtocolSocketFactory.
+ java
+SHA1-Digest: BOjCP+md94GdXoDohw+vluctxbU=
+
+Name: org/apache/commons/httpclient/util/IdleConnectionHandler.java
+SHA1-Digest: Kiekz+AfqIl7B6nqU4shJBVnl2c=
+
+Name: org/apache/commons/httpclient/HttpState.java
+SHA1-Digest: vQeHig0sRhCZ+vBEfnMt8/aIbA8=
+
+Name: org/apache/commons/httpclient/ConnectionPoolTimeoutException.jav
+ a
+SHA1-Digest: A+3j9hDMH8JRpR2lErXR27pb8Bg=
+
+Name: org/apache/commons/httpclient/NoHttpResponseException.java
+SHA1-Digest: laYjgvrEbD6VRbXl7b9lwiKLEug=
+
+Name: org/apache/commons/httpclient/Wire.java
+SHA1-Digest: mQHlzwzj5byP6aA3UwkdjLcfv30=
+
+Name: org/apache/commons/httpclient/URIException.java
+SHA1-Digest: xgD5KE9pxoFAkZUSVLv2AALbYzs=
+
+Name: org/apache/commons/httpclient/cookie/CookieAttributeHandler.java
+SHA1-Digest: DbU67Mkd1+GFgJbQ6dT/4E6YyRg=
+
+Name: org/apache/commons/httpclient/methods/HeadMethod.java
+SHA1-Digest: 49BumWvuXJUa5aMc2XbzlDGIcmE=
+
+Name: org/apache/commons/httpclient/Credentials.java
+SHA1-Digest: 3f/7GDfIM/DBmHCGAsflXVAGhkw=
+
+Name: org/apache/commons/httpclient/ConnectTimeoutException.java
+SHA1-Digest: z89EBz9g+YG/V9lGIB4Yi24ypaY=
+
+Name: org/apache/commons/httpclient/params/HttpParams.java
+SHA1-Digest: 4f/HtEHIh5KFKdoqj+RubkzOgFM=
+
+Name: org/apache/commons/httpclient/ProtocolException.java
+SHA1-Digest: ezX2KhKdTB2r/u6Mnn+KzhCzHGc=
+
+Name: org/apache/commons/httpclient/NTCredentials.java
+SHA1-Digest: dE8pXgAPIVbf6J82lmA+++Y2EBM=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: YSrWUKMomQCHlZQWp+L9Fgsdrqk=
+
+Name: org/apache/commons/httpclient/auth/AuthScheme.java
+SHA1-Digest: 1uXdchvltqB3TJf6mS9RdPx0Qug=
+
+Name: org/apache/commons/httpclient/protocol/ReflectionSocketFactory.j
+ ava
+SHA1-Digest: qrJYK0Rb5L0X9oJtcqwcssVEPbc=
+
+Name: org/apache/commons/httpclient/HttpClient.java
+SHA1-Digest: g0dDvWA77Grt1Bju9u3m2UfvP6w=
+
+Name: org/apache/commons/httpclient/cookie/package.html
+SHA1-Digest: Bv2j+n/cF2rqvYvXXCLv08O1los=
+
+Name: org/apache/commons/httpclient/protocol/SecureProtocolSocketFacto
+ ry.java
+SHA1-Digest: 33qSanVZPRAxN76j4ZteJRsl7VE=
+
+Name: org/apache/commons/httpclient/auth/NTLM.java
+SHA1-Digest: x5pIbgI5Qa3yH46eYr/qfCr6zC8=
+
+Name: about_files/NOTICE.txt
+SHA1-Digest: i1OWBBcTfiIdocM+eYS5JsAYVcY=
+
+Name: org/apache/commons/httpclient/util/IdleConnectionTimeoutThread.j
+ ava
+SHA1-Digest: Yx8C4OIhWfHEOOGDIJwo+cy59v0=
+
+Name: org/apache/commons/httpclient/auth/BasicScheme.java
+SHA1-Digest: tHA6Lqld4BelNd7072CBDkpkErA=
+
+Name: org/apache/commons/httpclient/ContentLengthInputStream.java
+SHA1-Digest: U5qS/WqnowWvpFvFxgCw0IexID0=
+
+Name: org/apache/commons/httpclient/methods/multipart/FilePartSource.j
+ ava
+SHA1-Digest: 7iXnOJ9xijKGGLqybAfUjArvfKc=
+
+Name: org/apache/commons/httpclient/protocol/package.html
+SHA1-Digest: AOkQrkoNdV/PAtSb2mdRJvhcqbE=
+
+Name: org/apache/commons/httpclient/params/DefaultHttpParamsFactory.ja
+ va
+SHA1-Digest: /8X5zE/pr4DPfmm5QNZhbiHbFXU=
+
+Name: org/apache/commons/httpclient/methods/multipart/MultipartRequest
+ Entity.java
+SHA1-Digest: a9SNYWL4G0uIFJzVQMXmlp+n3dQ=
+
+Name: org/apache/commons/httpclient/methods/StringRequestEntity.java
+SHA1-Digest: 50rpWAHcRVZTK9SLKhU0xM5tX94=
+
+Name: about.html
+SHA1-Digest: MFP8YMMrNrUSPYmTqweHlUp7sKk=
+
+Name: org/apache/commons/httpclient/methods/package.html
+SHA1-Digest: dzNbC+KEHECgxHGfzcZWNQYPuyY=
+
+Name: org/apache/commons/httpclient/NameValuePair.java
+SHA1-Digest: /Ci9rd7YaW35YX21ivT5H7C7i+Q=
+
+Name: org/apache/commons/httpclient/util/HttpURLConnection.java
+SHA1-Digest: zZ6/eQT/1eoeNm4mRP4GhCMwjmo=
+
+Name: org/apache/commons/httpclient/methods/RequestEntity.java
+SHA1-Digest: 5pgzv28tXRuyMnPEzSyO2pghrNA=
+
+Name: org/apache/commons/httpclient/params/package.html
+SHA1-Digest: xrgN++IlArx1C5EQHN6rBlmXIGA=
+
+Name: org/apache/commons/httpclient/protocol/Protocol.java
+SHA1-Digest: nEMxF7ZBhXTYVXhbjWa6xdZzcwQ=
+
+Name: org/apache/commons/httpclient/util/ParameterFormatter.java
+SHA1-Digest: SZYkfLvBzwweBWHj62/iNp7/KDo=
+
+Name: org/apache/commons/httpclient/ConnectMethod.java
+SHA1-Digest: kdF4UCU2hfaIz/zZLYDHgXbDVw8=
+
+Name: org/apache/commons/httpclient/protocol/ProtocolSocketFactory.jav
+ a
+SHA1-Digest: 6H/4p4BHU6dP0+FCcsLKeot6RA4=
+
+Name: org/apache/commons/httpclient/HttpParser.java
+SHA1-Digest: KzmO9YjcDpjtNqDVNNrN4FmNEOw=
+
+Name: org/apache/commons/httpclient/auth/AuthSchemeBase.java
+SHA1-Digest: 1pqA/LfjijwIbtAhojAm7afa05Y=
+
+Name: org/apache/commons/httpclient/methods/multipart/PartBase.java
+SHA1-Digest: nkQOQ8aEHaFkz8GS7jue/PuZDT8=
+
+Name: org/apache/commons/httpclient/Cookie.java
+SHA1-Digest: 5oQhe4zuNyZXGyFw0xz9xp2LW+w=
+
+Name: org/apache/commons/httpclient/methods/PostMethod.java
+SHA1-Digest: CkKt8/eeVVpG6m5Bs6/DSRunjCQ=
+
+Name: org/apache/commons/httpclient/methods/ByteArrayRequestEntity.jav
+ a
+SHA1-Digest: /XyPkQ6fAP6zDW+Z2B1MfkVijmQ=
+
+Name: org/apache/commons/httpclient/cookie/MalformedCookieException.ja
+ va
+SHA1-Digest: Q5tpVWgGC1lXtqxc3k/CeG3Nm6s=
+
+Name: org/apache/commons/httpclient/ProxyClient.java
+SHA1-Digest: xm5GpY7ghuv2xZ+1yuBqYK1Q/F0=
+
+Name: org/apache/commons/httpclient/HttpStatus.java
+SHA1-Digest: 83KfCHxojlkyOKW8Sr5QhcLXIN0=
+
+Name: org/apache/commons/httpclient/RedirectException.java
+SHA1-Digest: rH6ExpMlXQQmiznnmvN8UbfLTmc=
+
+Name: org/apache/commons/httpclient/params/HttpParamsFactory.java
+SHA1-Digest: mAbGrQ07jBwJXIla0zQp15nJAeY=
+
+Name: org/apache/commons/httpclient/auth/AuthChallengeParser.java
+SHA1-Digest: j4WXS0oMREaS32ePSw1HnoHu+PU=
+
+Name: org/apache/commons/httpclient/HttpVersion.java
+SHA1-Digest: GuewxivAJNp3FwyflxYWNG+rDC8=
+
+Name: org/apache/commons/httpclient/util/TimeoutController.java
+SHA1-Digest: PelFntckgNB2s9KuYYxG2lxaHOU=
+
+Name: org/apache/commons/httpclient/auth/AuthenticationException.java
+SHA1-Digest: d+CA0sHhdGl8UuNkCqoNSBhucBg=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/apache/commons/httpclient/cookie/CookiePathComparator.java
+SHA1-Digest: NXFQWmYP1Sn922Hkqyr23pfT4Cw=
+
+Name: org/apache/commons/httpclient/HttpMethodRetryHandler.java
+SHA1-Digest: QrEGF8hG5AemRx9OdvrXockRHwo=
+
+Name: org/apache/commons/httpclient/methods/DeleteMethod.java
+SHA1-Digest: RccC31STRnbAlPA3ikll56FIm0I=
+
+Name: org/apache/commons/httpclient/cookie/NetscapeDraftSpec.java
+SHA1-Digest: TMSU4ocu7FSxzlrhYWCUaAdc8ZI=
+
+Name: org/apache/commons/httpclient/cookie/RFC2109Spec.java
+SHA1-Digest: KItQZUtK5JyV4cLu7ZNlHAVscew=
+
+Name: org/apache/commons/httpclient/HttpConnection.java
+SHA1-Digest: ILMUYaYt7sNtaIkssl6mnnHh1pE=
+
+Name: org/apache/commons/httpclient/StatusLine.java
+SHA1-Digest: PcIXKFYoG0xOFVsjxXTl127TRNU=
+
+Name: org/apache/commons/httpclient/auth/CredentialsNotAvailableExcept
+ ion.java
+SHA1-Digest: woNBBDA6a+cRfMWedKKUwIRl9+E=
+
+Name: org/apache/commons/httpclient/cookie/RFC2965Spec.java
+SHA1-Digest: LNra0KIPkV03N1T8V2Qil7OqTzM=
+
+Name: org/apache/commons/httpclient/util/EncodingUtil.java
+SHA1-Digest: k7vEthSfqdOdCMvUmtwIaAOhPSg=
+
+Name: org/apache/commons/httpclient/cookie/CookiePolicy.java
+SHA1-Digest: JOII2SbkSKcGqHmVXQ2c5yYMJr4=
+
+Name: org/apache/commons/httpclient/AutoCloseInputStream.java
+SHA1-Digest: yjUctepPieLekCpiWlRKPHhivLk=
+
+Name: org/apache/commons/httpclient/util/DateUtil.java
+SHA1-Digest: UVYnM6aFjgaSpkCYrMI3BhgLr74=
+
+Name: org/apache/commons/httpclient/util/DateParser.java
+SHA1-Digest: bP02UYzjfIQYr31ImEl+vyKHHnI=
+
+Name: org/apache/commons/httpclient/util/ParameterParser.java
+SHA1-Digest: +nr7lTwq/dpZe2/zo9XR5xUFFaI=
+
+Name: org/apache/commons/httpclient/HttpMethodBase.java
+SHA1-Digest: lIleLO54j16GNedWSi7m7jQSVXw=
+
+Name: org/apache/commons/httpclient/methods/PutMethod.java
+SHA1-Digest: d/EUSH5cFO8D2EMD51K9W09lNzA=
+
+Name: org/apache/commons/httpclient/auth/DigestScheme.java
+SHA1-Digest: pCB0mGiwi/UWths2WSPcgsquwjQ=
+
+Name: org/apache/commons/httpclient/HeaderElement.java
+SHA1-Digest: RLhy0Z0+Xwix7DrpTnddiSvnDuM=
+
+Name: org/apache/commons/httpclient/util/package.html
+SHA1-Digest: FnonAwy8Aj/2Rqm6Ayw1pm96flA=
+
+Name: org/apache/commons/httpclient/cookie/IgnoreCookiesSpec.java
+SHA1-Digest: 8Lb8xXMGQ9QX0OWK4zEUvQI8Twc=
+
+Name: org/apache/commons/httpclient/cookie/CookieSpec.java
+SHA1-Digest: rjkFwPYqH2czjnDqKtzkReCA9ks=
+
+Name: org/apache/commons/httpclient/methods/TraceMethod.java
+SHA1-Digest: 0enEd0i8eAs6zQinR8Q2ky7yIxQ=
+
+Name: org/apache/commons/httpclient/HttpException.java
+SHA1-Digest: Qn5fdnLgrnwaqjQ0VmnRvWzz3d8=
+
+Name: org/apache/commons/httpclient/HttpConstants.java
+SHA1-Digest: c7+gZJFiW/cJgkP9/vAE/tZlI8Q=
+
+Name: org/apache/commons/httpclient/methods/OptionsMethod.java
+SHA1-Digest: pufJTMSFBy7dNEuSHdKWXH/FJkc=
+
+Name: plugin.properties
+SHA1-Digest: iTgUm8OC7ogbSSqRMPe+MOLAY0Q=
+
+Name: org/apache/commons/httpclient/MethodRetryHandler.java
+SHA1-Digest: n3Mn8lNjjTo992si/yw+WWgpKfw=
+
+Name: org/apache/commons/httpclient/WireLogOutputStream.java
+SHA1-Digest: bgfwnnIu15vgo614/FbmVhbrDlI=
+
+Name: org/apache/commons/httpclient/auth/AuthState.java
+SHA1-Digest: 34Pl7UgImiUqOS42PxyPrXfWH0M=
+
+Name: org/apache/commons/httpclient/auth/AuthChallengeProcessor.java
+SHA1-Digest: xx+htzK3JytTSfYTpEtcI0LyJ1s=
+
+Name: org/apache/commons/httpclient/util/LangUtils.java
+SHA1-Digest: vopqu5EIz+xrb6aaW91xzVa/1wo=
+
+Name: org/apache/commons/httpclient/auth/package.html
+SHA1-Digest: cOGvtVcEARQJZHcb8/Cyc05rZVw=
+
+Name: org/apache/commons/httpclient/HttpMethodDirector.java
+SHA1-Digest: ZwGXmTBIaLk6w++CBQ8X7vObYC0=
+
+Name: org/apache/commons/httpclient/methods/multipart/Part.java
+SHA1-Digest: 0fFb5nP49Uudz2OgNft84t+yhWw=
+
+Name: org/apache/commons/httpclient/HttpHost.java
+SHA1-Digest: TPzsiqWBjxa99AJho2gLVlYAcRQ=
+
+Name: org/apache/commons/httpclient/URI.java
+SHA1-Digest: mPc4OnSn4KmyFy5FvxXB59gYcLM=
+
+Name: org/apache/commons/httpclient/WireLogInputStream.java
+SHA1-Digest: 37eqjifS+c2igoH8x3QLe4itm3Q=
+
+Name: org/apache/commons/httpclient/HttpURL.java
+SHA1-Digest: 20thk1Eax1r5EbdJlB6sc3dbx8Q=
+
+Name: org/apache/commons/httpclient/DefaultMethodRetryHandler.java
+SHA1-Digest: 3yauDvIyXxO1sd5eA6vfVJ3iHGA=
+
+Name: org/apache/commons/httpclient/auth/AuthScope.java
+SHA1-Digest: KsGms3Mak1u8pMbIkN0q9zuZL/0=
+
+Name: org/apache/commons/httpclient/auth/AuthPolicy.java
+SHA1-Digest: Gg4cWRICwyO44igZ4ZTmGMr5ZaE=
+
+Name: org/apache/commons/httpclient/auth/InvalidCredentialsException.j
+ ava
+SHA1-Digest: cfwdcmYeC6OhNdrpCpOKjou/FPM=
+
+Name: org/apache/commons/httpclient/cookie/Cookie2.java
+SHA1-Digest: rDN9DfqDIeQ8uZLmhLmxTP4lRVE=
+
+Name: org/apache/commons/httpclient/methods/multipart/ByteArrayPartSou
+ rce.java
+SHA1-Digest: Nhkdv0Hk/cZ0mSycX4wX8/n4xzM=
+
+Name: org/apache/commons/httpclient/methods/multipart/package.html
+SHA1-Digest: zYD9/o7pAMmAfFum24NfC3wbAqg=
+
+Name: org/apache/commons/httpclient/cookie/CookieSpecBase.java
+SHA1-Digest: GRaXUj6JjFE0uwSmJtZ33ueHgwU=
+
+Name: org/apache/commons/httpclient/HttpRecoverableException.java
+SHA1-Digest: YbuAuCcAg2aWSR89VKgonIPmTt0=
+
+Name: org/apache/commons/httpclient/ResponseConsumedWatcher.java
+SHA1-Digest: bU7w0uQdcmgHCAJseNsnGR9X314=
+
+Name: org/apache/commons/httpclient/auth/NTLMScheme.java
+SHA1-Digest: 5HmCveKUk90b1CXEw+cf3Ymj1es=
+
