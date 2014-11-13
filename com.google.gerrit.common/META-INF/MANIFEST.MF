@@ -1,0 +1,215 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %bundleProvider
+Eclipse-SourceBundle: com.google.gerrit.common;version="2.1.5.v2011122
+ 41444"
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: com.google.gerrit.common.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/com.google.gerrit.common/source-bundle;project="
+ com.google.gerrit.common.source";tag=v201112241444
+Bundle-Version: 2.1.5.v201112241444
+Bundle-ManifestVersion: 2
+
+Name: com/google/gerrit/common/data/ToggleStarRequest.java
+SHA1-Digest: uwe7Mdg3Fh5U/o1kMOzA5tJfdhA=
+
+Name: com/google/gerrit/common/data/ProjectInfo.java
+SHA1-Digest: HAAY6ArB+eRMSybO9rzfmSnMhC0=
+
+Name: com/google/gerrit/common/errors/NoSuchEntityException.java
+SHA1-Digest: S1aIo3q2nq73kXB4k2lfvhQurQY=
+
+Name: com/google/gerrit/common/data/AccountInfoCache.java
+SHA1-Digest: AG8c7reH68sJ439LehCsHmcjWSs=
+
+Name: com/google/gerrit/common/data/ApprovalSummary.java
+SHA1-Digest: W1QbxDN2Os0PfFMEPGTy0PbFMfc=
+
+Name: com/google/gerrit/common/auth/openid/DiscoveryResult.java
+SHA1-Digest: +rHiQ88gIRqHlnYJc3AR+THW9q0=
+
+Name: com/google/gerrit/common/data/ApprovalSummarySet.java
+SHA1-Digest: Hk1rAlGVoLQOgF/LbXUwjwaxDoc=
+
+Name: com/google/gerrit/common/errors/InvalidRevisionException.java
+SHA1-Digest: p29mENQvzQSn4nCyvTqDAgER8EA=
+
+Name: com/google/gerrit/common/data/ParamertizedString.java
+SHA1-Digest: aJw9+AUL9NM4ocBHD0acTqq9LM8=
+
+Name: com/google/gerrit/common/data/ApprovalTypes.java
+SHA1-Digest: SHxaa4bCbRgFXv0x+3JSaM4rmcc=
+
+Name: com/google/gerrit/common/data/SshHostKey.java
+SHA1-Digest: y+Hy5FvbkLgOmphS0U2lQ/2xRK4=
+
+Name: com/google/gerrit/common/data/AccountSecurity.java
+SHA1-Digest: yLpMmCi1VHUbYvyb+Kc2PW+l+qg=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: com/google/gerrit/common/data/PatchSetDetail.java
+SHA1-Digest: Lld7STMV3D9uJYE7ui+aYHwYvss=
+
+Name: com/google/gerrit/common/auth/openid/OpenIdService.java
+SHA1-Digest: QB3rWGE3PIKUoAk+h+T01iBkqCA=
+
+Name: com/google/gerrit/common/data/PatchSetPublishDetail.java
+SHA1-Digest: I3Vz8McMY2WHwRM1JupnTLx/RCI=
+
+Name: com/google/gerrit/common/PageLinks.java
+SHA1-Digest: oj6yCdU4ZAMNd1APb/ncjzb7sW4=
+
+Name: com/google/gerrit/common/errors/InvalidSshKeyException.java
+SHA1-Digest: KFJ23XcGkFfz/DaboIYcBKf1ZdU=
+
+Name: com/google/gerrit/common/data/GitWebType.java
+SHA1-Digest: NkC800d/+T2xvbGNcfJ2RgbkS8E=
+
+Name: com/google/gerrit/common/errors/ContactInformationStoreException
+ .java
+SHA1-Digest: S0pBPK468n3E8b7l/+HF1u/VmYc=
+
+Name: com/google/gerrit/common/data/ChangeDetailService.java
+SHA1-Digest: +CqIfy1PAUYNLFSPrUXFVY8ANi8=
+
+Name: com/google/gerrit/common/data/PatchScript.java
+SHA1-Digest: KRUvSVD4fNKsJBOoC+wpGh4wi/k=
+
+Name: com/google/gerrit/common/data/ApprovalDetail.java
+SHA1-Digest: kZ6QWfLI5NSifcWtFtXVXmirR/E=
+
+Name: com/google/gerrit/common/auth/openid/OpenIdUrls.java
+SHA1-Digest: OJgpEG88qULftXzrsBgE3XbK0iE=
+
+Name: com/google/gerrit/common/auth/openid/OpenIdProviderPattern.java
+SHA1-Digest: 2g4mzZmU+ASM7D8flQZijoxGPnc=
+
+Name: com/google/gerrit/common/data/CommentDetail.java
+SHA1-Digest: nz7Lkr1aXHpC+mQroZ3OeLVYaEU=
+
+Name: com/google/gerrit/common/data/SuggestService.java
+SHA1-Digest: QOd3HWG3PSGrEM3ESgwegkK4/JM=
+
+Name: com/google/gerrit/common/errors/InvalidNameException.java
+SHA1-Digest: lElUj8k7sDaLw8qatx0t2V1EaBA=
+
+Name: com/google/gerrit/common/data/ProjectDetail.java
+SHA1-Digest: iq4zqtkuEM3x0ONFUpwKb1bImF8=
+
+Name: com/google/gerrit/common/data/ListBranchesResult.java
+SHA1-Digest: 6giHTve1f/pgX1KXaf8IJYzmNOY=
+
+Name: com/google/gerrit/common/errors/NoSuchAccountException.java
+SHA1-Digest: EHjEP3dsKYh6Ppg/CQVFatGhJic=
+
+Name: com/google/gerrit/Common.gwt.xml
+SHA1-Digest: WSdNuUdbZZDqgg6SbLTJp63e5HU=
+
+Name: com/google/gerrit/common/data/ChangeListService.java
+SHA1-Digest: ybiDKed3xoMvXGh/MxjuLc8BK8w=
+
+Name: com/google/gerrit/common/auth/SignInMode.java
+SHA1-Digest: E22ODooGQbo679VcMIBtGewwKpI=
+
+Name: com/google/gerrit/common/errors/NameAlreadyUsedException.java
+SHA1-Digest: VvCEqNNxFoXs2QhBYHDs50C5+sk=
+
+Name: com/google/gerrit/common/data/SingleListChangeInfo.java
+SHA1-Digest: mDZPp+IBAR3GOBURxoLMtn+KzZk=
+
+Name: plugin.properties
+SHA1-Digest: ZHa9eiogCz8hl4jG6HKKExiV9Yc=
+
+Name: com/google/gerrit/common/auth/SignInRequired.java
+SHA1-Digest: iKZPGXdWMxtX7+TW5yIO2ia67d8=
+
+Name: com/google/gerrit/common/data/ChangeManageService.java
+SHA1-Digest: In2fK/C2om8JYz/+9pXmpdkPOaI=
+
+Name: com/google/gerrit/common/data/ProjectAdminService.java
+SHA1-Digest: wL/YAxQFS5Ki5Ng7Z1R6oRa3Qvs=
+
+Name: com/google/gerrit/common/auth/userpass/UserPassAuthService.java
+SHA1-Digest: ChbbyQ6ioQfHzhTzT1eoXXCSEuk=
+
+Name: com/google/gerrit/common/data/GitwebLink.java
+SHA1-Digest: 6kMLk69XFUBJYBIXYSMTSD9fWdA=
+
+Name: com/google/gerrit/common/data/SystemInfoService.java
+SHA1-Digest: v74aJMt83Vu4gHGDS6TsWQpfm1o=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: K4uBUimqimHkg/tLoFiLi2xJGJA=
+
+Name: com/google/gerrit/common/data/AccountDashboardInfo.java
+SHA1-Digest: ONGr0jPHtRCRJONgGBLIp5IR4aQ=
+
+Name: com/google/gerrit/common/auth/userpass/LoginResult.java
+SHA1-Digest: WEaJbMAANNxx0/i2BIYQEqjDSpU=
+
+Name: com/google/gerrit/common/data/AccountProjectWatchInfo.java
+SHA1-Digest: I26jRpdl+M2aBwWz1rJ7nA1LtM4=
+
+Name: com/google/gerrit/common/data/GroupDetail.java
+SHA1-Digest: LQTOIuRV6SjrkxZdMRA4oX3w3lM=
+
+Name: com/google/gerrit/common/data/GerritConfig.java
+SHA1-Digest: tOVEBY5Coit1FvBEa/Ur0HTNJeU=
+
+Name: com/google/gerrit/common/data/AccountService.java
+SHA1-Digest: WzomXu8trXpDLI+AHfHVaOXCKHY=
+
+Name: com/google/gerrit/common/ClientVersion.java
+SHA1-Digest: MZtAMAFcLL9qGi7YutUAmBhGb6s=
+
+Name: com/google/gerrit/common/data/GroupAdminService.java
+SHA1-Digest: Ikq6qfxVsfNQanhiZVzocXx9JU0=
+
+Name: about.html
+SHA1-Digest: /ruzR+uiZiaoWurIuEAJbFd/cuI=
+
+Name: com/google/gerrit/common/data/InheritedRefRight.java
+SHA1-Digest: HUvQ9EDijcUvUo1XKUPRSRp2nug=
+
+Name: com/google/gerrit/common/data/ReviewerResult.java
+SHA1-Digest: a+1gte2rWE0ojfiwexOiFpEvrc8=
+
+Name: com/google/gerrit/common/errors/InvalidUserNameException.java
+SHA1-Digest: 6DvIUhKmXxz28BnDC0Q46dJLTac=
+
+Name: com/google/gerrit/common/errors/InvalidQueryException.java
+SHA1-Digest: VDenlnPEwvba4MhzQvuRhqlKMFk=
+
+Name: com/google/gerrit/common/data/ChangeDetail.java
+SHA1-Digest: F7gMscd00T6Unx7Pq7mcDLQbZ5E=
+
+Name: com/google/gerrit/common/data/HostPageData.java
+SHA1-Digest: 8PSUZFnX2zuIRhSQUehpkIK0sN4=
+
+Name: com/google/gerrit/common/errors/CorruptEntityException.java
+SHA1-Digest: lz3M4GHwtqbsJmHful8Dxfvo19s=
+
+Name: com/google/gerrit/common/data/ChangeInfo.java
+SHA1-Digest: 6jBEzHSt1Ub0DN+9vm27i8ZGkyE=
+
+Name: com/google/gerrit/common/data/ApprovalType.java
+SHA1-Digest: H/Si7QRsO6unmFRlPDy+HDGWUUQ=
+
+Name: com/google/gerrit/common/data/AccountInfo.java
+SHA1-Digest: CAZAdqtpRBRKKoT2FqwYaN7bZKc=
+
+Name: com/google/gerrit/common/data/PatchDetailService.java
+SHA1-Digest: L+SNaRxw2lxlUEyzKGNJ7A6sTgo=
+
+Name: com/google/gerrit/common/errors/NotSignedInException.java
+SHA1-Digest: cqahnXSFBWTgQLS9lao1CZ/vnkM=
+
+Name: com/google/gerrit/common/data/AgreementInfo.java
+SHA1-Digest: 3ML2Vr1IDsfQfatNCCAxv/+5zy4=
+
+Name: com/google/gerrit/common/data/IncludedInDetail.java
+SHA1-Digest: e589CS0w2jp/0r8fQDvmfBuuSgs=
+
