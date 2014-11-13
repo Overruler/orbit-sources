@@ -1,0 +1,232 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %bundleProvider
+Eclipse-SourceBundle: com.google.gerrit.reviewdb;version="2.1.5.v20111
+ 2241444"
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: com.google.gerrit.reviewdb.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/com.google.gerrit.reviewdb/source-bundle;project
+ ="com.google.gerrit.reviewdb.source";tag=v201112241444
+Bundle-Version: 2.1.5.v201112241444
+Bundle-ManifestVersion: 2
+
+Name: com/google/gerrit/reviewdb/SystemConfigAccess.java
+SHA1-Digest: 4tx62M1YqyRMvJCJuyDVyJIORZg=
+
+Name: com/google/gerrit/reviewdb/ChangeAccess.java
+SHA1-Digest: Fd88pG+1cuUaP/PWwqwvlUXR3rc=
+
+Name: com/google/gerrit/reviewdb/AccountPatchReview.java
+SHA1-Digest: j0KRZj7UTFH0N/xeDDSc1wg0reI=
+
+Name: com/google/gerrit/reviewdb/TrackingId.java
+SHA1-Digest: k9LL1NVQw6HWWQE850xBD13RoHI=
+
+Name: com/google/gerrit/reviewdb/AbstractAgreement.java
+SHA1-Digest: CxPV2JYF7TtwYqy18NIbvMv6DTk=
+
+Name: com/google/gerrit/reviewdb/AccountSshKeyAccess.java
+SHA1-Digest: LhSYcC+5AleusptmtOvLyPEl8qQ=
+
+Name: com/google/gerrit/reviewdb/SystemConfig.java
+SHA1-Digest: 62bnok/9ofvUrMPptJdyqG2rKaI=
+
+Name: com/google/gerrit/reviewdb/RefRightAccess.java
+SHA1-Digest: tryQFkl0aLLN8YwiggIppUf+0QQ=
+
+Name: com/google/gerrit/reviewdb/ContactInformation.java
+SHA1-Digest: YUA5lxvnpQTbpkaJLmXWfLRjSbg=
+
+Name: com/google/gerrit/reviewdb/RefRight.java
+SHA1-Digest: 5Xcu+zzqhMtdmdA9JLLrtu3zVig=
+
+Name: com/google/gerrit/reviewdb/Branch.java
+SHA1-Digest: NA+mArw9WwjFGf9cndOOUue6B/4=
+
+Name: com/google/gerrit/reviewdb/AccountExternalIdAccess.java
+SHA1-Digest: K2/IayVb6ezgGXtfZBb75Nti3O0=
+
+Name: com/google/gerrit/reviewdb/mysql_nextval.sql
+SHA1-Digest: i1LuHLPCBcT7WgCk1CLHBrXqeYM=
+
+Name: com/google/gerrit/reviewdb/AccountExternalId.java
+SHA1-Digest: zF5Jj5D0RReX2YRKOagkfESuZb0=
+
+Name: com/google/gerrit/reviewdb/ContributorAgreementAccess.java
+SHA1-Digest: +c6V0r+g8SUG50MYpITktW81b2w=
+
+Name: com/google/gerrit/reviewdb/AccountGroup.java
+SHA1-Digest: JIUbhq4UzgRjaPtBRxv/RtAULB8=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: com/google/gerrit/reviewdb/AccountProjectWatchAccess.java
+SHA1-Digest: gcAtpIlnS/uUFdhH66i21mK/6u8=
+
+Name: com/google/gerrit/reviewdb/AccountGroupMemberAccess.java
+SHA1-Digest: 1hgcHLNHOLL4rw602CkM6t0ZUMo=
+
+Name: com/google/gerrit/reviewdb/ContributorAgreement.java
+SHA1-Digest: sVvXNKgLOcRLaAV1Tmxuw3hPFm4=
+
+Name: com/google/gerrit/reviewdb/AccountProjectWatch.java
+SHA1-Digest: 7dci4bmmZf9hPbEnWVvT2r93HAM=
+
+Name: com/google/gerrit/reviewdb/UserIdentity.java
+SHA1-Digest: RDQr2hK+pdOQgOGc42QJcFgt8OY=
+
+Name: com/google/gerrit/reviewdb/RevId.java
+SHA1-Digest: vGV/5fbNzBbfnu7UpjH1KC+nO0U=
+
+Name: com/google/gerrit/reviewdb/AccountGeneralPreferences.java
+SHA1-Digest: YkMF3YjnV6QpZlHE6v+wIubWNs8=
+
+Name: com/google/gerrit/reviewdb/PatchLineCommentAccess.java
+SHA1-Digest: Yx4KY0wU6KkV/d6ppI0qtg+X0BU=
+
+Name: com/google/gerrit/reviewdb/ChangeMessageAccess.java
+SHA1-Digest: VKXRtiZT4wnaS4YSFZRPMF7YR+A=
+
+Name: com/google/gerrit/reviewdb/PatchLineComment.java
+SHA1-Digest: KG97pk7HldNhWy3+/fb1AYfIERU=
+
+Name: com/google/gerrit/reviewdb/AccountGroupAgreement.java
+SHA1-Digest: Q1X3TbXVQLFByZEvrlR07GNOqiM=
+
+Name: com/google/gerrit/ReviewDB.gwt.xml
+SHA1-Digest: HpOLbenwX8hA+MG9O4/eVG8DCVg=
+
+Name: com/google/gerrit/reviewdb/ChangeMessage.java
+SHA1-Digest: J4vOvQ/oI/PSMkU2oA3HVq97W38=
+
+Name: com/google/gerrit/reviewdb/PatchSetAccess.java
+SHA1-Digest: /qEj9u9pwenCUf/QTMy0+TwMXzw=
+
+Name: com/google/gerrit/reviewdb/ApprovalCategoryValueAccess.java
+SHA1-Digest: pcbO/Q/bntsc+MABRcCJlJDneUo=
+
+Name: com/google/gerrit/reviewdb/AccountAccess.java
+SHA1-Digest: wUz7nCVBi5GjFlJ0ePod3FanTf4=
+
+Name: com/google/gerrit/reviewdb/Account.java
+SHA1-Digest: L6eJyoJtLmlkbcmXnt28Wa1f/Ak=
+
+Name: com/google/gerrit/reviewdb/TrackingIdAccess.java
+SHA1-Digest: aXhKNvg98DKiShkXyWzz/ldjlPM=
+
+Name: com/google/gerrit/reviewdb/index_postgres.sql
+SHA1-Digest: tdXDuZe3X7osAhacpxk3OR5EN4M=
+
+Name: com/google/gerrit/reviewdb/Patch.java
+SHA1-Digest: T9EuQrzjfw/GnGLizfTJpEL4Uwg=
+
+Name: com/google/gerrit/reviewdb/Change.java
+SHA1-Digest: B42xA81GwAiszJoIu7DsoFy/9hU=
+
+Name: com/google/gerrit/reviewdb/AccountSshKey.java
+SHA1-Digest: /JBVAAAtDI4WcEOtL5ZgJbLlA9s=
+
+Name: plugin.properties
+SHA1-Digest: w7QmVllXAyXSB2lLrKOMyurJQhc=
+
+Name: com/google/gerrit/reviewdb/ProjectAccess.java
+SHA1-Digest: gOtlnLnZ2xMMx+zIpqOPS2fD+pI=
+
+Name: com/google/gerrit/reviewdb/index_generic.sql
+SHA1-Digest: d5O52T5DBP0zss4xoiaBQp9RJ2s=
+
+Name: com/google/gerrit/reviewdb/Project.java
+SHA1-Digest: pBMkKmpxKrHAn2sTqJf/XdGMtWE=
+
+Name: com/google/gerrit/reviewdb/CodedEnum.java
+SHA1-Digest: 6HBqyEcRTWxx4BBaZq9Zh5oyRms=
+
+Name: com/google/gerrit/reviewdb/AccountGroupNameAccess.java
+SHA1-Digest: alIIlDg4YtHud9zBlFcV5UOy3zI=
+
+Name: com/google/gerrit/reviewdb/StarredChangeAccess.java
+SHA1-Digest: rqR25XrrVMm+4JyzVbS3h9xq+o4=
+
+Name: com/google/gerrit/reviewdb/AccountGroupName.java
+SHA1-Digest: JCNWkVRCnKWJ72Wgkxtsd9DWWAs=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: K4uBUimqimHkg/tLoFiLi2xJGJA=
+
+Name: com/google/gerrit/reviewdb/AccountDiffPreferenceAccess.java
+SHA1-Digest: 9SQJubpNw4jiGUbWCx+xKf+6kAY=
+
+Name: com/google/gerrit/reviewdb/StarredChange.java
+SHA1-Digest: wMMDKJ1N7oiS6PjSpzOAzwwDUeM=
+
+Name: com/google/gerrit/reviewdb/AccountDiffPreference.java
+SHA1-Digest: AzAMTk1gEt/vmaqxSh95m0tvB8I=
+
+Name: com/google/gerrit/reviewdb/AccountGroupAccess.java
+SHA1-Digest: zRIpzayv0ddHW5TqS5jEBRiG1So=
+
+Name: com/google/gerrit/reviewdb/PatchSetAncestorAccess.java
+SHA1-Digest: nlHTkH/EVNgSD4eVOIHkmgA/qgI=
+
+Name: com/google/gerrit/reviewdb/PatchSetAncestor.java
+SHA1-Digest: 5g/n8TGsp4tPbm657l1G7iX5oWc=
+
+Name: com/google/gerrit/reviewdb/AccountGroupMember.java
+SHA1-Digest: jL5JzthO/7akr9W68fQ6Ae+7kt4=
+
+Name: about.html
+SHA1-Digest: UnqIDM0Ao19Al8YwKwP2VRPFqU4=
+
+Name: com/google/gerrit/reviewdb/PatchSetInfo.java
+SHA1-Digest: Qo8PS4KlgTWQKwmw+P6GcB5xGnk=
+
+Name: com/google/gerrit/reviewdb/AccountGroupAgreementAccess.java
+SHA1-Digest: amnlzQ4C1A2VoWaMRNrNMG/LYf4=
+
+Name: com/google/gerrit/reviewdb/SchemaVersionAccess.java
+SHA1-Digest: mFiTTDlVmwesn4QB36gZe4Oi25U=
+
+Name: com/google/gerrit/reviewdb/ApprovalCategoryAccess.java
+SHA1-Digest: BFBBM2RH3VCUW/qKwjPevK4SR1Y=
+
+Name: com/google/gerrit/reviewdb/AuthType.java
+SHA1-Digest: t8yDJ0MScLZPpQpriuTv9wWyr64=
+
+Name: com/google/gerrit/reviewdb/PatchSetApprovalAccess.java
+SHA1-Digest: ZPnNtlUc7Q3FVTZZq24DUU5oE0g=
+
+Name: com/google/gerrit/reviewdb/AccountAgreementAccess.java
+SHA1-Digest: HoInV+ZGR0msJy4GVVVMDJeg9zw=
+
+Name: com/google/gerrit/reviewdb/ApprovalCategory.java
+SHA1-Digest: iH19+ORBx00ICgsF6NT+F3Z1VEo=
+
+Name: com/google/gerrit/reviewdb/CurrentSchemaVersion.java
+SHA1-Digest: 6XyGrVhgBBVCuEdNEW/brjIYNHM=
+
+Name: com/google/gerrit/reviewdb/PatchSetApproval.java
+SHA1-Digest: foGEo1nSa12BUDMaB3B6/EnXzMM=
+
+Name: com/google/gerrit/reviewdb/AccountGroupMemberAuditAccess.java
+SHA1-Digest: oFEx4IQfp6o3zvbKL5/uIXTD4hc=
+
+Name: com/google/gerrit/reviewdb/AccountAgreement.java
+SHA1-Digest: pG5XGAE6YNCInOX8zv6Err2//9s=
+
+Name: com/google/gerrit/reviewdb/ApprovalCategoryValue.java
+SHA1-Digest: uVlxWMBmYJcVyyc30endDNkxGTM=
+
+Name: com/google/gerrit/reviewdb/PatchSet.java
+SHA1-Digest: buLSVcueLrpDZbL7eMYq8wFNsu8=
+
+Name: com/google/gerrit/reviewdb/AccountGroupMemberAudit.java
+SHA1-Digest: 9BwXQUWdXiT3BMPls3zOGWcEaYY=
+
+Name: com/google/gerrit/reviewdb/AccountPatchReviewAccess.java
+SHA1-Digest: pZhefsQxKcRJjD92zQlV7NuL8dU=
+
+Name: com/google/gerrit/reviewdb/ReviewDb.java
+SHA1-Digest: 2rwFQfYw97wVKoDgUxtkJ1FegNU=
+
