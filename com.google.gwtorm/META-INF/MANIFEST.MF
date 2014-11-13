@@ -1,0 +1,246 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %bundleProvider
+Eclipse-SourceBundle: com.google.gwtorm;version="1.1.4.v201112241444"
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: com.google.gwtorm.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/com.google.gwtorm/source-bundle;project="com.goo
+ gle.gwtorm.source";tag=v201112241444
+Bundle-Version: 1.1.4.v201112241444
+Bundle-ManifestVersion: 2
+
+Name: com/google/gwtorm/schema/Util.java
+SHA1-Digest: gPJerrLK0dRlxACqgYXIW8NuS+M=
+
+Name: com/google/gwtorm/client/StringKey.java
+SHA1-Digest: FTrk3jT55Z/x84fzsrVBEMe7OkU=
+
+Name: com/google/gwtorm/jdbc/SimpleDataSource.java
+SHA1-Digest: FyujHQ6jK297lU17d9PQWfsNOVA=
+
+Name: com/google/gwtorm/client/OrmException.java
+SHA1-Digest: ILmiYBadyuC/YWEELgq8877/C9Q=
+
+Name: com/google/gwtorm/schema/java/JavaSchemaModel.java
+SHA1-Digest: k1/fmuU/iYgUcgYjXLLBTGbDPjA=
+
+Name: com/google/gwtorm/client/ShortKey.java
+SHA1-Digest: E8S5/74Uno/ruBuS31NXCJ/8FRE=
+
+Name: com/google/gwtorm/server/StandardKeyEncoder.java
+SHA1-Digest: RFvry+gQYozUypxVv/Owssh3Nzw=
+
+Name: com/google/gwtorm/client/Query.java
+SHA1-Digest: XLIj4ZfzxG1zLqdLZqs5cVU+BfY=
+
+Name: com/google/gwtorm/schema/sql/SqlShortTypeInfo.java
+SHA1-Digest: czO5fdiAeAXM85WxOVmbAXEpWKo=
+
+Name: com/google/gwtorm/schema/sql/DialectH2.java
+SHA1-Digest: bVyCxDo1D70fpzX4Hf23getsOKg=
+
+Name: com/google/gwtorm/schema/Query__.g
+SHA1-Digest: REdh7a/NT7r+M/9IB902Lzk8PSk=
+
+Name: com/google/gwtorm/client/Key.java
+SHA1-Digest: 9KcDDzhNGJozyML5/JMswdjVQhM=
+
+Name: com/google/gwtorm/client/impl/ListResultSet.java
+SHA1-Digest: 2UjO7Tt2V22hI1nhtWmOYSrWy9g=
+
+Name: com/google/gwtorm/client/Column.java
+SHA1-Digest: YIBEGerXOZicVvBHRZi9jyfyuDY=
+
+Name: com/google/gwtorm/client/AtomicUpdate.java
+SHA1-Digest: 4qJWRLoTkA6k49mLlDWBxgvv69A=
+
+Name: com/google/gwtorm/jdbc/AbstractSchemaFactory.java
+SHA1-Digest: xNNxWwZ3Lm+jCDG5k/7T+ARTyxg=
+
+Name: com/google/gwtorm/jdbc/JdbcTransaction.java
+SHA1-Digest: lxdxnXluCJIzL+2z6kprJEaWDvo=
+
+Name: com/google/gwtorm/jdbc/JdbcSchema.java
+SHA1-Digest: Idw2Y45TF6SrvoFbYsW/MNOOSWY=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: com/google/gwtorm/schema/java/JavaRelationModel.java
+SHA1-Digest: 1QX61KEe/BBn1u3XBoRpUgBMpnc=
+
+Name: com/google/gwtorm/client/Schema.java
+SHA1-Digest: 2ieqOP8BAUwiq7z3BUYsxLJRsh0=
+
+Name: com/google/gwtorm/schema/Query.tokens
+SHA1-Digest: troVu0Ke0Kkp5y/FE7JadoEsnbU=
+
+Name: com/google/gwtorm/jdbc/JdbcExecutor.java
+SHA1-Digest: hO4LGUow68OSoLGGucG9Ku9paN4=
+
+Name: com/google/gwtorm/client/LongKey.java
+SHA1-Digest: JRSdyOcjM8FZR2X2RwMJ/WMuFgs=
+
+Name: com/google/gwtorm/client/StatementExecutor.java
+SHA1-Digest: PRZiEfeBwt0dwvDkggqG5xz2LR0=
+
+Name: com/google/gwtorm/schema/sql/SqlTimestampTypeInfo.java
+SHA1-Digest: 78DVCaVM9xwawRLUoTPGCeO1mSY=
+
+Name: com/google/gwtorm/schema/sql/SqlCharTypeInfo.java
+SHA1-Digest: nAeeCqc9j1IA9CYLL5pfxYFX07E=
+
+Name: com/google/gwtorm/client/KeyUtil.java
+SHA1-Digest: vojJxVNVl21KiW+s9gHe7IPa42w=
+
+Name: com/google/gwtorm/jdbc/gen/CodeGenSupport.java
+SHA1-Digest: 0ep6xjR4rl/r/Rxz6+WA4GrbS9s=
+
+Name: com/google/gwtorm/jdbc/gen/AccessGen.java
+SHA1-Digest: +mEbATWNzK8hOS0RT9TIlEQVkc4=
+
+Name: com/google/gwtorm/schema/QueryParseException.java
+SHA1-Digest: /fk2VGPOhVsjC2wLZ/+eW9keI1s=
+
+Name: com/google/gwtorm/client/IntKey.java
+SHA1-Digest: NQVDeW8t8b6LKZW5XLWD5izALAc=
+
+Name: com/google/gwtorm/jdbc/JdbcAccess.java
+SHA1-Digest: jUUrKWL/6FHgjrsswOt+VCsrdWg=
+
+Name: com/google/gwtorm/jdbc/Database.java
+SHA1-Digest: lUzJDgTtvGm16U/YyONidD9BJys=
+
+Name: com/google/gwtorm/jdbc/gen/GeneratedClassLoader.java
+SHA1-Digest: HyOoey2680bu1zsXGjqiac7Lf9Y=
+
+Name: com/google/gwtorm/schema/sql/DialectMySQL.java
+SHA1-Digest: TIKVf15TjskE62KQh+inbKBdD3w=
+
+Name: com/google/gwtorm/client/Access.java
+SHA1-Digest: hQatheu0RDiUV343XADP6rDPs10=
+
+Name: com/google/gwtorm/schema/sql/SqlDialect.java
+SHA1-Digest: RfGLcdzxkO/DYUfarOSHnANZvEQ=
+
+Name: com/google/gwtorm/client/SchemaFactory.java
+SHA1-Digest: XB7GdrZTyLMygkYpTjq+49exnMk=
+
+Name: com/google/gwtorm/schema/sql/SqlLongTypeInfo.java
+SHA1-Digest: JywN0eWrrho7ISD+L0NkeBR6M9Y=
+
+Name: com/google/gwtorm/client/Sequence.java
+SHA1-Digest: G/aNZ+3jIzuO1C8zEpNMay6NjTA=
+
+Name: com/google/gwtorm/client/OrmRunnable.java
+SHA1-Digest: 8vA+1LVUjwqGhb5wgG+R3QQq0uw=
+
+Name: com/google/gwtorm/client/OrmConcurrencyException.java
+SHA1-Digest: 6rRKo+ilgioMoBCTs2JfIOPX1uk=
+
+Name: plugin.properties
+SHA1-Digest: PFm7qU7sWhmqH/CpfmXlThuFJA4=
+
+Name: com/google/gwtorm/client/RowVersion.java
+SHA1-Digest: nRrlxl6A9NiYtN38jSZI62YRTZU=
+
+Name: com/google/gwtorm/schema/RelationModel.java
+SHA1-Digest: 5xBNW4g7VSHdy3CQUhiFa6XMYPo=
+
+Name: com/google/gwtorm/client/PrimaryKey.java
+SHA1-Digest: 9jSRU9aSyegRrfynLyGH/Nt00Ms=
+
+Name: com/google/gwtorm/protobuf/CodecGen.java
+SHA1-Digest: 2Zv3qnDcaz3YSFLw4OOsv5kIpR0=
+
+Name: com/google/gwtorm/schema/SequenceModel.java
+SHA1-Digest: rhjLoVO4cK2wkRFbt1xueuLfrG0=
+
+Name: com/google/gwtorm/schema/QueryParser.java
+SHA1-Digest: Pgp5i0FFdTmJ0y6Ga0tVkxy1RCw=
+
+Name: com/google/gwtorm/schema/QueryParseInternalException.java
+SHA1-Digest: S97ciDAmuoGMQ7kFuK9v6/JFwn0=
+
+Name: com/google/gwtorm/schema/sql/SqlStringTypeInfo.java
+SHA1-Digest: VNVe292G/25dlTOQaq9gLSBjx74=
+
+Name: com/google/gwtorm/jdbc/gen/SchemaFactoryGen.java
+SHA1-Digest: Orn3Q8cKTZd+L2ti52ZoGZB00Ss=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: K4uBUimqimHkg/tLoFiLi2xJGJA=
+
+Name: com/google/gwtorm/protobuf/CodecFactory.java
+SHA1-Digest: tuwpTuL/n9ATq7Sk1BosKI8pqpc=
+
+Name: com/google/gwtorm/schema/sql/SqlDateTypeInfo.java
+SHA1-Digest: uMN8Eli3x6zMSsmvTMkT9l3JUHw=
+
+Name: com/google/gwtorm/schema/QueryLexer.java
+SHA1-Digest: 7VKHUZ7lMNI8Ob6MpKVt7199Cr4=
+
+Name: com/google/gwtorm/client/CompoundKey.java
+SHA1-Digest: lNGtb306OXzyyKZ6A04Q0ykdc9g=
+
+Name: com/google/gwtorm/schema/sql/SqlBooleanTypeInfo.java
+SHA1-Digest: lsZbw6+yJovPDqFYD4OrHnWhWIc=
+
+Name: com/google/gwtorm/client/impl/AbstractTransaction.java
+SHA1-Digest: NtfYCKYY4SprS4eEy7bSDj9iuSE=
+
+Name: com/google/gwtorm/schema/QueryModel.java
+SHA1-Digest: i2veh7BFjrsCvombKXM3fDuPx3w=
+
+Name: com/google/gwtorm/schema/sql/DialectPostgreSQL.java
+SHA1-Digest: vBxWN6VVKkfYZwvKfUeee+9CHkk=
+
+Name: com/google/gwtorm/GWTORM.gwt.xml
+SHA1-Digest: GqfIVS8udUWW481SyMKIsLIR90I=
+
+Name: com/google/gwtorm/schema/sql/SqlTypeInfo.java
+SHA1-Digest: mbuJs+HzhfuzeDTrW4JbmXXY9dw=
+
+Name: com/google/gwtorm/protobuf/ProtobufCodec.java
+SHA1-Digest: zaLL5a3mzXngEWD9EnKcfG/N7Lo=
+
+Name: com/google/gwtorm/schema/ColumnModel.java
+SHA1-Digest: Hgw1RiApvnzdaRwz+bI9bg28s4U=
+
+Name: about.html
+SHA1-Digest: JgnZ4HpmO5ZicMaZf/03h83u468=
+
+Name: com/google/gwtorm/client/ResultSet.java
+SHA1-Digest: wFgGDeUM6J1kbXnZusCJ8FigNec=
+
+Name: com/google/gwtorm/client/Relation.java
+SHA1-Digest: t//HTq7WIR39B3TiVvfUq/X9dKM=
+
+Name: com/google/gwtorm/jdbc/gen/SchemaGen.java
+SHA1-Digest: rV1qohSGYg28tYUrFqaiQ2WRh3I=
+
+Name: com/google/gwtorm/schema/SchemaModel.java
+SHA1-Digest: Bh1UUFjeC09qTO+kxeq0ONWA7q4=
+
+Name: com/google/gwtorm/client/Transaction.java
+SHA1-Digest: glNxTV0zrcPYdixAoe5N3La5jG8=
+
+Name: com/google/gwtorm/schema/sql/SqlByteArrayTypeInfo.java
+SHA1-Digest: kaNS2rjI8S2iuC5jMHNzXj79nlk=
+
+Name: com/google/gwtorm/schema/sql/SqlIntTypeInfo.java
+SHA1-Digest: 8gNmm+lg8LRnrckqQIt0DJEd14Q=
+
+Name: com/google/gwtorm/schema/KeyModel.java
+SHA1-Digest: 59aFoQNfwoexgvs1BP9Y9pAcz5E=
+
+Name: com/google/gwtorm/client/OrmDuplicateKeyException.java
+SHA1-Digest: ij5OIKNdpfa5plAM+BH+2A0kec4=
+
+Name: com/google/gwtorm/client/impl/AbstractAccess.java
+SHA1-Digest: McZxibVDvvG+rjUT835O72uNeNk=
+
+Name: com/google/gwtorm/schema/java/JavaColumnModel.java
+SHA1-Digest: wF+Q19c2DNXhQ9cLZiakba4ous0=
+
